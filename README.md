@@ -48,6 +48,7 @@ align="center" >
 
 ## Profile Stats 📈:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laansdole&show_icons=true&locale=en&layout=donut&theme=synthwave" alt="laansdole" /></p>
+<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=laansdole&show_icons=true&locale=en&layout=donut&theme=synthwave" alt="laansdole" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
+
