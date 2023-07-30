@@ -61,8 +61,8 @@ align="center" >
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 
-## Daily Dev Joke
+## 🤖 Daily Dev Joke 
 
 
-**What's the second movie about a database engineer called?**
-*The SQL.*
+**What did the computer do at lunchtime?**
+*Had a byte.*
