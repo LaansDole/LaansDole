@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LaansDole/LaansDole/issues"
   },
-  "homepage": "https://github.com/LaansDole/LaansDole#readme"
+  "homepage": "https://github.com/LaansDole/LaansDole#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
 }
