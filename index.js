@@ -70,7 +70,7 @@ align="center" >
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 
-## Daily Dev Joke
+## 🤖 Daily Dev Joke 
 `
     text += "\n\n**" + question + "**"
     text += "\n*" + punchline + "*"
