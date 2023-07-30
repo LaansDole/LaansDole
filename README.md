@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-** <h4>Why did the developer go broke?</h4>**
-* <h4>Because they used up all their cache.</h4>*
+**What did the developer say to their friend who was having a bad day?</h4>**
+*Everything's going to be 200.*
