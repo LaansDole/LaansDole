@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the computer do at lunchtime?**
-*Had a byte.*
+** <h4>Why did the developer go broke?</h4>**
+* <h4>Because they used up all their cache.</h4>*
