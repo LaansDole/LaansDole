@@ -4,4 +4,15 @@
 - Fetches a joke from an API everyday and edits this README
 
 **Why don't parents teach their kids about regular expressions?**
+*Because they don't want them playing with matches.<div id="daily-joke">
+# Daily Dev Joke
+
+
+
+**How do you know your baby is going to be a developer when they grow up?**
+*Their first word is Hello World.*</div>ily Dev Joke
+
+- Fetches a joke from an API everyday and edits this README
+
+**Why don't parents teach their kids about regular expressions?**
 *Because they don't want them playing with matches.*
