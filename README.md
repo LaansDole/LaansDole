@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the developer say to their friend who was having a bad day?</h4>**
-*Everything's going to be 200.*
+**Why are machine learning models so fit?</h4>**
+*Because they do weight training.*
