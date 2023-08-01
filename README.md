@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why are machine learning models so fit?</h4>**
-*Because they do weight training.*
+**There are 10 types of people in this world, those who understand binary and those who don't.</h4>**
+*:)*
