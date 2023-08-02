@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**There are 10 types of people in this world, those who understand binary and those who don't.</h4>**
-*:)*
+**Waitress: Do you have any questions about the menu?</h4>**
+*Dev: What kind of font it is?*
