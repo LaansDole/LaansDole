@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Waitress: Do you have any questions about the menu?</h4>**
-*Dev: What kind of font it is?*
+**What are your plans for the weekend?</h4>**
+*I know Front-end and Back-end, what is week-end?*
