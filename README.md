@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What are your plans for the weekend?</h4>**
-*I know Front-end and Back-end, what is week-end?*
+**How did your dog eat your coding assignment?</h4>**
+*It took him a couple bytes.*
