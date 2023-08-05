@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How did your dog eat your coding assignment?</h4>**
-*It took him a couple bytes.*
+**Which programming language is the shortest?</h4>**
+*HTML, because it doesn't have a neck between head and body.*
