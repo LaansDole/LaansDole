@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Which programming language is the shortest?</h4>**
-*HTML, because it doesn't have a neck between head and body.*
+**Why did the computer keep sneezing?</h4>**
+*It has a virus.*
