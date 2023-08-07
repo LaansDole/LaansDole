@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why did the computer keep sneezing?</h4>**
-*It has a virus.*
+**Why do developers use mechanical keyboards?</h4>**
+*To strongly type their code.*
