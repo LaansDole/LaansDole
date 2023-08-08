@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do developers use mechanical keyboards?</h4>**
-*To strongly type their code.*
+**What did the Class say in court when put on trial?</h4>**
+*I strongly object!*
