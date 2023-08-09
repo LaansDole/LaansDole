@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What does a baby computer call his father?</h4>**
-*Data*
+**What did the proud React component say to its child?</h4>**
+*I've got to give you props.*
