@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the proud React component say to its child?</h4>**
-*I've got to give you props.*
+**What did the fruit basket say to the developer?</h4>**
+*I hope you're ready for some pear programming.*
