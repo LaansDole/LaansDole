@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the fruit basket say to the developer?</h4>**
-*I hope you're ready for some pear programming.*
+**Which programming language is the shortest?</h4>**
+*HTML, because it doesn't have a neck between head and body.*
