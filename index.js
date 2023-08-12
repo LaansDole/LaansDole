@@ -19,6 +19,7 @@ align="center" >
     <a href="https://www.facebook.com/laansdole/">
         <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
+    <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laansdole&label=Profile%20views&color=0e75b6&style=flat" alt="laansdole" /> </p>
@@ -64,15 +65,9 @@ align="center" >
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Profile Stats 📈:
-
-<p><img align="center" src="https://readmestats.999857.xyz/api/top-langs?username=laansdole&show_icons=true&locale=en&layout=donut&theme=synthwave" alt="laansdole" /></p>
-
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
-
 ## 🤖 Daily Dev Joke 
 `
-    text += "\n\n**" + question + "</h4>**"
+    text += "\n\n**" + question + "</h3>**"
     text += "\n*" + punchline + "*"
 
    fs.writeFile('README.md', text, 'utf-8', function(err, data) {
