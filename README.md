@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How does a programmer open a jar?</h3>**
-*They install Java.*
+**What did the proud React component say to its child?</h3>**
+*I've got to give you props.*
