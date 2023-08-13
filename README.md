@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the proud React component say to its child?</h3>**
-*I've got to give you props.*
+**What did the computer do at lunchtime?</h3>**
+*Had a byte.*
