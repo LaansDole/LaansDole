@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the computer do at lunchtime?</h3>**
-*Had a byte.*
+**Why do programmers prefer dark mode?</h3>**
+*Because light attracts bugs.*
