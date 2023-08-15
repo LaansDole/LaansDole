@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do programmers prefer dark mode?</h3>**
-*Because light attracts bugs.*
+**Why did the constant break up with the variable?</h3>**
+*Because they changed.*
