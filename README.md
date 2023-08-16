@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why did the constant break up with the variable?</h3>**
-*Because they changed.*
+**0 is false and 1 is true right?</h3>**
+*1*
