@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**0 is false and 1 is true right?</h3>**
-*1*
+**Why do all HTML emails get blocked?</h3>**
+*Because they are all spans.*
