@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do all HTML emails get blocked?</h3>**
-*Because they are all spans.*
+**Where do programmer dad's store their jokes?</h3>**
+*In a dad-a-base.*
