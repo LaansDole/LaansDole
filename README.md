@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Where do programmer dad's store their jokes?</h3>**
-*In a dad-a-base.*
+**Who won the debate for the best name for loop variable?</h3>**
+*'i' won.*
