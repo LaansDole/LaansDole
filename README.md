@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why did the functions stop calling each other?</h3>**
-*Because they had constant arguments.*
+**Do you know why GraphQL is so fast?</h3>**
+*Because it can't REST.*
