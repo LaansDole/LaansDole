@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Do you know why GraphQL is so fast?</h3>**
-*Because it can't REST.*
+**What did the Python say when they came out of the shell?</h3>**
+*Print("Hello World!")*
