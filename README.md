@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How many developers does it take to change a light bulb?</h3>**
-*None. It's a hardware issue.*
+**Where did the API go to eat?</h3>**
+*To the RESTaurant.*
