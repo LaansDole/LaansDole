@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Where did the API go to eat?</h3>**
-*To the RESTaurant.*
+**There are 10 types of people in this world, those who understand binary and those who don't.</h3>**
+*:)*
