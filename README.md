@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**There are 10 types of people in this world, those who understand binary and those who don't.</h3>**
-*:)*
+**What's the second movie about a database engineer called?</h3>**
+*The SQL.*
