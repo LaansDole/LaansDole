@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What's the second movie about a database engineer called?</h3>**
-*The SQL.*
+**How do you comfort a JavaScript bug?</h3>**
+*You console it.*
