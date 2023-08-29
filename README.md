@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How do you comfort a JavaScript bug?</h3>**
-*You console it.*
+**How many developers does it take to change a light bulb?</h3>**
+*None. It's a hardware issue.*
