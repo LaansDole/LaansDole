@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How many developers does it take to change a light bulb?</h3>**
-*None. It's a hardware issue.*
+**Why don't bachelors like Git?</h3>**
+*Because they are afraid to commit.*
