@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why don't bachelors like Git?</h3>**
-*Because they are afraid to commit.*
+**Why did the developer cancel their dinner plans?</h3>**
+*They were unable to fulfil peer dependencies.*
