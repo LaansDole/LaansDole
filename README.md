@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why was the computer freezing?</h3>**
-*It left its Windows open.*
+**Why do C# and Java developers keep breaking their keyboards?</h3>**
+*Because they use a strongly typed language.*
