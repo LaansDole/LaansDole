@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do C# and Java developers keep breaking their keyboards?</h3>**
-*Because they use a strongly typed language.*
+**Why was nobody given food at the developer conference?</h3>**
+*It was a serverless function.*
