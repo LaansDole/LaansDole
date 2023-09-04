@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why was nobody given food at the developer conference?</h3>**
-*It was a serverless function.*
+**How did your dog eat your coding assignment?</h3>**
+*It took him a couple bytes.*
