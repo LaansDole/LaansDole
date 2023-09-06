@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What are your plans for the weekend?</h3>**
-*I know Front-end and Back-end, what is week-end?*
+**What did the developer say to their friend who was having a bad day?</h3>**
+*Everything's going to be 200.*
