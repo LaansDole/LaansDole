@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the developer say to their friend who was having a bad day?</h3>**
-*Everything's going to be 200.*
+**Why did the document store go out of business?</h3>**
+*It has NoSQL.*
