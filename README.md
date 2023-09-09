@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How do you know your baby is going to be a developer when they grow up?</h3>**
-*Their first word is Hello World.*
+**What did the computer do at lunchtime?</h3>**
+*Had a byte.*
