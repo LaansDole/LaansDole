@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the computer do at lunchtime?</h3>**
-*Had a byte.*
+**There are 10 types of people in this world, those who understand binary and those who don't.</h3>**
+*:)*
