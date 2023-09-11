@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**There are 10 types of people in this world, those who understand binary and those who don't.</h3>**
-*:)*
+**What did the fruit basket say to the developer?</h3>**
+*I hope you're ready for some pear programming.*
