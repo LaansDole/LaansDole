@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the fruit basket say to the developer?</h3>**
-*I hope you're ready for some pear programming.*
+**How many developers does it take to change a light bulb?</h3>**
+*None. It's a hardware issue.*
