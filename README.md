@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**How many developers does it take to change a light bulb?</h3>**
-*None. It's a hardware issue.*
+**Why did the document store go out of business?</h3>**
+*It has NoSQL.*
