@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why did the document store go out of business?</h3>**
-*It has NoSQL.*
+**Do you know why GraphQL is so fast?</h3>**
+*Because it can't REST.*
