@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Do you know why GraphQL is so fast?</h3>**
-*Because it can't REST.*
+**What are your plans for the weekend?</h3>**
+*I know Front-end and Back-end, what is week-end?*
