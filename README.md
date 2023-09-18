@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the process say after working in an infinite loop all day?</h3>**
-*I need a break.*
+**Why do backend devs never run out of energy?</h3>**
+*They build REST APIs.*
