@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do backend devs never run out of energy?</h3>**
-*They build REST APIs.*
+**What are clouds made of?</h3>**
+*Mostly linux servers.*
