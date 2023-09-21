@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What are clouds made of?</h3>**
-*Mostly linux servers.*
+**How do you know your baby is going to be a developer when they grow up?</h3>**
+*Their first word is Hello World.*
