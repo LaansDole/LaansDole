@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What does a baby computer call his father?</h3>**
-*Data*
+**Why can't SQL and NoSQL Developers date one other?</h3>**
+*Because they don't agree on relationships.*
