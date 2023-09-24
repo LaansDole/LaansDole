@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why can't SQL and NoSQL Developers date one other?</h3>**
-*Because they don't agree on relationships.*
+**What did the computer do at lunchtime?</h3>**
+*Had a byte.*
