@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the computer do at lunchtime?</h3>**
-*Had a byte.*
+**Why did the developer cancel their dinner plans?</h3>**
+*They were unable to fulfil peer dependencies.*
