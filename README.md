@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why did the developer cancel their dinner plans?</h3>**
-*They were unable to fulfil peer dependencies.*
+**Programmer (noun)</h3>**
+*A machine that turns coffee into code.*
