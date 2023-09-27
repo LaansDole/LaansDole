@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Programmer (noun)</h3>**
-*A machine that turns coffee into code.*
+**Why do Front-End Developers eat lunch alone?</h3>**
+*Because, they don't know how to join tables.*
