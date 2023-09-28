@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do Front-End Developers eat lunch alone?</h3>**
-*Because, they don't know how to join tables.*
+**Why do assembly level programmers need to know how to swim?</h3>**
+*Because they work below C level.*
