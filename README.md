@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do assembly level programmers need to know how to swim?</h3>**
-*Because they work below C level.*
+**Why was nobody given food at the developer conference?</h3>**
+*It was a serverless function.*
