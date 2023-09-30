@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why was nobody given food at the developer conference?</h3>**
-*It was a serverless function.*
+**What did the Python say when they came out of the shell?</h3>**
+*Print("Hello World!")*
