@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the Python say when they came out of the shell?</h3>**
-*Print("Hello World!")*
+**Where do programmer dad's store their jokes?</h3>**
+*In a dad-a-base.*
