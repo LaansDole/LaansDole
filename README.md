@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Where do programmer dad's store their jokes?</h3>**
-*In a dad-a-base.*
+**What's the second movie about a database engineer called?</h3>**
+*The SQL.*
