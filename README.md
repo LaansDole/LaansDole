@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What's the second movie about a database engineer called?</h3>**
-*The SQL.*
+**Got any funny DNS jokes?</h3>**
+*Yeah, but It may take 24 hours to get it.*
