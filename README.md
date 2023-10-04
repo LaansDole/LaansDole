@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Got any funny DNS jokes?</h3>**
-*Yeah, but It may take 24 hours to get it.*
+**Why do assembly level programmers need to know how to swim?</h3>**
+*Because they work below C level.*
