@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why do assembly level programmers need to know how to swim?</h3>**
-*Because they work below C level.*
+**What did the developer say to their friend who was having a bad day?</h3>**
+*Everything's going to be 200.*
