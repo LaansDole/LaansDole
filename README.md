@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**What did the developer say to their friend who was having a bad day?</h3>**
-*Everything's going to be 200.*
+**Why was nobody given food at the developer conference?</h3>**
+*It was a serverless function.*
