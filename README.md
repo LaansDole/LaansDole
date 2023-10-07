@@ -59,5 +59,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**Why was nobody given food at the developer conference?</h3>**
-*It was a serverless function.*
+**What's IKEA's favorite programming language?</h3>**
+*Assembly*
