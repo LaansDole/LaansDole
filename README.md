@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What is the hardest part in programming?</h3>**
-*Naming variables.*
+**<h3>Exercise for others - 160 calories burned.</h3>**
+*Exercise for coders - 60 bugs fixed.*
