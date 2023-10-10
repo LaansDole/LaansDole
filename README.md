@@ -64,5 +64,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do Front-End Developers eat lunch alone?</h3>**
-*Because, they don't know how to join tables.*
+**<h3>What's IKEA's favorite programming language?</h3>**
+*Assembly*
