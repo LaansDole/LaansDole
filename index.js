@@ -23,8 +23,6 @@ align="center" >
     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=laansdole&label=Profile%20views&color=0e75b6&style=flat" alt="laansdole" /> </p>
-
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
