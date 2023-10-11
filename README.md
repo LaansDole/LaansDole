@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Exercise for others - 160 calories burned.</h3>**
-*Exercise for coders - 60 bugs fixed.*
+**<h3>Why do assembly level programmers need to know how to swim?</h3>**
+*Because they work below C level.*
