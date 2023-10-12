@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do assembly level programmers need to know how to swim?</h3>**
-*Because they work below C level.*
+**<h3>What did the fruit basket say to the developer?</h3>**
+*I hope you're ready for some pear programming.*
