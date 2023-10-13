@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the fruit basket say to the developer?</h3>**
-*I hope you're ready for some pear programming.*
+**<h3>Waitress: Do you have any questions about the menu?</h3>**
+*Dev: What kind of font it is?*
