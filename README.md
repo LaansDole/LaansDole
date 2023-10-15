@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Who won the debate for the best name for loop variable?</h3>**
-*'i' won.*
+**<h3>What did the fruit basket say to the developer?</h3>**
+*I hope you're ready for some pear programming.*
