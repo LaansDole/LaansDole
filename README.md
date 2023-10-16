@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the fruit basket say to the developer?</h3>**
-*I hope you're ready for some pear programming.*
+**<h3>Why do developers use mechanical keyboards?</h3>**
+*To strongly type their code.*
