@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the constant break up with the variable?</h3>**
-*Because they changed.*
+**<h3>What did the process say after working in an infinite loop all day?</h3>**
+*I need a break.*
