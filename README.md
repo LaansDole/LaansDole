@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the process say after working in an infinite loop all day?</h3>**
-*I need a break.*
+**<h3>How many developers does it take to change a light bulb?</h3>**
+*None. It's a hardware issue.*
