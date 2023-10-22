@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do developers use mechanical keyboards?</h3>**
-*To strongly type their code.*
+**<h3>Programmer (noun)</h3>**
+*A machine that turns coffee into code.*
