@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do developers use mechanical keyboards?</h3>**
-*To strongly type their code.*
+**<h3>Why did the developer go broke?</h3>**
+*Because they used up all their cache.*
