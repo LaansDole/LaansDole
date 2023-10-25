@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the developer go broke?</h3>**
-*Because they used up all their cache.*
+**<h3>Why are machine learning models so fit?</h3>**
+*Because they do weight training.*
