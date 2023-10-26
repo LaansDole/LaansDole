@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why are machine learning models so fit?</h3>**
-*Because they do weight training.*
+**<h3>Why can't SQL and NoSQL Developers date one other?</h3>**
+*Because they don't agree on relationships.*
