@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why can't SQL and NoSQL Developers date one other?</h3>**
-*Because they don't agree on relationships.*
+**<h3>Asynchronous JavaScript is amazing.</h3>**
+*I Promise you, aWait and See*
