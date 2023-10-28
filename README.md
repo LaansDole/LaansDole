@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Asynchronous JavaScript is amazing.</h3>**
-*I Promise you, aWait and See*
+**<h3>What is a programmer's favorite hangout place?</h3>**
+*Foo Bar*
