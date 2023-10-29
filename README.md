@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What is a programmer's favorite hangout place?</h3>**
-*Foo Bar*
+**<h3>What's IKEA's favorite programming language?</h3>**
+*Assembly*
