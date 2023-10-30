@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What's IKEA's favorite programming language?</h3>**
-*Assembly*
+**<h3>Why did the computer keep sneezing?</h3>**
+*It has a virus.*
