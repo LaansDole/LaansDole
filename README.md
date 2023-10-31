@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the computer keep sneezing?</h3>**
-*It has a virus.*
+**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
+*Try Catch.*
