@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do all HTML emails get blocked?</h3>**
-*Because they are all spans.*
+**<h3>Got any funny DNS jokes?</h3>**
+*Yeah, but It may take 24 hours to get it.*
