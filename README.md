@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Got any funny DNS jokes?</h3>**
-*Yeah, but It may take 24 hours to get it.*
+**<h3>What did the Python say when they came out of the shell?</h3>**
+*Print("Hello World!")*
