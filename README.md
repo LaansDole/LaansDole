@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the Python say when they came out of the shell?</h3>**
-*Print("Hello World!")*
+**<h3>When do front end developers go out to eat?</h3>**
+*On their lunch &lt;br&gt;.*
