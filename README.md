@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>When do front end developers go out to eat?</h3>**
-*On their lunch &lt;br&gt;.*
+**<h3>What accomodations did the JavaScript developer request at the hotel?</h3>**
+*A room with a Vue.*
