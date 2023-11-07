@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What does a baby computer call his father?</h3>**
-*Data*
+**<h3>Why do Front-End Developers eat lunch alone?</h3>**
+*Because, they don't know how to join tables.*
