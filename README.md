@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Where do programmer dad's store their jokes?</h3>**
-*In a dad-a-base.*
+**<h3>Programmer (noun)</h3>**
+*A machine that turns coffee into code.*
