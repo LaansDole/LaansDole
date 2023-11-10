@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Programmer (noun)</h3>**
-*A machine that turns coffee into code.*
+**<h3>How does a programmer open a jar?</h3>**
+*They install Java.*
