@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>How does a programmer open a jar?</h3>**
-*They install Java.*
+**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
+*Try Catch.*
