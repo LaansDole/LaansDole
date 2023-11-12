@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
-*Try Catch.*
+**<h3>What are your plans for the weekend?</h3>**
+*I know Front-end and Back-end, what is week-end?*
