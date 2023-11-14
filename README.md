@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What's the second movie about a database engineer called?</h3>**
-*The SQL.*
+**<h3>Where did the API go to eat?</h3>**
+*To the RESTaurant.*
