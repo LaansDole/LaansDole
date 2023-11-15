@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Where did the API go to eat?</h3>**
-*To the RESTaurant.*
+**<h3>Why don't bachelors like Git?</h3>**
+*Because they are afraid to commit.*
