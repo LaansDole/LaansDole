@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why don't bachelors like Git?</h3>**
-*Because they are afraid to commit.*
+**<h3>What did the fruit basket say to the developer?</h3>**
+*I hope you're ready for some pear programming.*
