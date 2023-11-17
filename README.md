@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the fruit basket say to the developer?</h3>**
-*I hope you're ready for some pear programming.*
+**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
+*Try Catch.*
