@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
-*Try Catch.*
+**<h3>How do you stop a web developer stealing your stuff?</h3>**
+*Write 403 on it.*
