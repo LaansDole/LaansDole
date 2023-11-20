@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>How do you stop a web developer stealing your stuff?</h3>**
-*Write 403 on it.*
+**<h3>Why do assembly level programmers need to know how to swim?</h3>**
+*Because they work below C level.*
