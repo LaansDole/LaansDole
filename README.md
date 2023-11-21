@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do assembly level programmers need to know how to swim?</h3>**
-*Because they work below C level.*
+**<h3>What are your plans for the weekend?</h3>**
+*I know Front-end and Back-end, what is week-end?*
