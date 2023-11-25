@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the proud React component say to its child?</h3>**
-*I've got to give you props.*
+**<h3>What's IKEA's favorite programming language?</h3>**
+*Assembly*
