@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What's IKEA's favorite programming language?</h3>**
-*Assembly*
+**<h3>Are computers dangerous?</h3>**
+*Nah, they don't byte.*
