@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Are computers dangerous?</h3>**
-*Nah, they don't byte.*
+**<h3>Why don't parents teach their kids about regular expressions?</h3>**
+*Because they don't want them playing with matches.*
