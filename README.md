@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why don't parents teach their kids about regular expressions?</h3>**
-*Because they don't want them playing with matches.*
+**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
+*Try Catch.*
