@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What advice do you give to a JS developer who has never played baseball?</h3>**
-*Try Catch.*
+**<h3>Why was nobody given food at the developer conference?</h3>**
+*It was a serverless function.*
