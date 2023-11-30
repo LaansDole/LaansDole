@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why was nobody given food at the developer conference?</h3>**
-*It was a serverless function.*
+**<h3>What did the Class say in court when put on trial?</h3>**
+*I strongly object!*
