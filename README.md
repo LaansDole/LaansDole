@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the Class say in court when put on trial?</h3>**
-*I strongly object!*
+**<h3>How many developers does it take to change a light bulb?</h3>**
+*None. It's a hardware issue.*
