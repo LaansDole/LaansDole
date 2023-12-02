@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>How many developers does it take to change a light bulb?</h3>**
-*None. It's a hardware issue.*
+**<h3>Why did the computer keep sneezing?</h3>**
+*It has a virus.*
