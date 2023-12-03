@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the computer keep sneezing?</h3>**
-*It has a virus.*
+**<h3>What did the proud React component say to its child?</h3>**
+*I've got to give you props.*
