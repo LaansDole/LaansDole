@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the computer keep sneezing?</h3>**
-*It has a virus.*
+**<h3>Why don't bachelors like Git?</h3>**
+*Because they are afraid to commit.*
