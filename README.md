@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the Python say when they came out of the shell?</h3>**
-*Print("Hello World!")*
+**<h3>What is a programmer's favorite hangout place?</h3>**
+*Foo Bar*
