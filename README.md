@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Asynchronous JavaScript is amazing.</h3>**
-*I Promise you, aWait and See*
+**<h3>Why does keyboard sleep?</h3>**
+*Because it has two shifts.*
