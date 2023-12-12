@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why does keyboard sleep?</h3>**
-*Because it has two shifts.*
+**<h3>What did the developer say to their friend who was having a bad day?</h3>**
+*Everything's going to be 200.*
