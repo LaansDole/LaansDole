@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the developer say to their friend who was having a bad day?</h3>**
-*Everything's going to be 200.*
+**<h3>How did your dog eat your coding assignment?</h3>**
+*It took him a couple bytes.*
