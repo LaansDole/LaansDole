@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why can't SQL and NoSQL Developers date one other?</h3>**
-*Because they don't agree on relationships.*
+**<h3>Why do all HTML emails get blocked?</h3>**
+*Because they are all spans.*
