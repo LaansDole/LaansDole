@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do all HTML emails get blocked?</h3>**
-*Because they are all spans.*
+**<h3>Why do Front-End Developers eat lunch alone?</h3>**
+*Because, they don't know how to join tables.*
