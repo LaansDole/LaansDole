@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do Front-End Developers eat lunch alone?</h3>**
-*Because, they don't know how to join tables.*
+**<h3>Who won the debate for the best name for loop variable?</h3>**
+*'i' won.*
