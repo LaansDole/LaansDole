@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Are computers dangerous?</h3>**
-*Nah, they don't byte.*
+**<h3>What did the developer say to their friend who was having a bad day?</h3>**
+*Everything's going to be 200.*
