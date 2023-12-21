@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did spider do on the computer?</h3>**
-*Made a website.*
+**<h3>Why did the functions stop calling each other?</h3>**
+*Because they had constant arguments.*
