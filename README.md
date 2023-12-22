@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the functions stop calling each other?</h3>**
-*Because they had constant arguments.*
+**<h3>Who won the debate for the best name for loop variable?</h3>**
+*'i' won.*
