@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Who won the debate for the best name for loop variable?</h3>**
-*'i' won.*
+**<h3>Why do backend devs never run out of energy?</h3>**
+*They build REST APIs.*
