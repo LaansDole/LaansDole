@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do backend devs never run out of energy?</h3>**
-*They build REST APIs.*
+**<h3>Why do Front-End Developers eat lunch alone?</h3>**
+*Because, they don't know how to join tables.*
