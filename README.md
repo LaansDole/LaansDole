@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do Front-End Developers eat lunch alone?</h3>**
-*Because, they don't know how to join tables.*
+**<h3>What did the developer say to their friend who was having a bad day?</h3>**
+*Everything's going to be 200.*
