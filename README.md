@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Which programming language is the shortest?</h3>**
-*HTML, because it doesn't have a neck between head and body.*
+**<h3>Why aren't cryptocurrency engineers allowed to vote?</h3>**
+*Because they are miners.*
