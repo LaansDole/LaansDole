@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why aren't cryptocurrency engineers allowed to vote?</h3>**
-*Because they are miners.*
+**<h3>What accomodations did the JavaScript developer request at the hotel?</h3>**
+*A room with a Vue.*
