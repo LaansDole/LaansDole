@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What accomodations did the JavaScript developer request at the hotel?</h3>**
-*A room with a Vue.*
+**<h3>What did JavaScript call his son?</h3>**
+*JSON*
