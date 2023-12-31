@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did JavaScript call his son?</h3>**
-*JSON*
+**<h3>While there is code</h3>**
+*There is bug*
