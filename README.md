@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>While there is code</h3>**
-*There is bug*
+**<h3>Asynchronous JavaScript is amazing.</h3>**
+*I Promise you, aWait and See*
