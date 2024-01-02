@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Asynchronous JavaScript is amazing.</h3>**
-*I Promise you, aWait and See*
+**<h3>What did the developer say to their friend who was having a bad day?</h3>**
+*Everything's going to be 200.*
