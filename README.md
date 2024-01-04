@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the process say after working in an infinite loop all day?</h3>**
-*I need a break.*
+**<h3>What are clouds made of?</h3>**
+*Mostly linux servers.*
