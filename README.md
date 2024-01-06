@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What are your plans for the weekend?</h3>**
-*I know Front-end and Back-end, what is week-end?*
+**<h3>Why does keyboard sleep?</h3>**
+*Because it has two shifts.*
