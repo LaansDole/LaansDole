@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why does keyboard sleep?</h3>**
-*Because it has two shifts.*
+**<h3>Which programming language is the shortest?</h3>**
+*HTML, because it doesn't have a neck between head and body.*
