@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why do Front-End Developers eat lunch alone?</h3>**
-*Because, they don't know how to join tables.*
+**<h3>How do you know your baby is going to be a developer when they grow up?</h3>**
+*Their first word is Hello World.*
