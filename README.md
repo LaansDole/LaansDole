@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>How do you know your baby is going to be a developer when they grow up?</h3>**
-*Their first word is Hello World.*
+**<h3>Why was the computer freezing?</h3>**
+*It left its Windows open.*
