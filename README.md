@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why was the computer freezing?</h3>**
-*It left its Windows open.*
+**<h3>Why did the functions stop calling each other?</h3>**
+*Because they had constant arguments.*
