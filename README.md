@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>Why did the functions stop calling each other?</h3>**
-*Because they had constant arguments.*
+**<h3>What are your plans for the weekend?</h3>**
+*I know Front-end and Back-end, what is week-end?*
