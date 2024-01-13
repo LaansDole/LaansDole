@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What are your plans for the weekend?</h3>**
-*I know Front-end and Back-end, what is week-end?*
+**<h3>What's the object oriented way to become rich?</h3>**
+*Inheritance*
