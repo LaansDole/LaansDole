@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What's the object oriented way to become rich?</h3>**
-*Inheritance*
+**<h3>0 is false and 1 is true right?</h3>**
+*1*
