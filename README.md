@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>0 is false and 1 is true right?</h3>**
-*1*
+**<h3>Asynchronous JavaScript is amazing.</h3>**
+*I Promise you, aWait and See*
