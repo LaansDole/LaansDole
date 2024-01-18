@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What are clouds made of?</h3>**
-*Mostly linux servers.*
+**<h3>Why are keyboards always working so hard?</h3>**
+*Cause they have two shifts.*
