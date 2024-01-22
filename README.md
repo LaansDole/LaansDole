@@ -62,5 +62,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
 
 
-**<h3>What did the developer say to their friend who was having a bad day?</h3>**
-*Everything's going to be 200.*
+**<h3>What did the Python say when they came out of the shell?</h3>**
+*Print("Hello World!")*
