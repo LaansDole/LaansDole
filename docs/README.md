@@ -1,10 +1,10 @@
 ## Getting Started
 ***Make sure that you have `make` on your machine***
-* To deploy your index.md
+* To deploy your website at github.io
 ```bash
 make deploy
 ```
-* To publish your website at github.io
+* To deploy your website and add the files to main branch
 ```bash
 make publish
 ```
