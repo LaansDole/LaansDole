@@ -1,13 +1,15 @@
 <div 
 class="sketchfab-embed-wrapper" 
-align="center" >
-    <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" />
+align="center"
+style="" 
+>
+    <img style="" src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" />
     <br />
     <a href="https://www.linkedin.com/in/do-le-long-an/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/laansdole/">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 </div>

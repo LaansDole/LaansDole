@@ -7,7 +7,8 @@ nav:
   - About: index.md
 
 theme:
-  name: readthedocs
+  name: mkdocs
+  nav_style: dark
   highlightjs: true
   hljs_languages:
     - yaml
