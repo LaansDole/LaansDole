@@ -3,7 +3,7 @@ class="sketchfab-embed-wrapper"
 align="center" >
     <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" />
     <br />
-    <a href="https://www.linkedin.com/in/do-le-long-an-43633719a/">
+    <a href="https://www.linkedin.com/in/do-le-long-an/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/laansdole/">
