@@ -1,7 +1,7 @@
 SHELL := /bin/bash
 .PHONY: deploy
 deploy:
-	mkdocs gh-deploy --config-file mkdocs.yml --remote-branch gh-page
+	mkdocs gh-deploy --config-file mkdocs.yml --remote-branch gh-pages
 .PHONY: update-build-version
 update-build-version:
 	git submodule update --remote --merge
