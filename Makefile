@@ -1,4 +1,7 @@
 SHELL := /bin/bash
+.PHONY: run
+run:
+	mkdocs serve
 .PHONY: deploy
 deploy:
 	mkdocs gh-deploy --config-file mkdocs.yml --remote-branch gh-pages
