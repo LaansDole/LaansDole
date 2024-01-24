@@ -60,5 +60,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**What is the best prefix for global variables?**
-*//*
+**What time did the man go to the dentist?**
+*Tooth hurt-y.*
