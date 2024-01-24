@@ -35,4 +35,5 @@ jobs:
           git config --global user.name 'LaansDole'
           git config --global user.email 'LaansDole@users.noreply.github.com'
           git commit -am "Generated Daily Joke"
-          git push
+          git pull
+          git push --force
