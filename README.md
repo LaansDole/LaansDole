@@ -60,5 +60,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**What time did the man go to the dentist?**
-*Tooth hurt-y.*
+**<h3>What happened to the man who got behind on payments to his exorcist?</h3>**
+*He got repossessed.*
