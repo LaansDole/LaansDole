@@ -67,8 +67,8 @@ align="center" >
 
 ## 🤖 Daily Dev Joke 
     `;
-    text += "\n\n**" + question + "**";
-    text += "\n*" + punchline + "*";
+    text += "\n\n**<h3>" + question + "</h3>**"
+    text += "\n*" + punchline + "*"
 
     fs.writeFile('README.md', text, 'utf-8', function (err, data) {
       if (err) throw err;
