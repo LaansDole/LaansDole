@@ -12,4 +12,5 @@ update-build-version:
 	git commit -m "ci: update build version"
 .PHONY: publish
 publish: deploy update-build-version
+	git pull
 	git push
