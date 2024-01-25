@@ -14,9 +14,10 @@ theme:
   hljs_languages:
     - yaml
 
+docs_dir: docs
+
 extra_css:
   - css/main.css
 
 extra_javascript:
   - script/main.js
-
