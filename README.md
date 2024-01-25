@@ -60,5 +60,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**<h3>What happened to the man who got behind on payments to his exorcist?</h3>**
-*He got repossessed.*
+**<h3>Why did the programmer jump on the table?</h3>**
+*Because debug was on his screen.*
