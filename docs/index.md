@@ -11,6 +11,9 @@ style=""
     <a href="https://www.facebook.com/laansdole/">
         <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
+    <a href="https://www.facebook.com/laansdole/">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Facebook Badge"/>
+    </a>
     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 </div>
 
