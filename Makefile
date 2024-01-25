@@ -4,7 +4,7 @@ run:
 	mkdocs serve
 .PHONY: deploy
 deploy:
-	mkdocs gh-deploy --config-file mkdocs.yml --remote-branch gh-pages
+	mkdocs gh-deploy --config-file mkdocs.yml --remote-branch gh-page
 .PHONY: update-build-version
 update-build-version:
 	git submodule update --remote --merge
