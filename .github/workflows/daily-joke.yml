@@ -30,7 +30,10 @@ jobs:
       - name: Edit README.md
         run: |
           npm start
-      - name: Commit README.md
+      - name: Edit docs/index.md
+        run: |
+          npm docs
+      - name: Commit markdown
         run: |
           git config --global user.name 'LaansDole'
           git config --global user.email 'LaansDole@users.noreply.github.com'
