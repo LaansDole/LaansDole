@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "publish": "node docs.js"
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/LaansDole/LaansDole/issues"
   },
-  "homepage": "https://github.com/LaansDole/LaansDole#readme"
+  "homepage": "https://github.com/LaansDole/LaansDole#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
 }

@@ -63,5 +63,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**<h3>Did you hear about the cheese factory that exploded in France?</h3>**
-*There was nothing but de brie.*
+**<h3>What do you call a witch at the beach?</h3>**
+*A Sandwich.*

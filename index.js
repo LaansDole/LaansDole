@@ -1,10 +1,10 @@
 const fs = require('fs');
+const axios = require('axios');
 
-fetch("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart&safe-mode")
-  .then(response => response.json())
-  .then(item => {
-    let question = item.setup;
-    let punchline = item.delivery;
+axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart&safe-mode")
+  .then(response => {
+    let question = response.data.setup;
+    let punchline = response.data.delivery;
 
     let text = `
 <div align="center">

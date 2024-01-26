@@ -1,12 +1,12 @@
 const fs = require('fs');
+const axios = require('axios');
 
-fetch("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart&safe-mode")
-    .then(response => response.json())
-    .then(item => {
-        let question = item.setup;
-        let punchline = item.delivery;
+axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart&safe-mode")
+  .then(response => {
+    let question = response.data.setup;
+    let punchline = response.data.delivery;
 
-        let text = `
+    let text = `
 <div 
 class="sketchfab-embed-wrapper" 
 align="center"
@@ -73,7 +73,7 @@ style=""
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    `;
+        `;
         text += "\n\n**<h4>" + question + "</h4>**"
         text += "\n*" + punchline + "*"
 
