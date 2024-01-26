@@ -1,3 +1,4 @@
+
 <div align="center">
     <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!;I+am+Do+Le+Long+An;Full-Stack+Web+Developer;DevOps+Engineer" alt="Typing SVG" />
 </div>
@@ -48,7 +49,7 @@ align="center" >
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## 🖥️ Linux distros:
-![CentOS AMI](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white)
+![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=linux&logoColor=white)
 
@@ -62,5 +63,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**<h3>Why did the programmer jump on the table?</h3>**
-*Because debug was on his screen.*
+**<h3>Did you hear about the cheese factory that exploded in France?</h3>**
+*There was nothing but de brie.*
