@@ -39,5 +39,5 @@ jobs:
         git init
         git add .
         git commit -m "Update site"
-        git push --force "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" master:gh-pages
+        git push --force "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" main:gh-pages
 
