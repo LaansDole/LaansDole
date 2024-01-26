@@ -35,9 +35,9 @@ jobs:
       run: |
         git config --global user.email "LaansDole@users.noreply.github.com"
         git config --global user.name "LaansDole"
-        cd site
-        git init
+        git clone -b gh-pages "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" temp
+        cp -r site/* temp/
+        cd temp
         git add .
         git commit -m "Update site"
-        git push --force "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" main:gh-pages
-
+        git push "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" gh-pages
