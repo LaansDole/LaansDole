@@ -13,4 +13,4 @@ update-build-version:
 .PHONY: publish
 publish: deploy update-build-version
 	git pull
-	git push
+	git push --force
