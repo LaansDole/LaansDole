@@ -32,7 +32,7 @@ jobs:
           npm start
       - name: Edit docs/index.md
         run: |
-          npm docs
+          npm publish
       - name: Commit markdown
         run: |
           git config --global user.name 'LaansDole'
