@@ -27,11 +27,9 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
-      - name: Edit README.md
+      - name: Edit markdown
         run: |
           npm start
-      - name: Edit docs/index.md
-        run: |
           npm publish
       - name: Commit markdown
         run: |
