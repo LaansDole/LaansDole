@@ -8,7 +8,7 @@ fetch("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,reli
 
     let text = `
 <div align="center">
-    <img style="transform: translateY(-50px)" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!;I+am+Do+Le+Long+An;Full-Stack+Web+Developer;DevOps+Engineer" alt="Typing SVG" />
+    <img style="" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!;I+am+Do+Le+Long+An;Full-Stack+Web+Developer;DevOps+Engineer" alt="Typing SVG" />
 </div>
 <div 
 class="sketchfab-embed-wrapper" 
