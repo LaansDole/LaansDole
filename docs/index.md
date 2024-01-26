@@ -67,5 +67,5 @@ style=""
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
         
 
-**<h4>I can't believe I got fired from the calendar factory.</h4>**
-*All I did was take a day off.*
+**<h4>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</h4>**
+*Attire.*

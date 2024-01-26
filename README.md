@@ -63,5 +63,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**<h3>What do you call a witch at the beach?</h3>**
-*A Sandwich.*
+**<h3>Why are Assembly programmers always soaking wet?</h3>**
+*They work below C-level.*
