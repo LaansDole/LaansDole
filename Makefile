@@ -14,4 +14,4 @@ update-build-version:
 publish: deploy update-build-version
 	git fetch
 	git pull
-	git push --force
+	git push

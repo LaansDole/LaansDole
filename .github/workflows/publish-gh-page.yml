@@ -23,10 +23,21 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         pip install mkdocs
 
-    - name: Run make publish
-      run: make publish
+    - name: Build
+      run: mkdocs build
+
+    - name: Add, commit, and push site directory
+      run: |
+        git config --global user.email "LaansDole@users.noreply.github.com"
+        git config --global user.name "LaansDole"
+        cd site
+        git init
+        git add .
+        git commit -m "Update site"
+        git push --force "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" master:gh-pages
+
