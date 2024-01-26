@@ -7,6 +7,9 @@ fetch("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,reli
     let punchline = item.delivery;
 
     let text = `
+<div align="center">
+    <img style="transform: translateY(-50px)" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!;I+am+Do+Le+Long+An;Full-Stack+Web+Developer;DevOps+Engineer" alt="Typing SVG" />
+</div>
 <div 
 class="sketchfab-embed-wrapper" 
 align="center" >
@@ -21,7 +24,7 @@ align="center" >
     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 </div>
 
-## Web Development Frameworks & Libraries 💻:
+## 💻 Web Development Frameworks & Libraries:
 ### - Frontend:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)

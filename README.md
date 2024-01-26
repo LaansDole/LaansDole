@@ -15,7 +15,7 @@ align="center" >
     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=laansdole&show_icons=true&locale=en&theme=tokyonight" alt="laansdole" /></p>
 </div>
 
-## Web Development Frameworks & Libraries 💻:
+## 💻 Web Development Frameworks & Libraries:
 ### - Frontend:
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
