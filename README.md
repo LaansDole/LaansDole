@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!;I+am+Do+Le+Long+An;Full-Stack+Web+Developer;DevOps+Engineer)](https://git.io/typing-svg)
 <div 
 class="sketchfab-embed-wrapper" 
 align="center" >
@@ -15,7 +15,6 @@ align="center" >
 
 ## Web Development Frameworks & Libraries 💻:
 ### - Frontend:
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -23,6 +22,7 @@ align="center" >
 ### - Backend:
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=flat&logo=node.js&logoColor=white)
 ![◾](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### - Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -46,7 +46,7 @@ align="center" >
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## 🖥️ Linux distros:
-![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white)
+![CentOS AMI](https://img.shields.io/badge/Cent%20OS-262577?style=flat&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=linux&logoColor=white)
 
