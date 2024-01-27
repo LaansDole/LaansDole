@@ -67,5 +67,5 @@ style=""
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
         
 
-**<h4>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</h4>**
-*Attire.*
+**<h4>What happened to the man who got behind on payments to his exorcist?</h4>**
+*He got repossessed.*

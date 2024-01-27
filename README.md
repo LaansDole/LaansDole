@@ -63,5 +63,5 @@ align="center" >
 ## 🤖 Daily Dev Joke 
     
 
-**<h3>Why are Assembly programmers always soaking wet?</h3>**
-*They work below C-level.*
+**<h3>I can't believe I got fired from the calendar factory.</h3>**
+*All I did was take a day off.*
