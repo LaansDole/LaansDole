@@ -5,8 +5,6 @@
 <div 
 class="sketchfab-embed-wrapper" 
 align="center" >
-    <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" />
-    <br />
     <a href="https://www.linkedin.com/in/do-le-long-an/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -62,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I can't believe I got fired from the calendar factory.</strong></h3><h4><i>All I did was take a day off.</i></h4>
+<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>

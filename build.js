@@ -13,7 +13,7 @@ lines = lines.slice(0, -2);
 // Join the lines back into a single string
 markdownText = lines.join('\n');
 
-axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart&safe-mode")
+axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&type=twopart")
   .then(response => {
     let question = response.data.setup;
     let punchline = response.data.delivery;

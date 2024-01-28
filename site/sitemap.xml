@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://laansdole.github.io/LaansDole/daily-jokes/</loc>
+         <lastmod>2024-01-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://laansdole.github.io/LaansDole/blog/</loc>
          <lastmod>2024-01-28</lastmod>
          <changefreq>daily</changefreq>
