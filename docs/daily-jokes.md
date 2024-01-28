@@ -1,3 +1,3 @@
 
 **<h1>Made with DevOps</h1>**
-**<h2>Why did the JavaScript heap close shop?</h2>***<h3>It ran out of memory.</h3>*
+**<h2>Did you hear about the cheese factory that exploded in France?</h2>***<h3>There was nothing but de brie.</h3>*
