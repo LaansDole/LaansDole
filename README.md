@@ -60,8 +60,6 @@ align="center" >
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 
-## 🤖 Daily Dev Joke 
-    
+## 🤖 Made with DevOps
 
-**<h3>How much did your chimney cost?</h3>**
-*Nothing, it was on the house.*
+<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>

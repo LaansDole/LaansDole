@@ -5,19 +5,47 @@ site_description: My README Profile on GitHub
 repo_url: https://github.com/LaansDole/LaansDole
 
 nav:
-  - Introduction: index.md
+  - Home: index.md
+  - Daily Jokes: daily-jokes.md
 
 theme:
-  name: mkdocs
-  nav_style: dark
-  highlightjs: true
-  hljs_languages:
-    - yaml
+  name: material
+  icon:
+    logo: material/library
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
 
-docs_dir: docs
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
 
-extra_css:
-  - css/main.css
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
-extra_javascript:
-  - script/main.js
+plugins:
+  - search
+  - blog

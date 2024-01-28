@@ -1,4 +1,4 @@
-
+# **About Me**
 <div 
 class="sketchfab-embed-wrapper" 
 align="center"
@@ -65,7 +65,3 @@ style=""
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-        
-
-**<h4>Why does no one like SQLrillex?</h4>**
-*He keeps dropping the database.*
