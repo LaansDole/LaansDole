@@ -11,3 +11,20 @@ img {
 .md-footer-meta__inner {
     display: none !important;
 }
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 5rem !important;
+}
+
+.md-header__button.md-logo {
+    margin: -0.7rem !important;
+}
+
+.md-source__icon {
+    transform: scale(1.5) !important;
+    width: 2.5rem !important;
+}
+
+.md-source {
+    font-size: 0.9rem !important;
+}
