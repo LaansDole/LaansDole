@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a caveman's fart?</strong></h3><h4><i>A blast from the past.</i></h4>
+<h3><strong>What does the mermaid wear to math class?</strong></h3><h4><i>Algae-bra.</i></h4>
