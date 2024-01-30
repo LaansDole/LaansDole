@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do front end developers eat lunch alone?</strong></h3><h4><i>Because they don't know how to join tables.</i></h4>
+<h3><strong>How can you tell an extroverted programmer?</strong></h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4>
