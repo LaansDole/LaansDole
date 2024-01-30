@@ -28,3 +28,26 @@ img {
 .md-source {
     font-size: 0.9rem !important;
 }
+
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
+    height: 5.4rem !important;
+}
+
+.md-nav--primary .md-nav__title .md-logo {
+    @media screen and (max-width: 76.234375em) {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+        top: -0.92rem !important;
+        left: 0rem !important;
+        right: -7.8rem !important;
+    }
+}
+
+#codeit {
+    display: none;
+    @media screen and (max-width: 426px) {
+        display: block;
+    }
+}
