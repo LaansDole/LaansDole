@@ -19,9 +19,8 @@ axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,
     let punchline = response.data.delivery;
 
     let text = markdownText;
-    text += "\n**<h1>" + "🤖 Made with DevOps" + "</h1>**"
-    text += "\n**<h2>" + question + "</h2>**"
-    text += "*<h3>" + punchline + "</h3>*"
+    text += "\n\n<blockquote><h3>" + question + "</h3>"
+    text += "<h4><i>" + punchline + "</i></h4></blockquote>"
 
     fs.writeFile('./docs/daily-jokes.md', text, 'utf-8', function (err, data) {
       if (err) throw err;
