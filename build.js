@@ -19,7 +19,7 @@ axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,
     let punchline = response.data.delivery;
 
     let text = markdownText;
-    text += "\n**<h1>" + "Made with DevOps" + "</h1>**"
+    text += "\n**<h1>" + "🤖 Made with DevOps" + "</h1>**"
     text += "\n**<h2>" + question + "</h2>**"
     text += "*<h3>" + punchline + "</h3>*"
 

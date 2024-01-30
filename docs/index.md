@@ -4,7 +4,7 @@ class="sketchfab-embed-wrapper"
 align="center"
 style="" 
 >
-    <img style="" src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" />
+    <img id="codeit" style="" src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" />
     <br />
     <img style="transform: translateY(-50px)" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+World!;I+am+Do+Le+Long+An;Full-Stack+Web+Developer;DevOps+Engineer" alt="Typing SVG" />
     <br />
