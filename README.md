@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of car did Whitney Houston drive?</strong></h3><h4><i>A Hyundaiiiiiiiiiiii</i></h4>
+<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>
