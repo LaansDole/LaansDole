@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 **<h1>🤖 Made with DevOps</h1>**
 <p>This page will be automatically built and deployed to GitHub Page everyday without any human intervention. Therefore, the following quotes and jokes are daily renewed.</p>
 <hr/>
@@ -10,7 +14,12 @@
         <i><h4 title="Source Title"></h4></i>
       </footer>
     </blockquote>
-    <button id="new-quote" class="btn btn-primary">Generate New Quote</button>
+    <button 
+      type="button" class="btn btn-custom"
+      style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"
+    >
+      Generate New Prompt
+    </button>
   </div>
 </div>
 <h2><strong>Joke of the Day</strong></h2>
