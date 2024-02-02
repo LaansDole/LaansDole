@@ -12,7 +12,7 @@
         <meta name="author" content="Do Le Long An">
       
       
-        <link rel="canonical" href="https://laansdole.github.io/LaansDole/blog/">
+        <link rel="canonical" href="https://laansdole.github.io/LaansDole/style/">
       
       
       
@@ -22,7 +22,7 @@
     
     
       
-        <title>Blog - Aans Portfolio</title>
+        <title>Index - Aans Portfolio</title>
       
     
     
@@ -48,11 +48,11 @@
       
     
     
-      <link rel="stylesheet" href="../style/main.css">
+      <link rel="stylesheet" href="main.css">
     
-      <link rel="stylesheet" href="../style/quote.css">
+      <link rel="stylesheet" href="quote.css">
     
-      <link rel="stylesheet" href="../style/_buttons.css">
+      <link rel="stylesheet" href="_buttons.css">
     
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -80,7 +80,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#blog" class="md-skip">
+        <a href="#usage" class="md-skip">
           Skip to content
         </a>
       
@@ -115,7 +115,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Blog
+              Index
             
           </span>
         </div>
@@ -313,16 +313,41 @@
             
           
           
-  <div class="md-content" data-md-component="content">
-    <div class="md-content__inner">
-      <header class="md-typeset">
-        <h1 id="blog">Blog</h1>
-      </header>
-      
-      
-    </div>
-  </div>
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
 
+  
+  
+
+
+  <h1>Index</h1>
+
+<h2 id="usage">Usage</h2>
+<p><strong><em>CSS files with underscore <code>_</code> are the compiled result from the <a href="../extra_sass/">extra_sass</a> directory, which contains Bootstrap style.</em></strong>
+- For example, from the <code>root</code> of the repository:</p>
+<pre><code class="language-bash">sass docs/extra_sass/_buttons.scss docs/style/_buttons.css
+</code></pre>
+<ul>
+<li>Add the compiled file to <code>mkdocs.yml/extra_css</code></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
           
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
