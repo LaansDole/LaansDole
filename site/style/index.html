@@ -12,10 +12,8 @@
         <meta name="author" content="Do Le Long An">
       
       
-        <link rel="canonical" href="https://laansdole.github.io/LaansDole/daily-jokes/">
+        <link rel="canonical" href="https://laansdole.github.io/LaansDole/style/">
       
-      
-        <link rel="prev" href="..">
       
       
       
@@ -24,7 +22,7 @@
     
     
       
-        <title>Daily Quotes and Jokes - Aans Portfolio</title>
+        <title>Index - Aans Portfolio</title>
       
     
     
@@ -50,11 +48,11 @@
       
     
     
-      <link rel="stylesheet" href="../style/main.css">
+      <link rel="stylesheet" href="main.css">
     
-      <link rel="stylesheet" href="../style/quote.css">
+      <link rel="stylesheet" href="quote.css">
     
-      <link rel="stylesheet" href="../style/_buttons.css">
+      <link rel="stylesheet" href="_buttons.css">
     
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -80,6 +78,11 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
+      
+        
+        <a href="#usage" class="md-skip">
+          Skip to content
+        </a>
       
     </div>
     <div data-md-component="announce">
@@ -112,7 +115,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Daily Quotes and Jokes
+              Index
             
           </span>
         </div>
@@ -285,17 +288,10 @@
       
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../daily-jokes/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -304,7 +300,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -327,24 +322,16 @@
   
 
 
-<p><strong><h1>🤖 Made with DevOps</h1></strong></p>
-<p>This page will be automatically built and deployed to GitHub Page everyday without any human intervention. Therefore, the following quotes and jokes are daily renewed.</p>
-<hr/>
-<div class="card">
-  <h2><strong>Quote</strong></h2>
-  <div class="card-body">
-    <blockquote class="blockquote mb-0">
-      <h3><a href="https://laansdole.github.io/LaansDole/daily-jokes/" target=_self>Refresh</a> the page...</h3>
-      <footer class="blockquote-footer">
-        <i><h4 title="Source Title"></h4></i>
-      </footer>
-    </blockquote>
-    <button id="new-quote" class="btn btn-primary">Generate New Quote</button>
-  </div>
-</div>
-<h2><strong>Joke of the Day</strong></h2>
+  <h1>Index</h1>
 
-<blockquote><h3>How can you tell an extroverted programmer?</h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4></blockquote>
+<h2 id="usage">Usage</h2>
+<p><strong><em>CSS files with underscore <code>_</code> are the compiled result from the <a href="../extra_sass/">extra_sass</a> directory, which contains Bootstrap style.</em></strong>
+- For example, from the <code>root</code> of the repository:</p>
+<pre><code class="language-bash">sass docs/extra_sass/_buttons.scss docs/style/_buttons.css
+</code></pre>
+<ul>
+<li>Add the compiled file to <code>mkdocs.yml/extra_css</code></li>
+</ul>
 
 
 
