@@ -51,6 +51,7 @@ theme:
 extra_css:
   - style/main.css
   - style/quote.css
+  - style/_buttons.css
 
 extra_javascript:
   - script/quote.js
@@ -58,3 +59,4 @@ extra_javascript:
 plugins:
   - search
   - blog
+  - extra-sass

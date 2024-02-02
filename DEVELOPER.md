@@ -20,3 +20,5 @@ deactivate
 ```bash
 make serve
 ``` 
+
+***For style usage, see [Style Compile README](./docs/style/README.md)***

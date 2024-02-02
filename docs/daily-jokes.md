@@ -10,10 +10,10 @@
         <i><h4 title="Source Title"></h4></i>
       </footer>
     </blockquote>
-    <button id="new-quote">Generate New Quote</button>
+    <button id="new-quote" class="btn btn-primary">Generate New Quote</button>
   </div>
 </div>
-<h2><strong>Jokes of the Day</strong></h2>
+<h2><strong>Joke of the Day</strong></h2>
 
 
 <blockquote><h3>How can you tell an extroverted programmer?</h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4></blockquote>
