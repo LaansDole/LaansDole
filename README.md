@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the chicken cross the road, roll in the mud and cross the road again?</strong></h3><h4><i>He was a dirty double-crosser!</i></h4>
+<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
