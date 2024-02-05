@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
+<h3><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></h3><h4><i>Because 7 8 9 A?</i></h4>
