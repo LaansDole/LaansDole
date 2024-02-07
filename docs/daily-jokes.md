@@ -26,7 +26,4 @@ comments: true
 </div>
 <h2><strong>Laugh of the Day</strong></h2>
 
-
-<blockquote><h3>My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.
-
-<blockquote><h3>Why did the chicken cross the road, roll in the mud and cross the road again?</h3><h4><i>He was a dirty double-crosser!</i></h4></blockquote>
+<blockquote><h3>Why did the programmer quit his job?</h3><h4><i>Because he didn't get arrays.</i></h4></blockquote>
