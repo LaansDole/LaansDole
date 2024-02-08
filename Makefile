@@ -7,6 +7,7 @@ build:
 	mkdocs build
 .PHONY: deploy
 deploy:
+	git fetch
 	mkdocs gh-deploy --config-file mkdocs.yml --remote-branch gh-pages
 .PHONY: update-build-version
 update-build-version:
@@ -15,6 +16,5 @@ update-build-version:
 	git commit -m "ci: update build version"
 .PHONY: publish
 publish: deploy update-build-version
-	git fetch
 	git pull
 	git push
