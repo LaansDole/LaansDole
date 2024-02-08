@@ -26,4 +26,4 @@ comments: true
 </div>
 <h2><strong>Laugh of the Day</strong></h2>
 
-<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
+<h3><strong>Why did the programmer jump on the table?</strong></h3><h4><i>Because debug was on his screen.</i></h4>
