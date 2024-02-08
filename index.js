@@ -2,13 +2,13 @@ const fs = require('fs');
 const axios = require('axios');
 
 // Read the markdown file
-let markdownText = fs.readFileSync('./docs/daily-jokes.md', 'utf8');
+let markdownText = fs.readFileSync('./README.md', 'utf8');
 
 // Split the text into an array of lines
 let lines = markdownText.split('\n');
 
 // Find the line with "Laugh of the Day"
-let index = lines.findIndex(line => line.includes('<h2><strong>Laugh of the Day</strong></h2>'));
+let index = lines.findIndex(line => line.includes('## 🤖 Made with DevOps'));
 
 // If "Laugh of the Day" is found, slice the lines after it
 if (index !== -1) {
