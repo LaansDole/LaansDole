@@ -65,4 +65,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>This morning I accidentally made my coffee with Red Bull instead of water.</strong></h3><h4><i>I was already on the highway when I noticed I forgot my car at home.</i></h4>
+<h3><strong>So what's a set of predefined steps the government might take to preserve the environment?</strong></h3><h4><i>An Al-Gore-ithm.</i></h4>

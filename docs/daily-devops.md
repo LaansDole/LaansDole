@@ -31,4 +31,4 @@ comments: true
 </div>
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the programmer quit his job?</h3><h4><i>Because he didn't get arrays.</i></h4></blockquote>
+<blockquote><h3>What is the best prefix for global variables?</h3><h4><i>//</i></h4></blockquote>
