@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>
+<h3><strong>This morning I accidentally made my coffee with Red Bull instead of water.</strong></h3><h4><i>I was already on the highway when I noticed I forgot my car at home.</i></h4>
