@@ -60,4 +60,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
+<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>
