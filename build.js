@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 // Read the markdown file
-let markdownText = fs.readFileSync('./docs/daily-jokes.md', 'utf8');
+let markdownText = fs.readFileSync('./docs/daily-devops.md', 'utf8');
 
 // Split the text into an array of lines
 let lines = markdownText.split('\n');
@@ -27,7 +27,7 @@ axios.get("https://v2.jokeapi.dev/joke/Programming,Misc,Pun?blacklistFlags=nsfw,
     text += "\n\n<blockquote><h3>" + question + "</h3>"
     text += "<h4><i>" + punchline + "</i></h4></blockquote>"
 
-    fs.writeFile('./docs/daily-jokes.md', text, 'utf-8', function (err, data) {
+    fs.writeFile('./docs/daily-devops.md', text, 'utf-8', function (err, data) {
       if (err) throw err;
       console.log('Done!');
     });

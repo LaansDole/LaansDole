@@ -6,7 +6,7 @@ repo_url: https://github.com/LaansDole/LaansDole
 
 nav:
   - My Skills: index.md
-  - Daily Quotes and Jokes: daily-jokes.md
+  - Daily DevOps: daily-devops.md
 
 theme:
   name: material
