@@ -65,4 +65,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>So what's a set of predefined steps the government might take to preserve the environment?</strong></h3><h4><i>An Al-Gore-ithm.</i></h4>
+<h3><strong>What is the best prefix for global variables?</strong></h3><h4><i>//</i></h4>

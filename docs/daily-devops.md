@@ -31,4 +31,4 @@ comments: true
 </div>
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What is the best prefix for global variables?</h3><h4><i>//</i></h4></blockquote>
+<blockquote><h3>What's the object-oriented way to become wealthy?</h3><h4><i>Inheritance.</i></h4></blockquote>
