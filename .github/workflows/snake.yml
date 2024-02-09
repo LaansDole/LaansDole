@@ -21,10 +21,6 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.DAILY_JOKES }}
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -37,9 +33,10 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the snake-svg branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: snake-svg
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.DAILY_JOKES }}
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git checkout -b snake-svg
+          git add dist/*
+          git commit -m "Update SVGs"
+          git push https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}.git HEAD:snake-svg --force
