@@ -34,9 +34,11 @@ jobs:
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the snake-svg branch
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git checkout -b snake-svg
-          git add dist/*
-          git commit -m "Update SVGs"
-          git push https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}.git HEAD:snake-svg --force
+          git config --global user.email "LaansDole@users.noreply.github.com"
+          git config --global user.name "LaansDole"
+          git clone -b snake-svg "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" temp
+          cp -r dist/* temp/
+          cd temp
+          git add .
+          git commit -m "Update site"
+          git push "https://${{ secrets.DAILY_JOKES }}@github.com/${{ github.repository }}" snake-svg --force
