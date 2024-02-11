@@ -65,4 +65,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></h3><h4><i>I told her, "We already have food in the house".</i></h4>
+<h3><strong>Why are modern programming languages so materialistic?</strong></h3><h4><i>Because they are object-oriented.</i></h4>
