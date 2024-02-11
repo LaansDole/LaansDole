@@ -40,8 +40,7 @@ extra_css:
   - style/_buttons.css
   - style/custom-bootstrap.css
 
-extra_javascript:
-  - script/quote.js
+# extra_javascript:
 
 plugins:
   - search

@@ -10,25 +10,15 @@ comments: true
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
 </picture>
-<div class="card">
-  <h2><strong>Quote</strong></h2>
-  <div class="card-body">
-    <blockquote class="blockquote mb-0">
-      <h3><a href="https://laansdole.github.io/LaansDole/daily-devops/" target=_self>Refresh</a> the page...</h3>
-      <footer class="blockquote-footer">
-        <i><h4 title="Source Title"></h4></i>
-      </footer>
-    </blockquote>
-    <button 
-      type="button"
-      id="new-quote" 
-      class="btn btn-custom"
-      style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"
-    >
-      Generate New Prompt
-    </button>
-  </div>
-</div>
+
+<!-- <button 
+  type="button"
+  id="new-quote" 
+  class="btn btn-custom"
+  style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"
+>
+  Generate New Prompt
+</button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
 <blockquote><h3>Thank you student loans for getting me through college.</h3><h4><i>I don't think I'll ever be able to repay you.</i></h4></blockquote>
