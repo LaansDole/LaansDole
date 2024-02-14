@@ -36,9 +36,8 @@ theme:
 
 extra_css:
   - style/main.css
-  - style/quote.css
-  - style/_buttons.css
-  - style/custom-bootstrap.css
+  - style/bootstrap/_buttons.css
+  - style/bootstrap/custom-bootstrap.css
 
 # extra_javascript:
 
