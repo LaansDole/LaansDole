@@ -12,13 +12,11 @@
         <meta name="author" content="Do Le Long An">
       
       
-        <link rel="canonical" href="https://laansdole.github.io/LaansDole/daily-devops/">
+        <link rel="canonical" href="https://laansdole.github.io/LaansDole/cli/">
       
       
-        <link rel="prev" href="..">
+        <link rel="prev" href="../daily-devops/">
       
-      
-        <link rel="next" href="../cli/">
       
       
       <link rel="icon" href="../images/favicon.ico">
@@ -26,7 +24,7 @@
     
     
       
-        <title>Daily DevOps - Aans Portfolio</title>
+        <title>Command Line Interface - Aans Portfolio</title>
       
     
     
@@ -118,7 +116,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Daily DevOps
+              Command Line Interface
             
           </span>
         </div>
@@ -255,6 +253,26 @@
       
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="../daily-devops/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Daily DevOps
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
     
   
   
@@ -269,32 +287,12 @@
         
   
   <span class="md-ellipsis">
-    Daily DevOps
-  </span>
-  
-
-      </a>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../cli/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
     Command Line Interface
   </span>
   
 
       </a>
+      
     </li>
   
 
@@ -317,25 +315,67 @@
   
 
 
-<p><strong><h1>🤖 Made with DevOps</h1></strong></p>
-<p>This page will be automatically built and deployed to GitHub Page everyday without any human intervention. Therefore, the following <strong><i>joke</i></strong> and <strong><i>snake</i></strong> are daily renewed.</p>
-<hr/>
-<p><picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
-</picture></p>
-<!-- <button 
-  type="button"
-  id="new-quote" 
-  class="btn btn-custom"
-  style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;"
->
-  Generate New Prompt
-</button> -->
-<h2><strong>Laugh of the Day</strong></h2>
+  <h1>Command Line Interface</h1>
 
-<blockquote><h3>What's the difference between an in-law and an outlaw?</h3><h4><i>An outlaw is wanted.</i></h4></blockquote>
+<div class="cli-body">
+    <div class="container">
+      <pre id="laansdole-logo">
+       _       ___     ___    _  _     ___     ___     ___     _       ___   
+      | |     /   \   /   \  | \| |   / __|   |   \   / _ \   | |     | __|  
+      | |__   | - |   | - |  | .` |   \__ \   | |) | | (_) |  | |__   | _|   
+      |____|  |_|_|   |_|_|  |_|\_|   |___/   |___/   \___/   |____|  |___|  
+    _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
+    "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'                                                      
+    </pre>
+      Welcome to my Terminal Portfolio! Have fun!
+      <div class="setting">
+        <button id="settingsButton">Terminal Settings</button>
+        <dialog id="settingsDialog">
+          <form method="dialog">
+            <select id="fontSelector" title="Choose a font">
+              <option value="CaskaydiaCoveNerdFont-Bold">
+                CaskaydiaCoveNerdFont-Bold
+              </option>
+              <option value="CaskaydiaCoveNerdFont-BoldItalic">
+                CaskaydiaCoveNerdFont-BoldItalic
+              </option>
+              <option value="CaskaydiaCoveNerdFont-ExtraLight">
+                CaskaydiaCoveNerdFont-ExtraLight
+              </option>
+              <option value="CaskaydiaCoveNerdFont-ExtraLightItalic">
+                CaskaydiaCoveNerdFont-ExtraLightItalic
+              </option>
+              <option value="CaskaydiaCoveNerdFont-Italic">
+                CaskaydiaCoveNerdFont-Italic
+              </option>
+            </select>
+            <label id="labelGuestColor" for="guestColorSelector">Guest Color:</label>
+            <input type="color" id="guestColorSelector" value="#2fbb4f" />
+            <label id="labelHostnameColor" for="hostnameColorSelector">Hostname Color:<label>
+            <input type="color" id="hostnameColorSelector" value="#b026ff" />
+            <button onclick="changeSettings()">Apply Settings</button>
+            <button type="button" onclick="resetSettings()">
+              Reset to Default
+            </button>
+          </form>
+          <button id="closeButton">x</button>
+        </dialog>
+      </div>
+      <div class="terminal">
+        <label for="prompt">
+          <div class="flexbox">
+            <span id="guest" class="green nospace">guest</span>
+            <span class="light-dark nospace">@</span>
+            <span id="hostname" class="purple nospace">laansdole.github.io</span>
+            <!-- <span class="light-dark nospace">:$ ~ </span> -->
+            <span class="light-dark nospace">:</span>
+            <span class="light-dark space">$</span>
+            <span><input id="prompt" type="text" placeholder="help" autocomplete="on" autofocus/></span>
+          </div>
+        </label>
+      </div>
+    </div>
+</div>
 
 
 
@@ -343,68 +383,10 @@
 
 
 
-  
-  
 
 
 
 
-
-
-  <h2 id="__comments">Comments</h2>
-  <!-- Insert generated snippet here -->
-  <script src="https://giscus.app/client.js"
-          data-repo="LaansDole/LaansDole"
-          data-repo-id="R_kgDOIRhgyQ"
-          data-category="General"
-          data-category-id="DIC_kwDOIRhgyc4Cc1xu"
-          data-mapping="pathname"
-          data-strict="0"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="top"
-          data-theme="dark_protanopia"
-          data-lang="en"
-          data-loading="lazy"
-          crossorigin="anonymous"
-          async>
-  </script>
-
-  <!-- Synchronize Giscus theme with palette -->
-  <script>
-    var giscus = document.querySelector("script[src*=giscus]")
-
-    // Set palette on initial load
-    var palette = __md_get("__palette")
-    if (palette && typeof palette.color === "object") {
-      var theme = palette.color.scheme === "slate"
-        ? "transparent_dark"
-        : "light"
-
-      // Instruct Giscus to set theme
-      giscus.setAttribute("data-theme", theme) 
-    }
-
-    // Register event handlers after documented loaded
-    document.addEventListener("DOMContentLoaded", function() {
-      var ref = document.querySelector("[data-md-component=palette]")
-      ref.addEventListener("change", function() {
-        var palette = __md_get("__palette")
-        if (palette && typeof palette.color === "object") {
-          var theme = palette.color.scheme === "slate"
-            ? "transparent_dark"
-            : "light"
-
-          // Instruct Giscus to change theme
-          var frame = document.querySelector(".giscus-frame")
-          frame.contentWindow.postMessage(
-            { giscus: { setConfig: { theme } } },
-            "https://giscus.app"
-          )
-        }
-      })
-    })
-  </script>
 
                 
               </article>
