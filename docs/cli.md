@@ -8,7 +8,7 @@
     _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
     "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'                                                      
     </pre>
-      Welcome to my Terminal Portfolio! Have fun!
+      Welcome to my Terminal Portfolio! <a href="https://laansdole.github.io/LaansDole/cli/" target="_self">Refresh</a> the browser and Have fun!
       <div class="setting">
         <button id="settingsButton">Terminal Settings</button>
         <dialog id="settingsDialog">
