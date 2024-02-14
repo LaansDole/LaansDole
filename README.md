@@ -65,4 +65,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the best thing about Switzerland?</strong></h3><h4><i>I don't know, but the flag is a big plus.</i></h4>
+<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
