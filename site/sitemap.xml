@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://laansdole.github.io/LaansDole/cli/</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://laansdole.github.io/LaansDole/daily-devops/</loc>
          <lastmod>2024-02-14</lastmod>
          <changefreq>daily</changefreq>
@@ -17,6 +22,11 @@
     </url>
     <url>
          <loc>https://laansdole.github.io/LaansDole/style/</loc>
+         <lastmod>2024-02-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://laansdole.github.io/LaansDole/style/cli/assets/CascadiaCode/</loc>
          <lastmod>2024-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>

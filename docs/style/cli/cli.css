@@ -1,0 +1,148 @@
+@font-face {
+    font-family: "Cascadia Code";
+    src: url("../style/cli/assets/CascadiaCode/CaskaydiaCoveNerdFont-Regular.ttf");
+}
+
+.cli-body {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+kbd {}
+
+input {
+    border: none;
+    outline: none;
+    font-size: 100%;
+    width: 100%;
+    margin-left: 9.5px;
+    padding: 0px;
+}
+
+input#prompt {
+    background-color: inherit;
+    font-family: inherit;
+}
+
+.flexbox {
+    display: flex;
+}
+
+a {
+    color: #0d74e7;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.green {
+    color: #2fbb4f;
+}
+
+
+.purple {
+    color: #b026ff;
+}
+
+.space {
+    display: inline-block;
+    margin-left: 9.5px;
+}
+
+/* Mobile devices */
+
+@media only screen and (max-width: 700px) {
+    #laansdole-logo {
+        display: none !important;
+    }
+
+    .cli-body {
+        font-size: 85%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #laansdole-logo {
+        transform: scale(0.55);
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/* -------------Settings Style-------------- */
+
+.setting {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+#settingsButton {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#settingsDialog {
+    width: 300px;
+    padding: 20px;
+    border: none;
+    /*  */
+}
+
+#settingsDialog form {
+    display: flex;
+    flex-direction: column;
+}
+
+#settingsDialog label {
+    margin-bottom: 10px;
+}
+
+#settingsDialog select,
+#settingsDialog input {
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#settingsDialog button {
+    padding: 10px 20px;
+    color: white;
+
+    border: none;
+    cursor: pointer;
+}
+
+#settingsDialog button:hover {
+    color: black;
+    background-color: white;
+}
+
+#closeButton {
+    position: relative;
+    font-size: 1.2em;
+    cursor: pointer;
+
+}
+
+#closeButton:hover {
+    position: relative;
+    font-size: 1.2em;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+}

@@ -7,6 +7,7 @@ repo_url: https://github.com/LaansDole/LaansDole
 nav:
   - My Skills: index.md
   - Daily DevOps: daily-devops.md
+  - Command Line Interface: cli.md
 
 theme:
   name: material
@@ -35,11 +36,18 @@ theme:
       name: Switch to system preference
 
 extra_css:
-  - style/main.css
+  - style/index/index.css
+  - style/cli/cli.css
+  - style/bootstrap/_containers.css
+  - style/bootstrap/_containers.css.map
   - style/bootstrap/_buttons.css
   - style/bootstrap/custom-bootstrap.css
 
-# extra_javascript:
+extra_javascript:
+  - script/cli/settings.js
+  - script/cli/main-cli.js
+  - script/cli/resize-host.js
+  - script/index.js
 
 plugins:
   - search

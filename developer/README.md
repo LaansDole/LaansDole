@@ -21,4 +21,4 @@ deactivate
 make serve
 ``` 
 
-***For style usage, see [Style Compile README](./docs/style/README.md)***
+***For style usage, see [Style Compile README](../docs/style/README.md)***

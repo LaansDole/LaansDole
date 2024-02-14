@@ -48,7 +48,13 @@
       
     
     
-      <link rel="stylesheet" href="main.css">
+      <link rel="stylesheet" href="index/index.css">
+    
+      <link rel="stylesheet" href="cli/cli.css">
+    
+      <link rel="stylesheet" href="bootstrap/_containers.css">
+    
+      <link rel="stylesheet" href="bootstrap/_containers.css.map">
     
       <link rel="stylesheet" href="bootstrap/_buttons.css">
     
@@ -266,6 +272,26 @@
   
 
     
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cli/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Command Line Interface
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
   </ul>
 </nav>
                   </div>
@@ -289,10 +315,11 @@
 <h2 id="usage">Usage</h2>
 <p><strong><em>CSS files with underscore <code>_</code> are the compiled result from the <code>extra_sass</code> directory, which contains Bootstrap style.</em></strong>
 - For example, from the <code>root</code> of the repository:</p>
-<pre><code class="language-bash">sass docs/extra_sass/_buttons.scss docs/style/bootstrap/_buttons.css
+<pre><code class="language-bash">chmod +x ./sassy.sh
+source ./sassy.sh
 </code></pre>
 <ul>
-<li>Add the compiled file to <code>mkdocs.yml/extra_css</code></li>
+<li>Add the compiled file to <a href="./bootstrap/">mkdocs.yml/extra_css/bootstrap/</a></li>
 </ul>
 
 
@@ -352,6 +379,14 @@
     
     
       <script src="../assets/javascripts/bundle.c18c5fb9.min.js"></script>
+      
+        <script src="../script/cli/settings.js"></script>
+      
+        <script src="../script/cli/main-cli.js"></script>
+      
+        <script src="../script/cli/resize-host.js"></script>
+      
+        <script src="../script/index.js"></script>
       
     
   </body>
