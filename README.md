@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I asked my wife if I was the only one she's been with.</strong></h3><h4><i>She said, "Yes, the others were at least sevens or eights."</i></h4>
+<h3><strong>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</strong></h3><h4><i>She still isn't talking to me.</i></h4>
