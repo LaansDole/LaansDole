@@ -6,8 +6,7 @@ comments: true
 <p>This page will be automatically built and deployed to GitHub Page everyday without any human intervention. Therefore, the following <strong><i>joke</i></strong> and <strong><i>snake</i></strong> are daily renewed.</p>
 <hr/>
 <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
+    <source srcset="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LaansDole/LaansDole/snake-svg/github-contribution-grid-snake.svg">
 </picture>
 
