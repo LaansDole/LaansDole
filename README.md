@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</strong></h3><h4><i>She still isn't talking to me.</i></h4>
+<h3><strong>A Roman walks into a bar and raises 2 fingers and says to the bartender...</strong></h3><h4><i>"Five beers, please."</i></h4>
