@@ -52,7 +52,7 @@ li {
 
 /* Mobile devices */
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 490px) {
     #laansdole-logo {
         display: none !important;
     }
@@ -62,15 +62,6 @@ li {
     }
 }
 
-@media only screen and (max-width: 768px) {
-    #laansdole-logo {
-        transform: scale(0.55);
-        position: relative;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-}
 
 /* -------------Settings Style-------------- */
 
@@ -105,22 +96,23 @@ li {
     flex-direction: column;
 }
 
-#settingsDialog label {
-    margin-bottom: 10px;
+#settingsDialog select {
+    padding: 10px;
+    margin: 10px
 }
 
-#settingsDialog select,
-#settingsDialog input {
-    margin-bottom: 20px;
-    padding: 10px;
+#settingsDialog input,
+#settingsDialog select {
+    width: 250px;
 }
 
 #settingsDialog button {
-    padding: 10px 20px;
     color: white;
-
     border: none;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
 }
 
 #settingsDialog button:hover {
@@ -129,18 +121,22 @@ li {
 }
 
 #closeButton {
-    position: relative;
+    position: absolute;
+    right: 20px;
     font-size: 1.2em;
-    cursor: pointer;
-
+    bottom: 20px;
+    padding: 10px !important;
 }
 
 #closeButton:hover {
-    position: relative;
-    font-size: 1.2em;
-    cursor: pointer;
     color: white;
     background-color: black;
+
+}
+
+#settingsDialog button:hover,
+#closeButton:hover {
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
