@@ -52,6 +52,10 @@ img {
     }
 }
 
+.md-typeset pre {
+    overflow-x: hidden;
+}
+
 #codeit {
     display: none;
 
