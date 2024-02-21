@@ -13,7 +13,8 @@ deploy:
 update-build-version:
 	git submodule update --remote --merge
 	git add .
-	git commit -m "ci: update build version"
+	read -p "Enter commit message: " message; \
+	git commit -m "$$message"
 .PHONY: publish
 publish: deploy update-build-version
 	git pull
