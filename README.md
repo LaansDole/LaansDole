@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I just saw my wife trip over and drop a basket full of ironed clothes.</strong></h3><h4><i>I watched it all unfold.</i></h4>
+<h3><strong>Did you hear about the crime in the parking garage?</strong></h3><h4><i>It was wrong on so many levels.</i></h4>
