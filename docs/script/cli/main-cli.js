@@ -14,7 +14,7 @@ const help = [
 ];
 
 const aboutme = [
-  "",
+  "<br>",
   "Hi there! I'm An Do, an IT enthusiast and aspiring DevOps Engineer and Fullstack Developer. ",
   "Currently, I'm undertaking the role of IT Customer Services Officer",
   " and a final year student at RMIT University Vietnam",
@@ -22,7 +22,7 @@ const aboutme = [
   "️For the past year, I have been an active member of RMIT FinTech Club. ",
   "Together, our club and I have successfully hosted an national competition as well as planning for another one. ",
   "As I have NO intention to leave this field of IT anytime soon, stay tune and join me on this journey. ",
-  "",
+  "<br>",
 ];
 
 
@@ -121,6 +121,17 @@ function handleTabCompletion(event) {
   }
 }
 
+function searchCommand(query) {
+  similarCommand = commands.filter(command => command.toLowerCase().includes(query.toLowerCase()));
+  console.log(similarCommand);
+  if (similarCommand.length > 0) {
+    let html = similarCommand.map(command => `<li>${command}</li>`).join("");
+    return `Did you mean?<br><ul>${html}</ul>`;
+  } else {
+    return `<p>zsh: command not found: ${query}. For a list of commands, type 'help'.</p>`;
+  }
+}
+
 function command(cmd, terminal) {
   switch (cmd.toLowerCase()) {
     case "help":
@@ -163,7 +174,7 @@ function command(cmd, terminal) {
 
     default:
       addLine(
-        `<p>zsh: command not found: ${cmd}. For a list of commands, type 'help'.</p>`,
+        searchCommand(cmd),
         terminal,
       );
   }
