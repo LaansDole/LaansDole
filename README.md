@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why was the mushroom always invited to parties?</strong></h3><h4><i>Cause he's a fungi.</i></h4>
+<h3><strong>What do you call a deer with no eyes?</strong></h3><h4><i>No eye deer.</i></h4>
