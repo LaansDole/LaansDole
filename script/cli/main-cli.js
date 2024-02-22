@@ -1,6 +1,7 @@
 const linkedin = "https://www.linkedin.com/in/do-le-long-an/";
 const github = "https://github.com/LaansDole";
 const email = "mailto:dolelongan@gmail.com";
+const game = "https://laansdole.github.io/random-dungeon/"
 
 const help = [
   "<li> Press <kbd>tab</kbd> for auto-completion and use up and down arrows for previous commands.</li>",
@@ -10,6 +11,7 @@ const help = [
   "<li>linkedin       - Check out my LinkedIn <i class='fa-brands fa-linkedin'></i></li>",
   "<li>github         - My GitHub profile <i class='fa-brands fa-github'></i></li>",
   "<li>email          - Shoot me an email <i class='fa-solid fa-envelope'></i></li>",
+  "<li>game           - Start a roguelike dungeon game <i class='fa-solid fa-dungeon'></i></li>",
   "<li>clear          - Clear Terminal <i class='fa-solid fa-terminal'></i></li>",
 ];
 
@@ -33,6 +35,7 @@ const commands = [
   "linkedin",
   "github",
   "email",
+  "game",
   "clear",
 ];
 
@@ -162,6 +165,11 @@ function command(cmd, terminal) {
         terminal,
       );
       newTab(email);
+      break;
+
+    case "game":
+      addLine("Starting Game...", terminal);
+      newTab(game);
       break;
 
     case "clear":
