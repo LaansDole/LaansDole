@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Did you hear about the crime in the parking garage?</strong></h3><h4><i>It was wrong on so many levels.</i></h4>
+<h3><strong>Why was the mushroom always invited to parties?</strong></h3><h4><i>Cause he's a fungi.</i></h4>
