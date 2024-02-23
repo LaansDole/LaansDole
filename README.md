@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a deer with no eyes?</strong></h3><h4><i>No eye deer.</i></h4>
+<h3><strong>Why did the banana go see a doctor?</strong></h3><h4><i>Because it wasn't peeling well.</i></h4>
