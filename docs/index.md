@@ -1,4 +1,4 @@
-# **About Me**
+# **About Me <i class="fa-solid fa-address-card"></i>**
 <div 
 class="sketchfab-embed-wrapper" 
 align="center"

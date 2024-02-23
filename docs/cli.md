@@ -1,3 +1,5 @@
+# **Terminal Portfolio <i class="fa-solid fa-terminal"></i>**
+
 <div class="cli-body">
     <div class="container">
       <pre id="laansdole-logo">
