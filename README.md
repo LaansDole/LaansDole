@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the banana go see a doctor?</strong></h3><h4><i>Because it wasn't peeling well.</i></h4>
+<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>
