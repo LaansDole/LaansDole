@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why does no one like SQLrillex?</strong></h3><h4><i>He keeps dropping the database.</i></h4>
+<h3><strong>I just got fired from my job at the keyboard factory.</strong></h3><h4><i>They told me I wasn't putting in enough shifts.</i></h4>
