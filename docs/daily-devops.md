@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why are cats so good at video games?</h3><h4><i>They have nine lives.</i></h4></blockquote>
+<blockquote><h3>I used to love to tell dad jokes.</h3><h4><i>Dad, come back...</i></h4></blockquote>
