@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I used to love to tell dad jokes.</h3><h4><i>Dad, come back...</i></h4></blockquote>
+<blockquote><h3>The past, the present and the future walk into a bar.</h3><h4><i>It was tense.</i></h4></blockquote>
