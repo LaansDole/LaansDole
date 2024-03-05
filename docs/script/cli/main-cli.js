@@ -1,7 +1,7 @@
 const linkedin = "https://www.linkedin.com/in/do-le-long-an/";
 const github = "https://github.com/LaansDole";
 const email = "mailto:dolelongan@gmail.com";
-const game = "https://laansdole.github.io/random-dungeon/"
+const game = "https://laansdole.github.io/random-dungeon-game/"
 
 const help = [
   "<li> Press <kbd>tab</kbd> for auto-completion and use up and down arrows for previous commands.</li>",
