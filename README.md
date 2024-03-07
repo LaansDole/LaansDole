@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
+<h3><strong>Why do programmers prefer using the dark mode?</strong></h3><h4><i>Because light attracts bugs.</i></h4>

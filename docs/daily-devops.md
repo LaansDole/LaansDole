@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>This morning I accidentally made my coffee with Red Bull instead of water.</h3><h4><i>I was already on the highway when I noticed I forgot my car at home.</i></h4></blockquote>
+<blockquote><h3>My mother said, "You won't amount to anything because you always procrastinate."</h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4></blockquote>
