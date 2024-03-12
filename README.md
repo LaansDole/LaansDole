@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>So I made a graph of all my past relationships.</strong></h3><h4><i>It has an ex axis and a why axis.</i></h4>
+<h3><strong>I just saw my wife trip over and drop a basket full of ironed clothes.</strong></h3><h4><i>I watched it all unfold.</i></h4>
