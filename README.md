@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why shouldn't you visit an expensive wig shop?</strong></h3><h4><i>It's too high a price "toupee."</i></h4>
+<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
