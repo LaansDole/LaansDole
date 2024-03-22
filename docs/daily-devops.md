@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>No matter how kind you are...</h3><h4><i>German kids are always Kinder.</i></h4></blockquote>
+<blockquote><h3>You see, mountains aren't just funny.</h3><h4><i>They are hill areas.</i></h4></blockquote>
