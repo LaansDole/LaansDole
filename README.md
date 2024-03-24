@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a hot potato and a flying pig?</strong></h3><h4><i>One's a heated yam, the other's a yeeted ham.</i></h4>
+<h3><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></h3><h4><i>Attire.</i></h4>
