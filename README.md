@@ -69,5 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?"</strong></h3><h4><i>But Argon doesn't react.</i></h4>
+<h3><strong>What's the difference between a hot potato and a flying pig?</strong></h3><h4><i>One's a heated yam, the other's a yeeted ham.</i></h4>
