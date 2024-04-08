@@ -69,5 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did Harry Potter get down the hill?</strong></h3><h4><i>Walking...
-JK, Rolling.</i></h4>
+<h3><strong>Why are cats so good at video games?</strong></h3><h4><i>They have nine lives.</i></h4>
