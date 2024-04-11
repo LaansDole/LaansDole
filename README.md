@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the JavaScript heap close shop?</strong></h3><h4><i>It ran out of memory.</i></h4>
+<h3><strong>Why did the Python data scientist get arrested at customs?</strong></h3><h4><i>She was caught trying to import pandas!</i></h4>
