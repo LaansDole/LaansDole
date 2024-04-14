@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The past, the present and the future walk into a bar.</strong></h3><h4><i>It was tense.</i></h4>
+<h3><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></h3><h4><i>Because 7 8 9 A?</i></h4>
