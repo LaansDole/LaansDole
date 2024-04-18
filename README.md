@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How much did your chimney cost?</strong></h3><h4><i>Nothing, it was on the house.</i></h4>
+<h3><strong>What is the best prefix for global variables?</strong></h3><h4><i>//</i></h4>

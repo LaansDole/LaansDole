@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I just saw my wife trip over and drop a basket full of ironed clothes.</h3><h4><i>I watched it all unfold.</i></h4></blockquote>
+<blockquote><h3>Why is 6 afraid of 7 in hexadecimal Canada?</h3><h4><i>Because 7 8 9 A?</i></h4></blockquote>
