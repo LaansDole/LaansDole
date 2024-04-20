@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The past, the present and the future walk into a bar.</strong></h3><h4><i>It was tense.</i></h4>
+<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
