@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
+<h3><strong>I walked into a bar once.</strong></h3><h4><i>It really hurt my head.</i></h4>
