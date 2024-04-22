@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>.NET developers are picky when it comes to food.</h3><h4><i>They only like chicken NuGet.</i></h4></blockquote>
+<blockquote><h3>Why are modern programming languages so materialistic?</h3><h4><i>Because they are object-oriented.</i></h4></blockquote>
