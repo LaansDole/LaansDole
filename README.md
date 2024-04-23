@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
+<h3><strong>So what's a set of predefined steps the government might take to preserve the environment?</strong></h3><h4><i>An Al-Gore-ithm.</i></h4>
