@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why was the river rich?</h3><h4><i>Because it had two banks.</i></h4></blockquote>
+<blockquote><h3>Which is faster, Hot or cold?</h3><h4><i>Hot, because you can catch a cold</i></h4></blockquote>

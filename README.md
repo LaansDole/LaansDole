@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
+<h3><strong>Why did the Python data scientist get arrested at customs?</strong></h3><h4><i>She was caught trying to import pandas!</i></h4>
