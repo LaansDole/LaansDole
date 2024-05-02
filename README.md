@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why was the JavaScript developer sad?</strong></h3><h4><i>Because they didn't Node how to Express themself!</i></h4>
+<h3><strong>Why does no one like SQLrillex?</strong></h3><h4><i>He keeps dropping the database.</i></h4>
