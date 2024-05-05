@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a caveman's fart?</strong></h3><h4><i>A blast from the past.</i></h4>
+<h3><strong>What's the difference between an in-law and an outlaw?</strong></h3><h4><i>An outlaw is wanted.</i></h4>
