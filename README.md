@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></h3><h4><i>I told her, "We already have food in the house".</i></h4>
+<h3><strong>Why shouldn't you visit an expensive wig shop?</strong></h3><h4><i>It's too high a price "toupee."</i></h4>
