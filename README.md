@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why shouldn't you visit an expensive wig shop?</strong></h3><h4><i>It's too high a price "toupee."</i></h4>
+<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
