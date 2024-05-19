@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
+<h3><strong>What happened to the man who got behind on payments to his exorcist?</strong></h3><h4><i>He got repossessed.</i></h4>
