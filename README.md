@@ -69,5 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did Harry Potter get down the hill?</strong></h3><h4><i>Walking...
-JK, Rolling.</i></h4>
+<h3><strong>Did you hear about the claustrophobic astronaut?</strong></h3><h4><i>He just needed a little space.</i></h4>
