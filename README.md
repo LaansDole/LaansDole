@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers wear glasses?</strong></h3><h4><i>Because they need to C#</i></h4>
+<h3><strong>What do you call a developer who doesn't comment code?</strong></h3><h4><i>A developer.</i></h4>
