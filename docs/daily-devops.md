@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What do you call a witch at the beach?</h3><h4><i>A Sandwich.</i></h4></blockquote>
+<blockquote><h3>What is the best prefix for global variables?</h3><h4><i>//</i></h4></blockquote>
