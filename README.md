@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Which part of the hospital has the least privacy?</strong></h3><h4><i>The ICU.</i></h4>
+<h3><strong>What are bits?</strong></h3><h4><i>Tiny things left when you drop your computer down the stairs.</i></h4>
