@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>So what's a set of predefined steps the government might take to preserve the environment?</h3><h4><i>An Al-Gore-ithm.</i></h4></blockquote>
+<blockquote><h3>Why does no one like SQLrillex?</h3><h4><i>He keeps dropping the database.</i></h4></blockquote>
