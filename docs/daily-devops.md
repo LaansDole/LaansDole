@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why does no one like SQLrillex?</h3><h4><i>He keeps dropping the database.</i></h4></blockquote>
+<blockquote><h3>Why did the web developer walk out of a resturant in disgust?</h3><h4><i>The seating was laid out in tables.</i></h4></blockquote>
