@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the best thing about Switzerland?</strong></h3><h4><i>I don't know, but the flag is a big plus.</i></h4>
+<h3><strong>To prove he was right, the flat-earther walked to the end of the Earth.</strong></h3><h4><i>He eventually came around.</i></h4>
