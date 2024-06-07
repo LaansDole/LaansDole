@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>So what's a set of predefined steps the government might take to preserve the environment?</strong></h3><h4><i>An Al-Gore-ithm.</i></h4>
+<h3><strong>Thank you student loans for getting me through college.</strong></h3><h4><i>I don't think I'll ever be able to repay you.</i></h4>
