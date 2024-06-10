@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Two peanuts were walking.</strong></h3><h4><i>One was assaulted.</i></h4>
+<h3><strong>Why was the JavaScript developer sad?</strong></h3><h4><i>Because they didn't Node how to Express themself!</i></h4>
