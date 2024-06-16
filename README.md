@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>
+<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>
