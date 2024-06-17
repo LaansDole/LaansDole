@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>
+<h3><strong>I was feeling depressed, my wife put her hand on my back and said "Earth."</strong></h3><h4><i>It meant the world to me.</i></h4>
