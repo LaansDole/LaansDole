@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I can't believe I got fired from the calendar factory.</strong></h3><h4><i>All I did was take a day off.</i></h4>
+<h3><strong>Why did the web developer walk out of a resturant in disgust?</strong></h3><h4><i>The seating was laid out in tables.</i></h4>
