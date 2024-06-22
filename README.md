@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></h3><h4><i>Attire.</i></h4>
+<h3><strong>You see, mountains aren't just funny.</strong></h3><h4><i>They are hill areas.</i></h4>
