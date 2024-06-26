@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What did the cell say when his sister cell stepped on his foot?</strong></h3><h4><i>Mitosis.</i></h4>
+<h3><strong>Why do programmers wear glasses?</strong></h3><h4><i>Because they need to C#</i></h4>
