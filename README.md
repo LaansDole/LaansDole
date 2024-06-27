@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers wear glasses?</strong></h3><h4><i>Because they need to C#</i></h4>
+<h3><strong>Why do programmers confuse Halloween and Christmas?</strong></h3><h4><i>Because Oct 31 = Dec 25</i></h4>
