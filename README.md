@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers confuse Halloween and Christmas?</strong></h3><h4><i>Because Oct 31 = Dec 25</i></h4>
+<h3><strong>I hate Russian matryoshka dolls.</strong></h3><h4><i>They're so full of themselves.</i></h4>
