@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What's the difference between England and a tea bag?</h3><h4><i>The tea bag stays in the cup longer.</i></h4></blockquote>
+<blockquote><h3>What does the mermaid wear to math class?</h3><h4><i>Algae-bra.</i></h4></blockquote>
