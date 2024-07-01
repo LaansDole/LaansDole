@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
+<h3><strong>Why do Java programmers hate communism?</strong></h3><h4><i>They don't want to live in a classless society.</i></h4>
