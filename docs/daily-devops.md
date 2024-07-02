@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Hey baby I wish your name was asynchronous...</h3><h4><i>... so you'd give me a callback.</i></h4></blockquote>
+<blockquote><h3>How did you make your friend rage?</h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4></blockquote>
