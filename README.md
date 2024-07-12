@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How much did your chimney cost?</strong></h3><h4><i>Nothing, it was on the house.</i></h4>
+<h3><strong>Why are modern programming languages so materialistic?</strong></h3><h4><i>Because they are object-oriented.</i></h4>
