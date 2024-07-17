@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did the programmer die in the shower?</strong></h3><h4><i>He read the shampoo bottle instructions: Lather. Rinse. Repeat.</i></h4>
+<h3><strong>Why was the river rich?</strong></h3><h4><i>Because it had two banks.</i></h4>
