@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</strong></h3><h4><i>She still isn't talking to me.</i></h4>
+<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
