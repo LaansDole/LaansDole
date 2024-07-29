@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>.NET developers are picky when it comes to food.</strong></h3><h4><i>They only like chicken NuGet.</i></h4>
+<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>

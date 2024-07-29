@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why do programmers prefer using the dark mode?</h3><h4><i>Because light attracts bugs.</i></h4></blockquote>
+<blockquote><h3>My wife left me because I'm too insecure and paranoid.</h3><h4><i>Oh wait, never mind. She was just getting the mail.</i></h4></blockquote>
