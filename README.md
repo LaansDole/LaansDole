@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>
+<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>
