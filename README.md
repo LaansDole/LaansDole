@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why was the mushroom always invited to parties?</strong></h3><h4><i>Cause he's a fungi.</i></h4>
+<h3><strong>Why do cows wear bells?</strong></h3><h4><i>Because their horns don't work!</i></h4>
