@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the functional programmer get thrown out of school?</h3><h4><i>Because he refused to take classes.</i></h4></blockquote>
+<blockquote><h3>Why are modern programming languages so materialistic?</h3><h4><i>Because they are object-oriented.</i></h4></blockquote>
