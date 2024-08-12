@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the functional programmer get thrown out of school?</strong></h3><h4><i>Because he refused to take classes.</i></h4>
+<h3><strong>I used to love to tell dad jokes.</strong></h3><h4><i>Dad, come back...</i></h4>

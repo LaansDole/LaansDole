@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Which is faster, Hot or cold?</h3><h4><i>Hot, because you can catch a cold</i></h4></blockquote>
+<blockquote><h3>What is the least spoken language in the world?</h3><h4><i>Sign language.</i></h4></blockquote>
