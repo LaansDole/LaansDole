@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I used to love to tell dad jokes.</strong></h3><h4><i>Dad, come back...</i></h4>
+<h3><strong>Why do Java programmers hate communism?</strong></h3><h4><i>They don't want to live in a classless society.</i></h4>
