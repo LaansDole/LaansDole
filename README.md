@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the koala get rejected?</strong></h3><h4><i>Because he did not have any koalafication.</i></h4>
+<h3><strong>So I made a graph of all my past relationships.</strong></h3><h4><i>It has an ex axis and a why axis.</i></h4>
