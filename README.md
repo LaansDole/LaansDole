@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a hot potato and a flying pig?</strong></h3><h4><i>One's a heated yam, the other's a yeeted ham.</i></h4>
+<h3><strong>What do you call a deer with no eyes?</strong></h3><h4><i>No eye deer.</i></h4>
