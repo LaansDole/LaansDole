@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>So what's a set of predefined steps the government might take to preserve the environment?</h3><h4><i>An Al-Gore-ithm.</i></h4></blockquote>
+<blockquote><h3>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</h3><h4><i>A regular expression.</i></h4></blockquote>
