@@ -69,5 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did Harry Potter get down the hill?</strong></h3><h4><i>Walking...
-JK, Rolling.</i></h4>
+<h3><strong>Why do Java programmers hate communism?</strong></h3><h4><i>They don't want to live in a classless society.</i></h4>
