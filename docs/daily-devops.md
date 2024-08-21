@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</h3><h4><i>A regular expression.</i></h4></blockquote>
+<blockquote><h3>Why did the web developer walk out of a resturant in disgust?</h3><h4><i>The seating was laid out in tables.</i></h4></blockquote>
