@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What do you call a deer with no eyes?</h3><h4><i>No eye deer.</i></h4></blockquote>
+<blockquote><h3>Did you hear about the claustrophobic astronaut?</h3><h4><i>He just needed a little space.</i></h4></blockquote>
