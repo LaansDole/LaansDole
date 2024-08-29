@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>.NET developers are picky when it comes to food.</h3><h4><i>They only like chicken NuGet.</i></h4></blockquote>
+<blockquote><h3>So what's a set of predefined steps the government might take to preserve the environment?</h3><h4><i>An Al-Gore-ithm.</i></h4></blockquote>
