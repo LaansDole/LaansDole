@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>So I made a graph of all my past relationships.</strong></h3><h4><i>It has an ex axis and a why axis.</i></h4>
+<h3><strong>Why are cats so good at video games?</strong></h3><h4><i>They have nine lives.</i></h4>
