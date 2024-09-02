@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>How can you tell an extroverted programmer?</h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4></blockquote>
+<blockquote><h3>Why did the web developer walk out of a resturant in disgust?</h3><h4><i>The seating was laid out in tables.</i></h4></blockquote>
