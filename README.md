@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is a dying programmer's last program?</strong></h3><h4><i>Goodbye, world!</i></h4>
+<h3><strong>A Roman walks into a bar and raises 2 fingers and says to the bartender...</strong></h3><h4><i>"Five beers, please."</i></h4>
