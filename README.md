@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>A Roman walks into a bar and raises 2 fingers and says to the bartender...</strong></h3><h4><i>"Five beers, please."</i></h4>
+<h3><strong>You see, mountains aren't just funny.</strong></h3><h4><i>They are hill areas.</i></h4>
