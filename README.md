@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is a dying programmer's last program?</strong></h3><h4><i>Goodbye, world!</i></h4>
+<h3><strong>I just got fired from my job at the keyboard factory.</strong></h3><h4><i>They told me I wasn't putting in enough shifts.</i></h4>
