@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I just got fired from my job at the keyboard factory.</strong></h3><h4><i>They told me I wasn't putting in enough shifts.</i></h4>
+<h3><strong>Which part of the hospital has the least privacy?</strong></h3><h4><i>The ICU.</i></h4>
