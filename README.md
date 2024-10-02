@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>You see, mountains aren't just funny.</strong></h3><h4><i>They are hill areas.</i></h4>
+<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
