@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
+<h3><strong>I can't believe I got fired from the calendar factory.</strong></h3><h4><i>All I did was take a day off.</i></h4>
