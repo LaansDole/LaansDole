@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do cows wear bells?</strong></h3><h4><i>Because their horns don't work!</i></h4>
+<h3><strong>What do you call a cow with no legs?</strong></h3><h4><i>Ground beef.</i></h4>
