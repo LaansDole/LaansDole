@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>So I made a graph of all my past relationships.</h3><h4><i>It has an ex axis and a why axis.</i></h4></blockquote>
+<blockquote><h3>I just saw my wife trip over and drop a basket full of ironed clothes.</h3><h4><i>I watched it all unfold.</i></h4></blockquote>
