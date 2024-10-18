@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>My wife left me because I'm too insecure and paranoid.</strong></h3><h4><i>Oh wait, never mind. She was just getting the mail.</i></h4>
+<h3><strong>I used to love to tell dad jokes.</strong></h3><h4><i>Dad, come back...</i></h4>
