@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How can you tell an extroverted programmer?</strong></h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4>
+<h3><strong>What do you call a deer with no eyes?</strong></h3><h4><i>No eye deer.</i></h4>
