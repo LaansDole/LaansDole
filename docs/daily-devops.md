@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What is a dying programmer's last program?</h3><h4><i>Goodbye, world!</i></h4></blockquote>
+<blockquote><h3>Thank you student loans for getting me through college.</h3><h4><i>I don't think I'll ever be able to repay you.</i></h4></blockquote>
