@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the Romanian stop reading?</strong></h3><h4><i>They wanted to give the Bucharest.</i></h4>
+<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>
