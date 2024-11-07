@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Hey baby I wish your name was asynchronous...</strong></h3><h4><i>... so you'd give me a callback.</i></h4>
+<h3><strong>What are bits?</strong></h3><h4><i>Tiny things left when you drop your computer down the stairs.</i></h4>
