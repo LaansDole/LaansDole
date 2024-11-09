@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
+<h3><strong>What is a dying programmer's last program?</strong></h3><h4><i>Goodbye, world!</i></h4>
