@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I was feeling depressed, my wife put her hand on my back and said "Earth."</strong></h3><h4><i>It meant the world to me.</i></h4>
+<h3><strong>"99.9% of the people are dumb!"</strong></h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4>
