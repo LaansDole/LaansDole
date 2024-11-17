@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>"99.9% of the people are dumb!"</strong></h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4>
+<h3><strong>Why did the Romanian stop reading?</strong></h3><h4><i>They wanted to give the Bucharest.</i></h4>
