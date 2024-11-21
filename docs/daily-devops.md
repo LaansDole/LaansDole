@@ -20,4 +20,5 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>You see, mountains aren't just funny.</h3><h4><i>They are hill areas.</i></h4></blockquote>
+<blockquote><h3>The gas Argon walks into a bar.
+The barkeeper says "What would you like to drink?"</h3><h4><i>But Argon doesn't react.</i></h4></blockquote>
