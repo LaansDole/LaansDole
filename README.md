@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>
+<h3><strong>I hate Russian matryoshka dolls.</strong></h3><h4><i>They're so full of themselves.</i></h4>
