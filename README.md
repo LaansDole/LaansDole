@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of doctor is Dr. Pepper?</strong></h3><h4><i>He's a fizzician.</i></h4>
+<h3><strong>What kind of car did Whitney Houston drive?</strong></h3><h4><i>A Hyundaiiiiiiiiiiii</i></h4>
