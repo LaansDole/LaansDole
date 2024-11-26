@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of car did Whitney Houston drive?</strong></h3><h4><i>A Hyundaiiiiiiiiiiii</i></h4>
+<h3><strong>What do you call a witch at the beach?</strong></h3><h4><i>A Sandwich.</i></h4>
