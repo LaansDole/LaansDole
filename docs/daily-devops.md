@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>How do construction workers party?</h3><h4><i>They raise the roof.</i></h4></blockquote>
+<blockquote><h3>Which is faster, Hot or cold?</h3><h4><i>Hot, because you can catch a cold</i></h4></blockquote>
