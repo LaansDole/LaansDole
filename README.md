@@ -72,3 +72,5 @@ align="center" >
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
 
 ## 🤖 Made with DevOps
+
+<h3><strong>Why did the chicken cross the road, roll in the mud and cross the road again?</strong></h3><h4><i>He was a dirty double-crosser!</i></h4>
