@@ -72,5 +72,3 @@ align="center" >
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
 
 ## 🤖 Made with DevOps
-
-<h3><strong>Which part of the hospital has the least privacy?</strong></h3><h4><i>The ICU.</i></h4>
