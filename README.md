@@ -69,4 +69,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Two peanuts were walking.</strong></h3><h4><i>One was assaulted.</i></h4>
+<h3><strong>Why was the river rich?</strong></h3><h4><i>Because it had two banks.</i></h4>
