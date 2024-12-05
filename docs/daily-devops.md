@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Did you hear about the crime in the parking garage?</h3><h4><i>It was wrong on so many levels.</i></h4></blockquote>
+<blockquote><h3>Why did the koala get rejected?</h3><h4><i>Because he did not have any koalafication.</i></h4></blockquote>
