@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Which part of the hospital has the least privacy?</strong></h3><h4><i>The ICU.</i></h4>
+<h3><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></h3><h4><i>Attire.</i></h4>
