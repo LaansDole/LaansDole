@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the programmer jump on the table?</strong></h3><h4><i>Because debug was on his screen.</i></h4>
+<h3><strong>Why does the size of the snack not matter to a giraffe?</strong></h3><h4><i>Because even a little bit goes a long way.</i></h4>
