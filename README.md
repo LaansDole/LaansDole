@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
+<h3><strong>What do you call a caveman's fart?</strong></h3><h4><i>A blast from the past.</i></h4>
