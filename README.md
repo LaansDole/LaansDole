@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of doctor is Dr. Pepper?</strong></h3><h4><i>He's a fizzician.</i></h4>
+<h3><strong>Why does no one like SQLrillex?</strong></h3><h4><i>He keeps dropping the database.</i></h4>
