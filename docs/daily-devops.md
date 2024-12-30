@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I was feeling depressed, my wife put her hand on my back and said "Earth."</h3><h4><i>It meant the world to me.</i></h4></blockquote>
+<blockquote><h3>Do you know what killed the man who had a two ton pumpkin fall on him?</h3><h4><i>He was squashed.</i></h4></blockquote>
