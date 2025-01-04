@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of car did Whitney Houston drive?</strong></h3><h4><i>A Hyundaiiiiiiiiiiii</i></h4>
+<h3><strong>Why did the Python data scientist get arrested at customs?</strong></h3><h4><i>She was caught trying to import pandas!</i></h4>
