@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the Python data scientist get arrested at customs?</strong></h3><h4><i>She was caught trying to import pandas!</i></h4>
+<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
