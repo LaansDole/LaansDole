@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What's the difference between England and a tea bag?</h3><h4><i>The tea bag stays in the cup longer.</i></h4></blockquote>
+<blockquote><h3>No matter how kind you are...</h3><h4><i>German kids are always Kinder.</i></h4></blockquote>
