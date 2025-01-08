@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
+<h3><strong>My wife left me because I'm too insecure and paranoid.</strong></h3><h4><i>Oh wait, never mind. She was just getting the mail.</i></h4>
