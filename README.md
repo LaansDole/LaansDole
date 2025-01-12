@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
+<h3><strong>What do you call a group of 8 Hobbits?</strong></h3><h4><i>A Hobbyte.</i></h4>
