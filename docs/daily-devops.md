@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What do you call 4 Mexicans in quicksand?</h3><h4><i>Quatro Sinko.</i></h4></blockquote>
+<blockquote><h3>How did the programmer die in the shower?</h3><h4><i>He read the shampoo bottle instructions: Lather. Rinse. Repeat.</i></h4></blockquote>
