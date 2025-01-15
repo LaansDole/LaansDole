@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of doctor is Dr. Pepper?</strong></h3><h4><i>He's a fizzician.</i></h4>
+<h3><strong>What is a dying programmer's last program?</strong></h3><h4><i>Goodbye, world!</i></h4>
