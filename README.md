@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is a dying programmer's last program?</strong></h3><h4><i>Goodbye, world!</i></h4>
+<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>

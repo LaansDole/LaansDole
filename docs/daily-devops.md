@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>How much did your chimney cost?</h3><h4><i>Nothing, it was on the house.</i></h4></blockquote>
+<blockquote><h3>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</h3><h4><i>Attire.</i></h4></blockquote>
