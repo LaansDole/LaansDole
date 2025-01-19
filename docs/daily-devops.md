@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What does the mermaid wear to math class?</h3><h4><i>Algae-bra.</i></h4></blockquote>
+<blockquote><h3>What is the most used language in programming?</h3><h4><i>Profanity.</i></h4></blockquote>
