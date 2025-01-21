@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The past, the present and the future walk into a bar.</strong></h3><h4><i>It was tense.</i></h4>
+<h3><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4>
