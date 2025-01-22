@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4>
+<h3><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></h3><h4><i>I told her, "We already have food in the house".</i></h4>
