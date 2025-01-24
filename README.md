@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>
+<h3><strong>Two guys walked into a bar.</strong></h3><h4><i>The third guy ducked.</i></h4>
