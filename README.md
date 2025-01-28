@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Hey, wanna hear a joke?</strong></h3><h4><i>Parsing HTML with regex.</i></h4>
+<h3><strong>How do you generate a random string?</strong></h3><h4><i>Put a Windows user in front of Vim and tell them to exit.</i></h4>
