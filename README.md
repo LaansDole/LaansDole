@@ -73,4 +73,4 @@ align="center" >
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
+<h3><strong>What is a dying programmer's last program?</strong></h3><h4><i>Goodbye, world!</i></h4>
