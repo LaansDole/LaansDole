@@ -133,16 +133,56 @@ function searchCommand(query) {
   }
 }
 
+// Updated parseYearFromCmd to handle --year and -y arguments
+function parseYearFromCmd(cmd) {
+  const args = cmd.split(" ");
+  if (args.length === 1) {
+    return "2025"; // default year
+  }
+  if ((args[1] === "--year" || args[1] === "-y") && (args[2] === "2024" || args[2] === "2025")) {
+    return args[2];
+  }
+  return "invalid";
+}
+
+function getAboutMe(year) {
+  if (year === "2024") {
+    return [
+      "<br>",
+      "Welcome to 2024! This year, I'm proud of the achievements I've made, especially the National SoICT Hackathon.",
+      "I'm focusing on continuing my growth and exploring new challenges in my software career.",
+      "</br>",
+    ];
+  }
+  return [
+    "<br>",
+    "Welcome to 2025! This year, I'm focusing on building my career as a Software Engineer at ANZ Bank.",
+    "I'm also working on my personal projects and learning new technologies, planning to publish my medvoic-app by April.",
+    "Looking back at 2024, I'm proud of the achievements I've made, especially the National SoICT Hackathon and the people I've met.",
+    "I'm excited for the opportunities and challenges that 2025 will bring.",
+    "Stay tune and join me on this journey!",
+    "</br>",
+  ];
+}
+
+// Updated command function to process base command for aboutme
 function command(cmd, terminal) {
-  switch (cmd.toLowerCase()) {
+  const baseCmd = cmd.toLowerCase().split(" ")[0];
+  switch (baseCmd) {
     case "help":
       addLine(help, terminal);
       break;
-
+      
     case "aboutme":
-      addLine(aboutme, terminal);
+      const year = parseYearFromCmd(cmd);
+      if (year === "invalid") {
+        addLine("Usage: aboutme [--year|-y] [2024|2025]", terminal);
+      } else {
+        addLine(getAboutMe(year), terminal);
+      }
       break;
 
+    // ...existing cases...
     case "projects":
       addLine(projects, terminal);
       break;
@@ -158,10 +198,7 @@ function command(cmd, terminal) {
       break;
 
     case "email":
-      addLine(
-        `Opening mailto: <a href="${email}">dolelongan@gmail.com</a>...`,
-        terminal,
-      );
+      addLine(`Opening mailto: <a href="${email}">dolelongan@gmail.com</a>...`, terminal);
       newTab(email);
       break;
 
@@ -179,10 +216,7 @@ function command(cmd, terminal) {
       break;
 
     default:
-      addLine(
-        searchCommand(cmd),
-        terminal,
-      );
+      addLine(searchCommand(cmd), terminal);
   }
 }
 
