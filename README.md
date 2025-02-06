@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers confuse Halloween and Christmas?</strong></h3><h4><i>Because Oct 31 = Dec 25</i></h4>
+<h3><strong>What do you call a cow with no legs?</strong></h3><h4><i>Ground beef.</i></h4>
