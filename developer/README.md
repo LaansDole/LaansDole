@@ -11,13 +11,14 @@ npm install
 ```
 3. Install necessary `python` packages
 ```bash
-python -m venv virtual_env
-source virtual_env/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 pip install -r ./requirements.txt
 deactivate 
 ```
 4. Run locally with `make`
 ```bash
+make build
 make serve
 ``` 
 
