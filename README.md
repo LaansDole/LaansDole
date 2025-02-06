@@ -67,6 +67,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
 
-## 🤖 Made with DevOps
+## 🤖 Made with CI/CD
 
 <h3><strong>A grocery store cashier asked if I would like my milk in a bag.</strong></h3><h4><i>I told her "No, thanks. The carton works fine".</i></h4>
