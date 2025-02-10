@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why was the JavaScript developer sad?</strong></h3><h4><i>Because they didn't Node how to Express themself!</i></h4>
+<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
