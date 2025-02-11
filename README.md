@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
+<h3><strong>Why did the web developer walk out of a resturant in disgust?</strong></h3><h4><i>The seating was laid out in tables.</i></h4>
