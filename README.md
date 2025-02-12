@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the web developer walk out of a resturant in disgust?</strong></h3><h4><i>The seating was laid out in tables.</i></h4>
+<h3><strong>I just got fired from my job at the keyboard factory.</strong></h3><h4><i>They told me I wasn't putting in enough shifts.</i></h4>

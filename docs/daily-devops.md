@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the database administrator leave his wife?</h3><h4><i>She had one-to-many relationships.</i></h4></blockquote>
+<blockquote><h3>What's the object-oriented way to become wealthy?</h3><h4><i>Inheritance.</i></h4></blockquote>
