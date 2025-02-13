@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I just got fired from my job at the keyboard factory.</strong></h3><h4><i>They told me I wasn't putting in enough shifts.</i></h4>
+<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
