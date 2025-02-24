@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</h3><h4><i>She still isn't talking to me.</i></h4></blockquote>
+<blockquote><h3>What do you call a witch at the beach?</h3><h4><i>A Sandwich.</i></h4></blockquote>
