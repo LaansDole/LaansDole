@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What did the customer say to the waiter?</h3><h4><i>I'm all fed up with your service.</i></h4></blockquote>
+<blockquote><h3>Why shouldn't you visit an expensive wig shop?</h3><h4><i>It's too high a price "toupee."</i></h4></blockquote>
