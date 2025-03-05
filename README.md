@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a developer who doesn't comment code?</strong></h3><h4><i>A developer.</i></h4>
+<h3><strong>A Roman walks into a bar and raises 2 fingers and says to the bartender...</strong></h3><h4><i>"Five beers, please."</i></h4>
