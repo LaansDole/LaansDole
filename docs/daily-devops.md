@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Hey, wanna hear a joke?</h3><h4><i>Parsing HTML with regex.</i></h4></blockquote>
+<blockquote><h3>"99.9% of the people are dumb!"</h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4></blockquote>
