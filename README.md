@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Did you hear about the claustrophobic astronaut?</strong></h3><h4><i>He just needed a little space.</i></h4>
+<h3><strong>What do you call a cow with no legs?</strong></h3><h4><i>Ground beef.</i></h4>
