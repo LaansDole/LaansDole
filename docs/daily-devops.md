@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why should you never talk to pi?</h3><h4><i>Because it will go on forever.</i></h4></blockquote>
+<blockquote><h3>Why shouldn't you visit an expensive wig shop?</h3><h4><i>It's too high a price "toupee."</i></h4></blockquote>
