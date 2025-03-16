@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I can't believe I got fired from the calendar factory.</strong></h3><h4><i>All I did was take a day off.</i></h4>
+<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
