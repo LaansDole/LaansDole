@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What did the customer say to the waiter?</strong></h3><h4><i>I'm all fed up with your service.</i></h4>
+<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
