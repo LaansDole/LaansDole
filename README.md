@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
+<h3><strong>To prove he was right, the flat-earther walked to the end of the Earth.</strong></h3><h4><i>He eventually came around.</i></h4>
