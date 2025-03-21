@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What are bits?</strong></h3><h4><i>Tiny things left when you drop your computer down the stairs.</i></h4>
+<h3><strong>Did you hear about the crime in the parking garage?</strong></h3><h4><i>It was wrong on so many levels.</i></h4>
