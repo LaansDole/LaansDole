@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the JavaScript heap close shop?</strong></h3><h4><i>It ran out of memory.</i></h4>
+<h3><strong>What's the difference between a feminist and a grenade?</strong></h3><h4><i>The grenade actually accomplishes something when it triggers.</i></h4>
