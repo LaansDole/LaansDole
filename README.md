@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a feminist and a grenade?</strong></h3><h4><i>The grenade actually accomplishes something when it triggers.</i></h4>
+<h3><strong>Thank you student loans for getting me through college.</strong></h3><h4><i>I don't think I'll ever be able to repay you.</i></h4>
