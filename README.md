@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
+<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
