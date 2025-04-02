@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the object-oriented way to become wealthy?</strong></h3><h4><i>Inheritance.</i></h4>
+<h3><strong>How do you generate a random string?</strong></h3><h4><i>Put a Windows user in front of Vim and tell them to exit.</i></h4>
