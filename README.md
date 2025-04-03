@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How do you generate a random string?</strong></h3><h4><i>Put a Windows user in front of Vim and tell them to exit.</i></h4>
+<h3><strong>To prove he was right, the flat-earther walked to the end of the Earth.</strong></h3><h4><i>He eventually came around.</i></h4>
