@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I just saw my wife trip over and drop a basket full of ironed clothes.</h3><h4><i>I watched it all unfold.</i></h4></blockquote>
+<blockquote><h3>What do you call a witch at the beach?</h3><h4><i>A Sandwich.</i></h4></blockquote>
