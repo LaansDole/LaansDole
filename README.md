@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
+<h3><strong>Why did the Romanian stop reading?</strong></h3><h4><i>They wanted to give the Bucharest.</i></h4>
