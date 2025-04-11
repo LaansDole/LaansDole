@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What did the cell say when his sister cell stepped on his foot?</strong></h3><h4><i>Mitosis.</i></h4>
+<h3><strong>What does the mermaid wear to math class?</strong></h3><h4><i>Algae-bra.</i></h4>
