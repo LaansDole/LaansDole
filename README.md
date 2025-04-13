@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the best prefix for global variables?</strong></h3><h4><i>//</i></h4>
+<h3><strong>No matter how kind you are...</strong></h3><h4><i>German kids are always Kinder.</i></h4>
