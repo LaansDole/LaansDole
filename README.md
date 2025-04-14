@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>No matter how kind you are...</strong></h3><h4><i>German kids are always Kinder.</i></h4>
+<h3><strong>Which part of the hospital has the least privacy?</strong></h3><h4><i>The ICU.</i></h4>
