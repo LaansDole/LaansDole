@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why does no one like SQLrillex?</strong></h3><h4><i>He keeps dropping the database.</i></h4>
+<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
