@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Hey baby I wish your name was asynchronous...</strong></h3><h4><i>... so you'd give me a callback.</i></h4>
+<h3><strong>"99.9% of the people are dumb!"</strong></h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4>
