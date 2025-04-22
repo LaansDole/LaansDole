@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>"99.9% of the people are dumb!"</strong></h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4>
+<h3><strong>Why did the chicken cross the road, roll in the mud and cross the road again?</strong></h3><h4><i>He was a dirty double-crosser!</i></h4>
