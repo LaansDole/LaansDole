@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the chicken cross the road, roll in the mud and cross the road again?</strong></h3><h4><i>He was a dirty double-crosser!</i></h4>
+<h3><strong>I hate Russian matryoshka dolls.</strong></h3><h4><i>They're so full of themselves.</i></h4>
