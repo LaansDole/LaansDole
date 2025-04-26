@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>.NET developers are picky when it comes to food.</h3><h4><i>They only like chicken NuGet.</i></h4></blockquote>
+<blockquote><h3>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</h3><h4><i>Attire.</i></h4></blockquote>
