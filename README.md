@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why are cats so good at video games?</strong></h3><h4><i>They have nine lives.</i></h4>
+<h3><strong>Why do programmers confuse Halloween and Christmas?</strong></h3><h4><i>Because Oct 31 = Dec 25</i></h4>
