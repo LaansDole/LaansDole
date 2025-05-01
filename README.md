@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
+<h3><strong>Did you hear about the claustrophobic astronaut?</strong></h3><h4><i>He just needed a little space.</i></h4>
