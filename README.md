@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Did you hear about the claustrophobic astronaut?</strong></h3><h4><i>He just needed a little space.</i></h4>
+<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>

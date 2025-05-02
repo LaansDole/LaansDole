@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the programmer jump on the table?</h3><h4><i>Because debug was on his screen.</i></h4></blockquote>
+<blockquote><h3>To prove he was right, the flat-earther walked to the end of the Earth.</h3><h4><i>He eventually came around.</i></h4></blockquote>
