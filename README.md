@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>
+<h3><strong>I used to love to tell dad jokes.</strong></h3><h4><i>Dad, come back...</i></h4>
