@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I used to love to tell dad jokes.</strong></h3><h4><i>Dad, come back...</i></h4>
+<h3><strong>why do python programmers wear glasses?</strong></h3><h4><i>Because they can't C.</i></h4>
