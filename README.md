@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>
+<h3><strong>How much did your chimney cost?</strong></h3><h4><i>Nothing, it was on the house.</i></h4>
