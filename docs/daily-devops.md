@@ -20,4 +20,6 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the banana go see a doctor?</h3><h4><i>Because it wasn't peeling well.</i></h4></blockquote>
+<blockquote><h3>My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.
+Every day I have to tell this poor man that his wife died 20 years ago.
+I could have moved to another house or even ignore his question.</h3><h4><i>But the look of joy in his eyes whenever I answer him is worth the world.</i></h4></blockquote>
