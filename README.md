@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I hate Russian matryoshka dolls.</strong></h3><h4><i>They're so full of themselves.</i></h4>
+<h3><strong>Why do front end developers eat lunch alone?</strong></h3><h4><i>Because they don't know how to join tables.</i></h4>
