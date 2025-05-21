@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a cow with no legs?</strong></h3><h4><i>Ground beef.</i></h4>
+<h3><strong>How much did your chimney cost?</strong></h3><h4><i>Nothing, it was on the house.</i></h4>
