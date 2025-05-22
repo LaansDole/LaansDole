@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How much did your chimney cost?</strong></h3><h4><i>Nothing, it was on the house.</i></h4>
+<h3><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4>
