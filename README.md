@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why shouldn't you visit an expensive wig shop?</strong></h3><h4><i>It's too high a price "toupee."</i></h4>
+<h3><strong>What do you call a pile of kittens?</strong></h3><h4><i>A meowntain.</i></h4>
