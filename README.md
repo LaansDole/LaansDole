@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a pile of kittens?</strong></h3><h4><i>A meowntain.</i></h4>
+<h3><strong>why do python programmers wear glasses?</strong></h3><h4><i>Because they can't C.</i></h4>
