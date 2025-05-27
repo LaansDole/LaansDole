@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why do they call it hyper terminal?</h3><h4><i>Too much Java.</i></h4></blockquote>
+<blockquote><h3>What do you call a group of 8 Hobbits?</h3><h4><i>A Hobbyte.</i></h4></blockquote>
