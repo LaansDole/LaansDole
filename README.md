@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the banana go see a doctor?</strong></h3><h4><i>Because it wasn't peeling well.</i></h4>
+<h3><strong>Why are Assembly programmers always soaking wet?</strong></h3><h4><i>They work below C-level.</i></h4>
