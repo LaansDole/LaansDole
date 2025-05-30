@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the JavaScript heap close shop?</h3><h4><i>It ran out of memory.</i></h4></blockquote>
+<blockquote><h3>Thank you student loans for getting me through college.</h3><h4><i>I don't think I'll ever be able to repay you.</i></h4></blockquote>
