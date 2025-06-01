@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why are modern programming languages so materialistic?</strong></h3><h4><i>Because they are object-oriented.</i></h4>
+<h3><strong>Why did the database administrator leave his wife?</strong></h3><h4><i>She had one-to-many relationships.</i></h4>

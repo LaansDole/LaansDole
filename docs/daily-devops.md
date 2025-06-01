@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</h3><h4><i>She still isn't talking to me.</i></h4></blockquote>
+<blockquote><h3>Why is 6 afraid of 7 in hexadecimal Canada?</h3><h4><i>Because 7 8 9 A?</i></h4></blockquote>
