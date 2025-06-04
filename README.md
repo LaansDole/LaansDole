@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
+<h3><strong>Why did the programmer jump on the table?</strong></h3><h4><i>Because debug was on his screen.</i></h4>
