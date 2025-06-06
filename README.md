@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>.NET developers are picky when it comes to food.</strong></h3><h4><i>They only like chicken NuGet.</i></h4>
+<h3><strong>Why did the functional programmer get thrown out of school?</strong></h3><h4><i>Because he refused to take classes.</i></h4>
