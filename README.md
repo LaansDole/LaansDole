@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>A Roman walks into a bar and raises 2 fingers and says to the bartender...</strong></h3><h4><i>"Five beers, please."</i></h4>
+<h3><strong>Why do front end developers eat lunch alone?</strong></h3><h4><i>Because they don't know how to join tables.</i></h4>
