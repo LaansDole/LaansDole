@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the web developer walk out of a resturant in disgust?</strong></h3><h4><i>The seating was laid out in tables.</i></h4>
+<h3><strong>What kind of doctor is Dr. Pepper?</strong></h3><h4><i>He's a fizzician.</i></h4>
