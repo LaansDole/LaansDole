@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why are Assembly programmers always soaking wet?</h3><h4><i>They work below C-level.</i></h4></blockquote>
+<blockquote><h3>Why did the Python data scientist get arrested at customs?</h3><h4><i>She was caught trying to import pandas!</i></h4></blockquote>
