@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the Python data scientist get arrested at customs?</h3><h4><i>She was caught trying to import pandas!</i></h4></blockquote>
+<blockquote><h3>What do you call a group of 8 Hobbits?</h3><h4><i>A Hobbyte.</i></h4></blockquote>
