@@ -69,5 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did Harry Potter get down the hill?</strong></h3><h4><i>Walking...
-JK, Rolling.</i></h4>
+<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
