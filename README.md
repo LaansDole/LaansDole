@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
+<h3><strong>What did the customer say to the waiter?</strong></h3><h4><i>I'm all fed up with your service.</i></h4>
