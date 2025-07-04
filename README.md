@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why are Assembly programmers always soaking wet?</strong></h3><h4><i>They work below C-level.</i></h4>
+<h3><strong>Do you know what killed the man who had a two ton pumpkin fall on him?</strong></h3><h4><i>He was squashed.</i></h4>
