@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers confuse Halloween and Christmas?</strong></h3><h4><i>Because Oct 31 = Dec 25</i></h4>
+<h3><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></h3><h4><i>I told her, "We already have food in the house".</i></h4>
