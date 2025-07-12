@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>So I made a graph of all my past relationships.</h3><h4><i>It has an ex axis and a why axis.</i></h4></blockquote>
+<blockquote><h3>You see, mountains aren't just funny.</h3><h4><i>They are hill areas.</i></h4></blockquote>
