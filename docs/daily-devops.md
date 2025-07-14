@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I hate Russian matryoshka dolls.</h3><h4><i>They're so full of themselves.</i></h4></blockquote>
+<blockquote><h3>What do you call a developer who doesn't comment code?</h3><h4><i>A developer.</i></h4></blockquote>
