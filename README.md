@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How do construction workers party?</strong></h3><h4><i>They raise the roof.</i></h4>
+<h3><strong>What kind of car did Whitney Houston drive?</strong></h3><h4><i>A Hyundaiiiiiiiiiiii</i></h4>
