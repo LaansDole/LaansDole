@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
+<h3><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></h3><h4><i>Because 7 8 9 A?</i></h4>
