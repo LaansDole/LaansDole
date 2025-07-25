@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
+<h3><strong>Why did the database administrator leave his wife?</strong></h3><h4><i>She had one-to-many relationships.</i></h4>
