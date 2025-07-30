@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>My employer came running to me and said, "I was looking for you all day! Where the hell have you been?"</strong></h3><h4><i>I replied, "Good employees are hard to find."</i></h4>
+<h3><strong>How do you generate a random string?</strong></h3><h4><i>Put a Windows user in front of Vim and tell them to exit.</i></h4>
