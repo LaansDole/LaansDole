@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>A Roman walks into a bar and raises 2 fingers and says to the bartender...</h3><h4><i>"Five beers, please."</i></h4></blockquote>
+<blockquote><h3>So what's a set of predefined steps the government might take to preserve the environment?</h3><h4><i>An Al-Gore-ithm.</i></h4></blockquote>
