@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What's the best thing about Switzerland?</h3><h4><i>I don't know, but the flag is a big plus.</i></h4></blockquote>
+<blockquote><h3>Why did the Python programmer not respond to the foreign mails he got?</h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4></blockquote>

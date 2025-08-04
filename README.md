@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
+<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
