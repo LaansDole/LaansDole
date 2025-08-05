@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
+<h3><strong>Why are cats so good at video games?</strong></h3><h4><i>They have nine lives.</i></h4>
