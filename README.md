@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did the programmer die in the shower?</strong></h3><h4><i>He read the shampoo bottle instructions: Lather. Rinse. Repeat.</i></h4>
+<h3><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></h3><h4><i>Because 7 8 9 A?</i></h4>
