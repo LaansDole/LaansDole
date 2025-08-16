@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What are bits?</strong></h3><h4><i>Tiny things left when you drop your computer down the stairs.</i></h4>
+<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
