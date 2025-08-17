@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
+<h3><strong>Why do cows wear bells?</strong></h3><h4><i>Because their horns don't work!</i></h4>
