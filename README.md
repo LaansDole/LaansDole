@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call a deer with no eyes?</strong></h3><h4><i>No eye deer.</i></h4>
+<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>
