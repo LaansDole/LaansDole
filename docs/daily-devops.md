@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>"99.9% of the people are dumb!"</h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4></blockquote>
+<blockquote><h3>Thank you student loans for getting me through college.</h3><h4><i>I don't think I'll ever be able to repay you.</i></h4></blockquote>
