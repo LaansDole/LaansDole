@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What do you call a caveman's fart?</h3><h4><i>A blast from the past.</i></h4></blockquote>
+<blockquote><h3>"99.9% of the people are dumb!"</h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4></blockquote>
