@@ -20,5 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?"</h3><h4><i>But Argon doesn't react.</i></h4></blockquote>
+<blockquote><h3>What do you call a cow with no legs?</h3><h4><i>Ground beef.</i></h4></blockquote>
