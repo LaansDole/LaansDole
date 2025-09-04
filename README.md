@@ -69,5 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How did Harry Potter get down the hill?</strong></h3><h4><i>Walking...
-JK, Rolling.</i></h4>
+<h3><strong>Hey, wanna hear a joke?</strong></h3><h4><i>Parsing HTML with regex.</i></h4>
