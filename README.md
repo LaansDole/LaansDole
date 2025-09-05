@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Hey, wanna hear a joke?</strong></h3><h4><i>Parsing HTML with regex.</i></h4>
+<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>
