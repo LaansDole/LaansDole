@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What kind of doctor is Dr. Pepper?</strong></h3><h4><i>He's a fizzician.</i></h4>
+<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
