@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
+<h3><strong>What does the mermaid wear to math class?</strong></h3><h4><i>Algae-bra.</i></h4>
