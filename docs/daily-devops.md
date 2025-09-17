@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What are bits?</h3><h4><i>Tiny things left when you drop your computer down the stairs.</i></h4></blockquote>
+<blockquote><h3>How do you generate a random string?</h3><h4><i>Put a Windows user in front of Vim and tell them to exit.</i></h4></blockquote>
