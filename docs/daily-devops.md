@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What do you call a developer who doesn't comment code?</h3><h4><i>A developer.</i></h4></blockquote>
+<blockquote><h3>The past, the present and the future walk into a bar.</h3><h4><i>It was tense.</i></h4></blockquote>
