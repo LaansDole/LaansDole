@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What does the mermaid wear to math class?</strong></h3><h4><i>Algae-bra.</i></h4>
+<h3><strong>Why did the programmer quit his job?</strong></h3><h4><i>Because he didn't get arrays.</i></h4>
