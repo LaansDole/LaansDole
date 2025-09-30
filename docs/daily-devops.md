@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I stayed up all night wondering where the sun went.</h3><h4><i>Then it dawned on me.</i></h4></blockquote>
+<blockquote><h3>Why was the river rich?</h3><h4><i>Because it had two banks.</i></h4></blockquote>
