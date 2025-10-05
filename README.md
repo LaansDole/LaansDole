@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
+<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
