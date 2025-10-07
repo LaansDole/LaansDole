@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>
+<h3><strong>The past, the present and the future walk into a bar.</strong></h3><h4><i>It was tense.</i></h4>
