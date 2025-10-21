@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Do you know what killed the man who had a two ton pumpkin fall on him?</strong></h3><h4><i>He was squashed.</i></h4>
+<h3><strong>Why shouldn't you visit an expensive wig shop?</strong></h3><h4><i>It's too high a price "toupee."</i></h4>
