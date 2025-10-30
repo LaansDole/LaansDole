@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What did the cell say when his sister cell stepped on his foot?</h3><h4><i>Mitosis.</i></h4></blockquote>
+<blockquote><h3>What do you call a group of 8 Hobbits?</h3><h4><i>A Hobbyte.</i></h4></blockquote>

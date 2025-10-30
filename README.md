@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What do you call 4 Mexicans in quicksand?</strong></h3><h4><i>Quatro Sinko.</i></h4>
+<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>
