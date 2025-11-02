@@ -69,5 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?"</strong></h3><h4><i>But Argon doesn't react.</i></h4>
+<h3><strong>How can you tell an extroverted programmer?</strong></h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4>
