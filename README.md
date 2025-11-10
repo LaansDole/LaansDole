@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The past, the present and the future walk into a bar.</strong></h3><h4><i>It was tense.</i></h4>
+<h3><strong>Why are Assembly programmers always soaking wet?</strong></h3><h4><i>They work below C-level.</i></h4>
