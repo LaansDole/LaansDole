@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why are Assembly programmers always soaking wet?</strong></h3><h4><i>They work below C-level.</i></h4>
+<h3><strong>How did you make your friend rage?</strong></h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4>
