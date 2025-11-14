@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the Python programmer not respond to the foreign mails he got?</strong></h3><h4><i>Because his interpreter was busy collecting garbage.</i></h4>
+<h3><strong>Why did the chicken cross the road, roll in the mud and cross the road again?</strong></h3><h4><i>He was a dirty double-crosser!</i></h4>
