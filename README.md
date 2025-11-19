@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></h3><h4><i>I told her, "We already have food in the house".</i></h4>
+<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>
