@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers prefer using the dark mode?</strong></h3><h4><i>Because light attracts bugs.</i></h4>
+<h3><strong>Why does the size of the snack not matter to a giraffe?</strong></h3><h4><i>Because even a little bit goes a long way.</i></h4>
