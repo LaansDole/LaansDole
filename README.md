@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Thank you student loans for getting me through college.</strong></h3><h4><i>I don't think I'll ever be able to repay you.</i></h4>
+<h3><strong>So I made a graph of all my past relationships.</strong></h3><h4><i>It has an ex axis and a why axis.</i></h4>
