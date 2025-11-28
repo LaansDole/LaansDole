@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why did the programmer quit his job?</strong></h3><h4><i>Because he didn't get arrays.</i></h4>
+<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
