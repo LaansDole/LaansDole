@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>How do construction workers party?</h3><h4><i>They raise the roof.</i></h4></blockquote>
+<blockquote><h3>I was feeling depressed, my wife put her hand on my back and said "Earth."</h3><h4><i>It meant the world to me.</i></h4></blockquote>
