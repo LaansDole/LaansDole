@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>
+<h3><strong>Why do programmers wear glasses?</strong></h3><h4><i>Because they need to C#</i></h4>
