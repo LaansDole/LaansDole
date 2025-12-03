@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a poorly dressed man on a unicycle and a well dressed man on a bicycle?</strong></h3><h4><i>Attire.</i></h4>
+<h3><strong>No matter how kind you are...</strong></h3><h4><i>German kids are always Kinder.</i></h4>
