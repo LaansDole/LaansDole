@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>No matter how kind you are...</strong></h3><h4><i>German kids are always Kinder.</i></h4>
+<h3><strong>Why are cats so good at video games?</strong></h3><h4><i>They have nine lives.</i></h4>
