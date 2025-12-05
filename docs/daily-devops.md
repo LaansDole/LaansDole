@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why do front end developers eat lunch alone?</h3><h4><i>Because they don't know how to join tables.</i></h4></blockquote>
+<blockquote><h3>What kind of car did Whitney Houston drive?</h3><h4><i>A Hyundaiiiiiiiiiiii</i></h4></blockquote>
