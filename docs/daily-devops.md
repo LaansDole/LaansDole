@@ -20,4 +20,5 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>A Roman walks into a bar and raises 2 fingers and says to the bartender...</h3><h4><i>"Five beers, please."</i></h4></blockquote>
+<blockquote><h3>How did Harry Potter get down the hill?</h3><h4><i>Walking...
+JK, Rolling.</i></h4></blockquote>
