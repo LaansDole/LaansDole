@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do front end developers eat lunch alone?</strong></h3><h4><i>Because they don't know how to join tables.</i></h4>
+<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
