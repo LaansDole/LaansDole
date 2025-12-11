@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
+<h3><strong>I was feeling depressed, my wife put her hand on my back and said "Earth."</strong></h3><h4><i>It meant the world to me.</i></h4>
