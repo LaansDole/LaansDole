@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How do you generate a random string?</strong></h3><h4><i>Put a Windows user in front of Vim and tell them to exit.</i></h4>
+<h3><strong>So I made a graph of all my past relationships.</strong></h3><h4><i>It has an ex axis and a why axis.</i></h4>
