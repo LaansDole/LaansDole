@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>No matter how kind you are...</strong></h3><h4><i>German kids are always Kinder.</i></h4>
+<h3><strong>What happened to the man who got behind on payments to his exorcist?</strong></h3><h4><i>He got repossessed.</i></h4>
