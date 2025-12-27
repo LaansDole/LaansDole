@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Mom asked me where I'm taking her to go out to eat for mother's day.</strong></h3><h4><i>I told her, "We already have food in the house".</i></h4>
+<h3><strong>Why did the programmer quit his job?</strong></h3><h4><i>Because he didn't get arrays.</i></h4>
