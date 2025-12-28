@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</h3><h4><i>She still isn't talking to me.</i></h4></blockquote>
+<blockquote><h3>Which is faster, Hot or cold?</h3><h4><i>Hot, because you can catch a cold</i></h4></blockquote>
