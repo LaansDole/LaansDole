@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>How can you tell an extroverted programmer?</strong></h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4>
+<h3><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></h3><h4><i>Because 7 8 9 A?</i></h4>
