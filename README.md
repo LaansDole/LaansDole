@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why was the river rich?</strong></h3><h4><i>Because it had two banks.</i></h4>
+<h3><strong>.NET developers are picky when it comes to food.</strong></h3><h4><i>They only like chicken NuGet.</i></h4>
