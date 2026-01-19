@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>The other day my wife asked me to pass her lipstick, but I accidentally gave her a glue stick.</strong></h3><h4><i>She still isn't talking to me.</i></h4>
+<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>

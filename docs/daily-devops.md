@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Hey baby I wish your name was asynchronous...</h3><h4><i>... so you'd give me a callback.</i></h4></blockquote>
+<blockquote><h3>Why do programmers wear glasses?</h3><h4><i>Because they need to C#</i></h4></blockquote>
