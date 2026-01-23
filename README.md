@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>
+<h3><strong>Why do programmers prefer using the dark mode?</strong></h3><h4><i>Because light attracts bugs.</i></h4>
