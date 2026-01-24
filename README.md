@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why do programmers prefer using the dark mode?</strong></h3><h4><i>Because light attracts bugs.</i></h4>
+<h3><strong>Why was the river rich?</strong></h3><h4><i>Because it had two banks.</i></h4>
