@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
+<h3><strong>Why does the size of the snack not matter to a giraffe?</strong></h3><h4><i>Because even a little bit goes a long way.</i></h4>
