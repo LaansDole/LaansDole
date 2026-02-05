@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4>
+<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
