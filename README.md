@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What time did the man go to the dentist?</strong></h3><h4><i>Tooth hurt-y.</i></h4>
+<h3><strong>Hey baby I wish your name was asynchronous...</strong></h3><h4><i>... so you'd give me a callback.</i></h4>
