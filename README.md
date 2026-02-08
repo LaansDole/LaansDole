@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why are modern programming languages so materialistic?</strong></h3><h4><i>Because they are object-oriented.</i></h4>
+<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>
