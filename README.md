@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>A grocery store cashier asked if I would like my milk in a bag.</strong></h3><h4><i>I told her "No, thanks. The carton works fine".</i></h4>
+<h3><strong>What do you call a pile of kittens?</strong></h3><h4><i>A meowntain.</i></h4>
