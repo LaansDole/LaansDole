@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why does the size of the snack not matter to a giraffe?</h3><h4><i>Because even a little bit goes a long way.</i></h4></blockquote>
+<blockquote><h3>Why is 6 afraid of 7 in hexadecimal Canada?</h3><h4><i>Because 7 8 9 A?</i></h4></blockquote>
