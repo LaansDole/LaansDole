@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why should you never talk to pi?</h3><h4><i>Because it will go on forever.</i></h4></blockquote>
+<blockquote><h3>So I made a graph of all my past relationships.</h3><h4><i>It has an ex axis and a why axis.</i></h4></blockquote>
