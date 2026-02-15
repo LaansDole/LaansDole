@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
+<h3><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4>
