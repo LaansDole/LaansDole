@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>What are bits?</strong></h3><h4><i>Tiny things left when you drop your computer down the stairs.</i></h4>
+<h3><strong>Why did the functional programmer get thrown out of school?</strong></h3><h4><i>Because he refused to take classes.</i></h4>
