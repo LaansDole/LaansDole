@@ -69,4 +69,4 @@
 
 ## 🤖 Made with DevOps
 
-<h3><strong>Why are cats so good at video games?</strong></h3><h4><i>They have nine lives.</i></h4>
+<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
