@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node scripts/generateJoke.js ./README.md '## 🤖 Made with DevOps' devops",
+    "start": "node scripts/generateJoke.js ./README.md '### 🤖 Daily Byte of Humor' devops",
     "build": "node scripts/generateJoke.js ./docs/daily-devops.md '<h2><strong>Laugh of the Day</strong></h2>' build"
   },
   "repository": {

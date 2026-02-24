@@ -2,7 +2,7 @@
 comments: true
 ---
 
-**<h1>Made with DevOps <i class="fa-solid fa-gears"></i></h1>**
+**<h1>Daily Byte of Humor <i class="fa-solid fa-gears"></i></h1>**
 <p>This page will be automatically built and deployed to GitHub Page everyday without any human intervention. Therefore, the following <strong><i>joke</i></strong> and <strong><i>snake</i></strong> are daily renewed.</p>
 <hr/>
 <picture align="center">
