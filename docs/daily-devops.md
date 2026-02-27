@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What's the difference between a school bus and a cactus?</h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4></blockquote>
+<blockquote><h3>Why did the banana go see a doctor?</h3><h4><i>Because it wasn't peeling well.</i></h4></blockquote>
