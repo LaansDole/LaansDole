@@ -22,6 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>My neighbor is a 90 year old with Alzheimer's, I see him every morning and he asks me If I've seen his wife.
-Every day I have to tell this poor man that his wife died 20 years ago.
-I could have moved to another house or even ignore his question.</strong></h3><h4><i>But the look of joy in his eyes whenever I answer him is worth the world.</i></h4>
+<h3><strong>Why did the database administrator leave his wife?</strong></h3><h4><i>She had one-to-many relationships.</i></h4>
