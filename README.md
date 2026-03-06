@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the database administrator leave his wife?</strong></h3><h4><i>She had one-to-many relationships.</i></h4>
+<h3><strong>.NET developers are picky when it comes to food.</strong></h3><h4><i>They only like chicken NuGet.</i></h4>
