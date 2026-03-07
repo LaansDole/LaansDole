@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>.NET developers are picky when it comes to food.</strong></h3><h4><i>They only like chicken NuGet.</i></h4>
+<h3><strong>The past, the present and the future walk into a bar.</strong></h3><h4><i>It was tense.</i></h4>
