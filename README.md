@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Which part of the hospital has the least privacy?</strong></h3><h4><i>The ICU.</i></h4>
+<h3><strong>Why did the koala get rejected?</strong></h3><h4><i>Because he did not have any koalafication.</i></h4>
