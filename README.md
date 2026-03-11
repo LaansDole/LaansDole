@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the koala get rejected?</strong></h3><h4><i>Because he did not have any koalafication.</i></h4>
+<h3><strong>What do you call a pile of kittens?</strong></h3><h4><i>A meowntain.</i></h4>
