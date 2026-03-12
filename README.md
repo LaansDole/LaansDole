@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What do you call a pile of kittens?</strong></h3><h4><i>A meowntain.</i></h4>
+<h3><strong>Why are Assembly programmers always soaking wet?</strong></h3><h4><i>They work below C-level.</i></h4>
