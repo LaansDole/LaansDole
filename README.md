@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What's the difference between a hot potato and a flying pig?</strong></h3><h4><i>One's a heated yam, the other's a yeeted ham.</i></h4>
+<h3><strong>Why do programmers confuse Halloween and Christmas?</strong></h3><h4><i>Because Oct 31 = Dec 25</i></h4>
