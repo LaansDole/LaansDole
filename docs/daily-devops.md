@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why is 6 afraid of 7 in hexadecimal Canada?</h3><h4><i>Because 7 8 9 A?</i></h4></blockquote>
+<blockquote><h3>You see, mountains aren't just funny.</h3><h4><i>They are hill areas.</i></h4></blockquote>
