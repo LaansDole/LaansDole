@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>I was feeling depressed, my wife put her hand on my back and said "Earth."</strong></h3><h4><i>It meant the world to me.</i></h4>
+<h3><strong>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</strong></h3><h4><i>A regular expression.</i></h4>
