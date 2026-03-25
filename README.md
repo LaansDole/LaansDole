@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</strong></h3><h4><i>A regular expression.</i></h4>
+<h3><strong>Why did the web developer walk out of a resturant in disgust?</strong></h3><h4><i>The seating was laid out in tables.</i></h4>
