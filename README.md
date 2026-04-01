@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>My mother said, "You won't amount to anything because you always procrastinate."</strong></h3><h4><i>I said, "Oh yeah... Just you wait."</i></h4>
+<h3><strong>What do you call a group of 8 Hobbits?</strong></h3><h4><i>A Hobbyte.</i></h4>
