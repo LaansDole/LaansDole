@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>My wife left me because I'm too insecure and paranoid.</h3><h4><i>Oh wait, never mind. She was just getting the mail.</i></h4></blockquote>
+<blockquote><h3>I asked my wife if I was the only one she's been with.</h3><h4><i>She said, "Yes, the others were at least sevens or eights."</i></h4></blockquote>
