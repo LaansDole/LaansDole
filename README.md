@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the functional programmer get thrown out of school?</strong></h3><h4><i>Because he refused to take classes.</i></h4>
+<h3><strong>Hey baby I wish your name was asynchronous...</strong></h3><h4><i>... so you'd give me a callback.</i></h4>
