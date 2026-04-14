@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Thank you student loans for getting me through college.</strong></h3><h4><i>I don't think I'll ever be able to repay you.</i></h4>
+<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
