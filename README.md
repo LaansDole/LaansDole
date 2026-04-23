@@ -22,5 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>The gas Argon walks into a bar.
-The barkeeper says "What would you like to drink?"</strong></h3><h4><i>But Argon doesn't react.</i></h4>
+<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
