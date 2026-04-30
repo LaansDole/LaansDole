@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>I just saw my wife trip over and drop a basket full of ironed clothes.</strong></h3><h4><i>I watched it all unfold.</i></h4>
+<h3><strong>What do you call a group of 8 Hobbits?</strong></h3><h4><i>A Hobbyte.</i></h4>
