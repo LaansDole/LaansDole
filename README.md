@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What do you call a group of 8 Hobbits?</strong></h3><h4><i>A Hobbyte.</i></h4>
+<h3><strong>How did the programmer die in the shower?</strong></h3><h4><i>He read the shampoo bottle instructions: Lather. Rinse. Repeat.</i></h4>
