@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>why do python programmers wear glasses?</strong></h3><h4><i>Because they can't C.</i></h4>
+<h3><strong>Why was the JavaScript developer sad?</strong></h3><h4><i>Because they didn't Node how to Express themself!</i></h4>
