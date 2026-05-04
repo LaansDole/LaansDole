@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why was the JavaScript developer sad?</strong></h3><h4><i>Because they didn't Node how to Express themself!</i></h4>
+<h3><strong>Hey baby I wish your name was asynchronous...</strong></h3><h4><i>... so you'd give me a callback.</i></h4>
