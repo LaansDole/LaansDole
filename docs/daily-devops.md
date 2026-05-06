@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the Python data scientist get arrested at customs?</h3><h4><i>She was caught trying to import pandas!</i></h4></blockquote>
+<blockquote><h3>A Roman walks into a bar and raises 2 fingers and says to the bartender...</h3><h4><i>"Five beers, please."</i></h4></blockquote>
