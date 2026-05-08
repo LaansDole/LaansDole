@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I WRITE MY JOKES IN CAPITALS.</h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4></blockquote>
+<blockquote><h3>I walked into a bar once.</h3><h4><i>It really hurt my head.</i></h4></blockquote>
