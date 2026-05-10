@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
+<h3><strong>What happened to the man who got behind on payments to his exorcist?</strong></h3><h4><i>He got repossessed.</i></h4>

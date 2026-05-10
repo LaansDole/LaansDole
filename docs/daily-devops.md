@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the programmer jump on the table?</h3><h4><i>Because debug was on his screen.</i></h4></blockquote>
+<blockquote><h3>Why was the mushroom always invited to parties?</h3><h4><i>Cause he's a fungi.</i></h4></blockquote>
