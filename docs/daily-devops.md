@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why are Assembly programmers always soaking wet?</h3><h4><i>They work below C-level.</i></h4></blockquote>
+<blockquote><h3>My employer came running to me and said, "I was looking for you all day! Where the hell have you been?"</h3><h4><i>I replied, "Good employees are hard to find."</i></h4></blockquote>
