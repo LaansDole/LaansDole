@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Thank you student loans for getting me through college.</strong></h3><h4><i>I don't think I'll ever be able to repay you.</i></h4>
+<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>
