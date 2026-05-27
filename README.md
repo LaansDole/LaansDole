@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>How many programmers does it take to screw in a light bulb?</strong></h3><h4><i>None. It's a hardware problem.</i></h4>
+<h3><strong>A Roman walks into a bar and raises 2 fingers and says to the bartender...</strong></h3><h4><i>"Five beers, please."</i></h4>
