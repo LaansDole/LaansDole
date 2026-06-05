@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>I just got fired from my job at the keyboard factory.</h3><h4><i>They told me I wasn't putting in enough shifts.</i></h4></blockquote>
+<blockquote><h3>What's the difference between a school bus and a cactus?</h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4></blockquote>
