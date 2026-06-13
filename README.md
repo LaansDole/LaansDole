@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>How can you tell an extroverted programmer?</strong></h3><h4><i>He looks at YOUR shoes when he's talking.</i></h4>
+<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
