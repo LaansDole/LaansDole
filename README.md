@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why are modern programming languages so materialistic?</strong></h3><h4><i>Because they are object-oriented.</i></h4>
+<h3><strong>What do you call 4 Mexicans in quicksand?</strong></h3><h4><i>Quatro Sinko.</i></h4>
