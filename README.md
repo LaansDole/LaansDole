@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What's the difference between England and a tea bag?</strong></h3><h4><i>The tea bag stays in the cup longer.</i></h4>
+<h3><strong>How much did your chimney cost?</strong></h3><h4><i>Nothing, it was on the house.</i></h4>
