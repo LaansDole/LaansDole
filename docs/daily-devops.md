@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>why do python programmers wear glasses?</h3><h4><i>Because they can't C.</i></h4></blockquote>
+<blockquote><h3>What is the best prefix for global variables?</h3><h4><i>//</i></h4></blockquote>
