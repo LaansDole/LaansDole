@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>What is the best prefix for global variables?</h3><h4><i>//</i></h4></blockquote>
+<blockquote><h3>Why was the JavaScript developer sad?</h3><h4><i>Because they didn't Node how to Express themself!</i></h4></blockquote>
