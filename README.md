@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Thank you student loans for getting me through college.</strong></h3><h4><i>I don't think I'll ever be able to repay you.</i></h4>
+<h3><strong>What's the difference between an in-law and an outlaw?</strong></h3><h4><i>An outlaw is wanted.</i></h4>
