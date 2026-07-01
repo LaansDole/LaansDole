@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>I walked into a bar once.</strong></h3><h4><i>It really hurt my head.</i></h4>
+<h3><strong>What's the difference between an in-law and an outlaw?</strong></h3><h4><i>An outlaw is wanted.</i></h4>
