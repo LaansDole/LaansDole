@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What's the difference between an in-law and an outlaw?</strong></h3><h4><i>An outlaw is wanted.</i></h4>
+<h3><strong>Why did the koala get rejected?</strong></h3><h4><i>Because he did not have any koalafication.</i></h4>
