@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the Romanian stop reading?</strong></h3><h4><i>They wanted to give the Bucharest.</i></h4>
+<h3><strong>Why did the programmer quit his job?</strong></h3><h4><i>Because he didn't get arrays.</i></h4>
