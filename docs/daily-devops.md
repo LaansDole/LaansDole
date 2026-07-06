@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the Romanian stop reading?</h3><h4><i>They wanted to give the Bucharest.</i></h4></blockquote>
+<blockquote><h3>What's the difference between a hot potato and a flying pig?</h3><h4><i>One's a heated yam, the other's a yeeted ham.</i></h4></blockquote>
