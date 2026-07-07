@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the Python data scientist get arrested at customs?</strong></h3><h4><i>She was caught trying to import pandas!</i></h4>
+<h3><strong>Why do Java programmers hate communism?</strong></h3><h4><i>They don't want to live in a classless society.</i></h4>
