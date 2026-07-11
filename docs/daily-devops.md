@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Two peanuts were walking.</h3><h4><i>One was assaulted.</i></h4></blockquote>
+<blockquote><h3>Two guys walked into a bar.</h3><h4><i>The third guy ducked.</i></h4></blockquote>
