@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>So I made a graph of all my past relationships.</strong></h3><h4><i>It has an ex axis and a why axis.</i></h4>
+<h3><strong>This morning I accidentally made my coffee with Red Bull instead of water.</strong></h3><h4><i>I was already on the highway when I noticed I forgot my car at home.</i></h4>
