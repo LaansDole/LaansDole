@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What do you call 4 Mexicans in quicksand?</strong></h3><h4><i>Quatro Sinko.</i></h4>
+<h3><strong>Why did the web developer walk out of a resturant in disgust?</strong></h3><h4><i>The seating was laid out in tables.</i></h4>
