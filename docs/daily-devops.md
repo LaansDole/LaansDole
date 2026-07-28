@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why is Linux safe?</h3><h4><i>Hackers peak through Windows only.</i></h4></blockquote>
+<blockquote><h3>Why do cows wear bells?</h3><h4><i>Because their horns don't work!</i></h4></blockquote>
