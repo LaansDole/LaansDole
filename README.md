@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>I asked my wife if I was the only one she's been with.</strong></h3><h4><i>She said, "Yes, the others were at least sevens or eights."</i></h4>
+<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
