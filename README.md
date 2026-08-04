@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What is the least spoken language in the world?</strong></h3><h4><i>Sign language.</i></h4>
+<h3><strong>Why are modern programming languages so materialistic?</strong></h3><h4><i>Because they are object-oriented.</i></h4>
