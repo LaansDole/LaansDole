@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why do front end developers eat lunch alone?</strong></h3><h4><i>Because they don't know how to join tables.</i></h4>
+<h3><strong>What happened to the man who got behind on payments to his exorcist?</strong></h3><h4><i>He got repossessed.</i></h4>
