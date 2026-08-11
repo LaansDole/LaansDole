@@ -22,4 +22,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why do programmers prefer using the dark mode?</strong></h3><h4><i>Because light attracts bugs.</i></h4>
+<h3><strong>Why did the Python data scientist get arrested at customs?</strong></h3><h4><i>She was caught trying to import pandas!</i></h4>
