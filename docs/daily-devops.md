@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>How did you make your friend rage?</h3><h4><i>I implemented a greek question mark in his JavaScript code.</i></h4></blockquote>
+<blockquote><h3>Why did the programmer quit his job?</h3><h4><i>Because he didn't get arrays.</i></h4></blockquote>
