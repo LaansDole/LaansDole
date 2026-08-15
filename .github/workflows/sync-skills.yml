@@ -1,0 +1,33 @@
+name: sync-hermes-skills
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync Hermes skills section
+        run: node scripts/syncSkills.js
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "README.md unchanged"
+          else
+            git config user.name "LaansDole"
+            git config user.email "LaansDole@users.noreply.github.com"
+            git add README.md
+            git commit -m "Update Hermes skills catalog"
+            git push
+          fi
