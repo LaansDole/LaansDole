@@ -36,6 +36,9 @@
 - [session-handoff](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/session-handoff) — Use when ending or pausing a session, switching between sessions, or asked to save/compress session state with TODOs - compresses the current session into a handoff file, updates a task index, and creates Apple Reminders for follow-up. Also used by the daily reminder cron in review mode to pick up leftover tasks. (v1.2.0)
 - [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user asks for a TL;DR or before/after summary. (v1.0.0)
 
+**Research Access**
+- [sci-hub-access](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/sci-hub-access) — Use when a paywalled DOI's full text is needed and no open-access copy exists — retrieving PDFs via Sci-Hub mirrors, and joining/using Sci-Net (sci-net.xyz) for post-2022 papers. Covers mirror discovery, direct PDF fetch, Turnstile gate, and the Sci-Net invite-code API. (v1.1.0)
+
 **Slack**
 - [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack-scan) — Summarize today's Slack activity on demand -- one channel or every channel/DM the bot is in. (v1.0.0)
 
