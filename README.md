@@ -65,4 +65,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the functional programmer get thrown out of school?</strong></h3><h4><i>Because he refused to take classes.</i></h4>
+<h3><strong>What kind of doctor is Dr. Pepper?</strong></h3><h4><i>He's a fizzician.</i></h4>
