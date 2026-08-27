@@ -38,6 +38,9 @@
 - [session-handoff](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/session-handoff) — Use when ending or pausing a session, switching between sessions, or asked to save/compress session state with TODOs - compresses the current session into a handoff file, updates a task index, and creates Apple Reminders for follow-up. Also used by the daily reminder cron in review mode to pick up leftover tasks. (v1.2.0)
 - [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user asks for a TL;DR or before/after summary. (v1.0.0)
 
+**Coding Agents**
+- [oh-my-pi](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/oh-my-pi) — Troubleshoot/operate the Oh-My-Pi (omp) coding agent.
+
 **Slack**
 - [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack-scan) — Summarize today's Slack activity on demand -- one channel or every channel/DM the bot is in. (v1.0.0)
 
