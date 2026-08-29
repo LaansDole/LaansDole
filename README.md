@@ -68,4 +68,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the banana go see a doctor?</strong></h3><h4><i>Because it wasn't peeling well.</i></h4>
+<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
