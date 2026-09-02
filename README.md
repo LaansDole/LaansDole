@@ -68,4 +68,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why did the JavaScript heap close shop?</strong></h3><h4><i>It ran out of memory.</i></h4>
+<h3><strong>Why did the programmer quit his job?</strong></h3><h4><i>Because he didn't get arrays.</i></h4>
