@@ -68,4 +68,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>"99.9% of the people are dumb!"</strong></h3><h4><i>"Fortunately I belong to the remaining 1%"</i></h4>
+<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>
