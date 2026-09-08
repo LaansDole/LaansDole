@@ -68,4 +68,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What is the most used language in programming?</strong></h3><h4><i>Profanity.</i></h4>
+<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
