@@ -37,6 +37,7 @@
 - [pbcopy-word-delivery](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/pbcopy-word-delivery) — Deliver structured text content (verdicts, reports, summaries) directly to the macOS clipboard via pbcopy so the user can Cmd+V into Word without Warp terminal soft-wrap artifacts. (v1.0.0)
 - [session-handoff](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/session-handoff) — Use when ending or pausing a session, switching between sessions, or asked to save/compress session state with TODOs - compresses the current session into a handoff file, updates a task index, and creates Apple Reminders for follow-up. Also used by the daily reminder cron in review mode to pick up leftover tasks. (v1.2.0)
 - [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user asks for a TL;DR or before/after summary. (v1.0.0)
+- [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any 'give me the report' request. (v1.0.0)
 
 **Coding Agents**
 - [oh-my-pi](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/oh-my-pi) — Troubleshoot/operate the Oh-My-Pi (omp) coding agent.
