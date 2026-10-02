@@ -70,4 +70,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What do you get if you lock a monkey in a room with a typewriter for 8 hours?</strong></h3><h4><i>A regular expression.</i></h4>
+<h3><strong>What's the difference between a school bus and a cactus?</strong></h3><h4><i>A cactus keeps the little pricks on the outside.</i></h4>
