@@ -73,4 +73,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>What's the difference between an in-law and an outlaw?</strong></h3><h4><i>An outlaw is wanted.</i></h4>
+<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
