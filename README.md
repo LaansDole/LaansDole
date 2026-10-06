@@ -73,4 +73,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Which is faster, Hot or cold?</strong></h3><h4><i>Hot, because you can catch a cold</i></h4>
+<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
