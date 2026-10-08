@@ -73,4 +73,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>I WRITE MY JOKES IN CAPITALS.</strong></h3><h4><i>THIS ONE WAS WRITTEN IN PARIS.</i></h4>
+<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
