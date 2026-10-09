@@ -73,4 +73,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
+<h3><strong>Why do they call it hyper terminal?</strong></h3><h4><i>Too much Java.</i></h4>
