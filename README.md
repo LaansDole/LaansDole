@@ -47,7 +47,8 @@
 - [oh-my-pi](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/oh-my-pi) — Troubleshoot/operate the Oh-My-Pi (omp) coding agent.
 
 **Slack**
-- [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack-scan) — Summarize today's Slack activity on demand -- one channel or every channel/DM the bot is in. (v1.0.0)
+- [slack-mention-watch](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-mention-watch) — Use when the user asks about Slack pings, mentions, notifications or what they missed, or wants @mention alerts while away. Read-only. (v2.0.0)
+- [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-scan) — Summarize today's Slack channel activity on demand (bot-member channels). NOT for pings/mentions -- use slack-mention-watch. (v1.0.0)
 
 **ilearning-autoadvance**
 - [ilearning-autoadvance](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/ilearning-autoadvance) — Autonomously advance HCL iLearning / SAP SuccessFactors compliance courses (Articulate Storyline SCORM, Ethena GoEthena, or direct-HTML SVG players) via raw CDP on port 9222. Resumes paused audio, clicks interactive slide topics/cards, answers quizzes, navigates to the next slide. (v5.0.0)
