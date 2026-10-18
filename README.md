@@ -36,7 +36,7 @@
 - [i-have-adhd](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/i-have-adhd) — Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until "stop adhd mode".
 - [memory-ui](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/memory-ui) — Launch the Mnemosyne browser UI to inspect stored memory.
 - [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config, fastfetch on new-terminal startup, and bat/eza/zoxide aliases for zsh. (v1.0.0)
-- [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user asks for a TL;DR or before/after summary. (v1.0.0)
+- [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user says tldr / TL;DR or asks for a before/after summary. (v1.1.0)
 - [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any 'give me the report' request. (v1.0.0)
 
 **Coding Agents**
