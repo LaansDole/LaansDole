@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Two guys walked into a bar.</h3><h4><i>The third guy ducked.</i></h4></blockquote>
+<blockquote><h3>Why did the chicken cross the road, roll in the mud and cross the road again?</h3><h4><i>He was a dirty double-crosser!</i></h4></blockquote>
