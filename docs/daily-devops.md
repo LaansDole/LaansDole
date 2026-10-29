@@ -20,4 +20,4 @@ comments: true
 </button> -->
 <h2><strong>Laugh of the Day</strong></h2>
 
-<blockquote><h3>Why did the chicken cross the road, roll in the mud and cross the road again?</h3><h4><i>He was a dirty double-crosser!</i></h4></blockquote>
+<blockquote><h3>Did you hear about the crime in the parking garage?</h3><h4><i>It was wrong on so many levels.</i></h4></blockquote>
