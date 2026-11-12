@@ -62,5 +62,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>How did Harry Potter get down the hill?</strong></h3><h4><i>Walking...
-JK, Rolling.</i></h4>
+<h3><strong>What happened to the man who got behind on payments to his exorcist?</strong></h3><h4><i>He got repossessed.</i></h4>
