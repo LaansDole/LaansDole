@@ -62,4 +62,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>I just saw my wife trip over and drop a basket full of ironed clothes.</strong></h3><h4><i>I watched it all unfold.</i></h4>
+<h3><strong>Do you know what killed the man who had a two ton pumpkin fall on him?</strong></h3><h4><i>He was squashed.</i></h4>
