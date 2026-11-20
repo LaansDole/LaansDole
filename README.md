@@ -62,4 +62,4 @@
 
 ### 🤖 Daily Byte of Humor
 
-<h3><strong>Did you hear about the cheese factory that exploded in France?</strong></h3><h4><i>There was nothing but de brie.</i></h4>
+<h3><strong>Why did the functional programmer get thrown out of school?</strong></h3><h4><i>Because he refused to take classes.</i></h4>
