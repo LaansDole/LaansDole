@@ -20,6 +20,18 @@
 * Current research work (hopefully PhD): [Muti-agent Simulation](https://github.com/LaansDole/multi-agent-simulation), [MedVoice](https://github.com/medvoice-research/medvoice-service).
 * Open source contributor: [OpenBMB/ChatDev 2.0](https://github.com/OpenBMB/ChatDev), [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything).
 
+<!-- HERMES_REPORTS_START -->
+### 📑 Latest Research Reports
+*Auto-synced daily from [my-hermes-skills reports](https://laansdole.github.io/my-hermes-skills/reports.html)*
+
+- **2026-11-14** · [Does an expert persona in the system prompt help or hurt current models? An A/B test and literature review](https://laansdole.github.io/my-hermes-skills/reports/2026-11/2026-11-14-persona-prompting-ab-test.html) — A generic "You are a world-class expert" persona neither helped nor hurt either model in 446 runs: every accuracy difference was within noise (sign-test p ≥ 0.34). It is not a hindrance on these models, but it buys nothing and can be dropped from skills; roles that state scope,…
+- **2026-10-24** · [Should Reladraw replace Mermaid for README diagrams?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-mermaid-vs-reladraw.html) — Keep Mermaid for anything that must render inline in a GitHub README, issue or PR; use Reladraw only for hand-placed architecture or flow diagrams that you are willing to render to SVG and commit, or show on a Pages site.
+- **2026-10-24** · [Why do Hermes voice replies crackle on macOS? afplay cuts Ogg/Opus off after ~1s](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-macos-afplay-ogg-tts-truncation.html) — The audio files were fine; playback was cutting them off. On macOS 15 and later afplay plays about the first second of an Ogg/Opus file and exits 0, so Hermes never falls back to another player. Setting the provider's voice_compatible to false works around it, and PR #132143…
+- **2026-10-15** · [Has oh-my-pi adopted Pi 1.0 and Pi Durable, and should it?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-15-oh-my-pi-vs-pi-1-0-and-pi-durable.html) — No: omp has adopted neither Pi 1.0 nor Pi Durable. It should not rebase onto Pi 1.0, but it should keep closing Pi 1.x extension-compatibility gaps and track Pi Durable's design for its own durability proposals.
+- **2026-10-14** · [Why do omp's small-model agents feel slower on Claude Haiku 5.5 (max) than on GPT-6 Luna (max)?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-14-haiku-5-5-vs-gpt-6-luna-omp-speed.html) — Yes, Haiku 5.5:max is slower, and the cause is :max effort on Haiku, not the model itself. Move scout, reviewer and init from anthropic/claude-haiku-5-5:max to :medium (or :high if review depth suffers), and keep :max only for one-off deep passes.
+
+<!-- HERMES_REPORTS_END -->
+
 <!-- HERMES_SKILLS_START -->
 ### 🤖 Hermes Skills
 *Auto-synced daily from [my-hermes-skills](https://github.com/LaansDole/my-hermes-skills) · [docs](https://laansdole.github.io/my-hermes-skills/)*
@@ -40,7 +52,7 @@
 - [multi-repo-pr-review-merge-round](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/multi-repo-pr-review-merge-round) — Use when burning a metered omp model budget on PR/worktree review across repos. Coordinator queues omp -p review lanes, verifies, merges, re-spawns each usage window until month end. (v1.0.0)
 - [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config, fastfetch on new-terminal startup, and bat/eza/zoxide aliases for zsh. (v1.0.0)
 - [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user says tldr / TL;DR or asks for a before/after summary. (v1.1.0)
-- [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any 'give me the report' request. (v1.1.0)
+- [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any 'give me the report' request. (v2.0.0)
 
 **Coding Agents**
 - [oh-my-pi](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/oh-my-pi) — Troubleshoot/operate the Oh-My-Pi (omp) coding agent.
