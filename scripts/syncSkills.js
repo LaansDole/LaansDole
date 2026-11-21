@@ -10,6 +10,9 @@ const START = "<!-- HERMES_SKILLS_START -->";
 const END = "<!-- HERMES_SKILLS_END -->";
 const REPO_URL = "https://github.com/LaansDole/my-hermes-skills";
 const DOCS_URL = "https://laansdole.github.io/my-hermes-skills/";
+const REPORTS_START = "<!-- HERMES_REPORTS_START -->";
+const REPORTS_END = "<!-- HERMES_REPORTS_END -->";
+const REPORTS_URL = "https://laansdole.github.io/my-hermes-skills/reports.html";
 const ANCHOR = "### 🤖 Daily Byte of Humor";
 
 async function fetchManifest(url = MANIFEST_URL) {
@@ -56,16 +59,31 @@ function renderBlock(data) {
   return lines.join("\n").trim() + "\n";
 }
 
-function replaceSection(readme, block) {
-  const startIdx = readme.indexOf(START);
-  const endIdx = readme.indexOf(END);
+function renderReportsBlock(reports) {
+  const lines = [
+    "### 📑 Latest Research Reports",
+    `*Auto-synced daily from [my-hermes-skills reports](${REPORTS_URL})*`,
+    "",
+  ];
+  // ponytail: manifest is newest-first per contract; no re-sort.
+  for (const r of reports.slice(0, 5)) {
+    const title = String(r.title).replace(/[[\]]/g, "\\$&");
+    const summary = (r.summary || "").replace(/\s+/g, " ").trim();
+    lines.push(`- **${r.date}** · [${title}](${r.url}) — ${summary}`);
+  }
+  return lines.join("\n").trim() + "\n";
+}
+
+function replaceSection(readme, block, start = START, end = END) {
+  const startIdx = readme.indexOf(start);
+  const endIdx = readme.indexOf(end);
   if (startIdx === -1 || endIdx === -1 || endIdx <= startIdx) {
     throw new Error(
-      `markers not found in ${README_PATH} (need ${START} ... ${END}); use --init for first-time setup`
+      `markers not found in ${README_PATH} (need ${start} ... ${end}); use --init for first-time setup`
     );
   }
   return (
-    readme.slice(0, startIdx + START.length) + "\n" + block + "\n" + readme.slice(endIdx)
+    readme.slice(0, startIdx + start.length) + "\n" + block + "\n" + readme.slice(endIdx)
   );
 }
 
@@ -77,28 +95,41 @@ function initSection(readme, block) {
   return readme.slice(0, idx) + markerBlock + "\n\n" + readme.slice(idx);
 }
 
+// Pure: returns { readme, changed }. Reports block is skipped when the manifest has no reports array.
+function syncReadme(readme, data, { init = false } = {}) {
+  const hasSkills = readme.includes(START) && readme.includes(END);
+  if (!hasSkills && !init) {
+    throw new Error(`markers not found in ${README_PATH} (need ${START} ... ${END})`);
+  }
+  const block = renderBlock(data);
+  let next = hasSkills ? replaceSection(readme, block) : initSection(readme, block);
+
+  if (Array.isArray(data.reports)) {
+    const reportsBlock = renderReportsBlock(data.reports);
+    if (next.includes(REPORTS_START) && next.includes(REPORTS_END)) {
+      next = replaceSection(next, reportsBlock, REPORTS_START, REPORTS_END);
+    } else {
+      const idx = next.indexOf(START);
+      next =
+        next.slice(0, idx) +
+        `${REPORTS_START}\n${reportsBlock}\n${REPORTS_END}\n\n` +
+        next.slice(idx);
+    }
+  }
+  return { readme: next, changed: next !== readme };
+}
+
 async function main() {
   const init = process.argv.includes("--init");
   const data = await fetchManifest();
-  const block = renderBlock(data);
-  let readme = fs.readFileSync(README_PATH, "utf8");
-  const hasMarkers = readme.includes(START) && readme.includes(END);
-
-  if (init && !hasMarkers) {
-    fs.writeFileSync(README_PATH, initSection(readme, block));
-    console.log("initialized Hermes skills section");
-    return;
-  }
-  if (!hasMarkers) {
-    throw new Error(`markers not found in ${README_PATH} (need ${START} ... ${END})`);
-  }
-  const next = replaceSection(readme, block);
-  if (next === readme) {
+  const readme = fs.readFileSync(README_PATH, "utf8");
+  const { readme: next, changed } = syncReadme(readme, data, { init });
+  if (!changed) {
     console.log("no change");
     return;
   }
   fs.writeFileSync(README_PATH, next);
-  console.log("updated Hermes skills section");
+  console.log("updated Hermes skills and reports sections");
 }
 
 if (require.main === module) {
@@ -112,9 +143,13 @@ module.exports = {
   fetchManifest,
   groupByCategory,
   renderBlock,
+  renderReportsBlock,
   replaceSection,
   initSection,
+  syncReadme,
   START,
   END,
+  REPORTS_START,
+  REPORTS_END,
   ANCHOR,
 };
