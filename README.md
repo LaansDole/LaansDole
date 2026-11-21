@@ -33,35 +33,51 @@
 [![skills](https://img.shields.io/badge/skills-20-172B4D?style=flat-square)](https://github.com/LaansDole/my-hermes-skills) [![docs](https://img.shields.io/badge/docs-my--hermes--skills-172B4D?style=flat-square)](https://laansdole.github.io/my-hermes-skills/) [![synced](https://img.shields.io/badge/synced-daily-172B4D?style=flat-square)](https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml)
 
 <details>
-<summary><b>Research</b> · 4 skills</summary>
+<summary><b>Research & Writing</b> · 5 skills</summary>
 
 - [covidence-full-text-retrieval](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-full-text-retrieval) — Autonomously retrieve full-text PDFs for references in the full-text review stage of a Covidence…
 - [covidence-full-text-review](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-full-text-retrieval/covidence-full-text-review) — Review full-text papers in a Covidence systematic review.
 - [covidence-screening](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-screening) — Autonomously screen references at the title & abstract stage of a Covidence systematic review in the…
 - [sci-hub-access](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/sci-hub-access) — Use when a paywalled DOI's full text is needed and no open-access copy exists — retrieving PDFs via…
-
-</details>
-
-<details>
-<summary><b>Productivity</b> · 10 skills</summary>
-
-- [auditing-worktrees](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/auditing-worktrees) — Use when asked for the status of worktrees, which worktree branches are ready to review, pushed,…
-- [camofox-browser](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/camofox-browser) — Use when sites block bots.
-- [demo-runbook](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/demo-runbook) — Use when asked for a runbook demo.
-- [hermes-deepseek-cache](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/hermes-deepseek-cache) — Use when running Hermes Agent with a DeepSeek-family model (deepseek, or deepseek-v4-flash/pro via…
-- [i-have-adhd](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/i-have-adhd) — Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate…
-- [memory-ui](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/memory-ui) — Launch the Mnemosyne browser UI to inspect stored memory.
-- [multi-repo-pr-review-merge-round](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/multi-repo-pr-review-merge-round) — Use when burning a metered omp model budget on PR/worktree review across repos.
-- [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config,…
-- [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user says tldr / TL;DR or asks for a before/after summary.
 - [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any…
 
 </details>
 
 <details>
-<summary><b>Coding Agents</b> · 1 skill</summary>
+<summary><b>Coding Workflow</b> · 5 skills</summary>
 
+- [auditing-worktrees](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/auditing-worktrees) — Use when asked for the status of worktrees, which worktree branches are ready to review, pushed,…
+- [demo-runbook](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/demo-runbook) — Use when asked for a runbook demo.
+- [multi-repo-pr-review-merge-round](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/multi-repo-pr-review-merge-round) — Use when burning a metered omp model budget on PR/worktree review across repos.
 - [oh-my-pi](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/oh-my-pi) — Troubleshoot/operate the Oh-My-Pi (omp) coding agent.
+- [superpowers-using-superpowers](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/superpowers/superpowers-using-superpowers) — Use when starting any conversation - establishes how to find and use skills, requiring skill loading…
+
+</details>
+
+<details>
+<summary><b>Agent & Machine Setup</b> · 3 skills</summary>
+
+- [hermes-deepseek-cache](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/hermes-deepseek-cache) — Use when running Hermes Agent with a DeepSeek-family model (deepseek, or deepseek-v4-flash/pro via…
+- [memory-ui](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/memory-ui) — Launch the Mnemosyne browser UI to inspect stored memory.
+- [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config,…
+
+</details>
+
+<details>
+<summary><b>Browser Automation</b> · 2 skills</summary>
+
+- [camofox-browser](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/camofox-browser) — Use when sites block bots.
+- [ilearning-autoadvance](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/ilearning-autoadvance) — Autonomously advance HCL iLearning / SAP SuccessFactors compliance courses (Articulate Storyline…
+
+</details>
+
+<details>
+<summary><b>Communication</b> · 4 skills</summary>
+
+- [i-have-adhd](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/i-have-adhd) — Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate…
+- [slack-mention-watch](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-mention-watch) — Use when the user asks about Slack pings, mentions or what they missed, or wants @mention alerts or…
+- [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-scan) — Summarize today's Slack channel activity on demand (bot-member channels).
+- [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user says tldr / TL;DR or asks for a before/after summary.
 
 </details>
 
@@ -69,28 +85,6 @@
 <summary><b>Design</b> · 1 skill</summary>
 
 - [impeccable](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/creative/impeccable) — Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden,…
-
-</details>
-
-<details>
-<summary><b>Slack</b> · 2 skills</summary>
-
-- [slack-mention-watch](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-mention-watch) — Use when the user asks about Slack pings, mentions or what they missed, or wants @mention alerts or…
-- [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-scan) — Summarize today's Slack channel activity on demand (bot-member channels).
-
-</details>
-
-<details>
-<summary><b>ilearning-autoadvance</b> · 1 skill</summary>
-
-- [ilearning-autoadvance](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/ilearning-autoadvance) — Autonomously advance HCL iLearning / SAP SuccessFactors compliance courses (Articulate Storyline…
-
-</details>
-
-<details>
-<summary><b>superpowers</b> · 1 skill</summary>
-
-- [superpowers-using-superpowers](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/superpowers/superpowers-using-superpowers) — Use when starting any conversation - establishes how to find and use skills, requiring skill loading…
 
 </details>
 
