@@ -10,6 +10,7 @@ const START = "<!-- HERMES_SKILLS_START -->";
 const END = "<!-- HERMES_SKILLS_END -->";
 const REPO_URL = "https://github.com/LaansDole/my-hermes-skills";
 const DOCS_URL = "https://laansdole.github.io/my-hermes-skills/";
+const SYNC_WORKFLOW_URL = "https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml";
 const REPORTS_START = "<!-- HERMES_REPORTS_START -->";
 const REPORTS_END = "<!-- HERMES_REPORTS_END -->";
 const REPORTS_URL = "https://laansdole.github.io/my-hermes-skills/reports.html";
@@ -37,6 +38,22 @@ function groupByCategory(skills) {
     .map(([title, list]) => ({ title, skills: list }));
 }
 
+// First sentence (up to the first `. `/`? `/`! ` or end), whitespace-collapsed, capped at `max` on a word boundary.
+function firstSentence(text, max) {
+  const flat = String(text || "").replace(/\s+/g, " ").trim();
+  const m = flat.match(/^.*?[.?!](?= |$)/);
+  const s = m ? m[0] : flat;
+  if (s.length <= max) return s;
+  const cut = s.slice(0, max + 1).lastIndexOf(" ");
+  return (cut > 0 ? s.slice(0, cut) : s.slice(0, max)).trimEnd() + "…";
+}
+
+// shields.io static badge: '-' and '_' must be doubled in label/message.
+function badge(label, message, href) {
+  const esc = (t) => encodeURIComponent(String(t).replace(/-/g, "--").replace(/_/g, "__"));
+  return `[![${label}](https://img.shields.io/badge/${esc(label)}-${esc(message)}-172B4D?style=flat-square)](${href})`;
+}
+
 function renderBlock(data) {
   const sections =
     Array.isArray(data.sections) && data.sections.length
@@ -44,17 +61,22 @@ function renderBlock(data) {
       : groupByCategory(data.skills);
   const lines = [
     "### 🤖 Hermes Skills",
-    `*Auto-synced daily from [my-hermes-skills](${REPO_URL}) · [docs](${DOCS_URL})*`,
+    [
+      badge("skills", data.skills.length, REPO_URL),
+      badge("docs", "my-hermes-skills", DOCS_URL),
+      badge("synced", "daily", SYNC_WORKFLOW_URL),
+    ].join(" "),
     "",
   ];
   for (const sec of sections) {
-    lines.push(`**${sec.title}**`);
+    const n = sec.skills.length;
+    lines.push("<details>", `<summary><b>${sec.title}</b> · ${n} skill${n === 1 ? "" : "s"}</summary>`, "");
     for (const s of sec.skills) {
-      const desc = (s.description || "").replace(/\s+/g, " ").trim();
-      const ver = s.version ? ` (v${s.version})` : "";
+      const desc = firstSentence(s.description, 100).replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      const ver = s.version ? ` <sub>v${s.version}</sub>` : "";
       lines.push(`- [${s.name}](${s.url}) — ${desc}${ver}`);
     }
-    lines.push("");
+    lines.push("", "</details>", "");
   }
   return lines.join("\n").trim() + "\n";
 }
@@ -66,10 +88,9 @@ function renderReportsBlock(reports) {
     "",
   ];
   // ponytail: manifest is newest-first per contract; no re-sort.
-  for (const r of reports.slice(0, 5)) {
+  for (const r of reports.slice(0, 2)) {
     const title = String(r.title).replace(/[[\]]/g, "\\$&");
-    const summary = (r.summary || "").replace(/\s+/g, " ").trim();
-    lines.push(`- **${r.date}** · [${title}](${r.url}) — ${summary}`);
+    lines.push(`- **${r.date}** · [${title}](${r.url}) — ${firstSentence(r.summary, 140)}`);
   }
   return lines.join("\n").trim() + "\n";
 }
@@ -143,6 +164,8 @@ module.exports = {
   fetchManifest,
   groupByCategory,
   renderBlock,
+  badge,
+  firstSentence,
   renderReportsBlock,
   replaceSection,
   initSection,
