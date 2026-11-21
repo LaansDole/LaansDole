@@ -26,7 +26,7 @@ const BETA = {
   url: "https://github.com/LaansDole/my-hermes-skills/tree/main/skills/beta",
 };
 
-test("renderBlock emits header, badge row, collapsed sections, short desc, sub version", () => {
+test("renderBlock emits header, badge row, collapsed sections, short desc, no version", () => {
   const out = renderBlock({
     skills: [ALPHA, BETA],
     sections: [
@@ -47,7 +47,7 @@ test("renderBlock emits header, badge row, collapsed sections, short desc, sub v
   assert.ok(
     out.includes(
       "<details>\n<summary><b>Cat A</b> · 2 skills</summary>\n\n" +
-        "- [alpha](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/alpha) — Does alpha things. <sub>v1.2.0</sub>\n" +
+        "- [alpha](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/alpha) — Does alpha things.\n" +
         "- [beta](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/beta) — Beta desc\n\n</details>"
     )
   );
@@ -126,11 +126,8 @@ const SIX = [6, 5, 4, 3, 2, 1].map((n) => report(n));
 
 test("renderReportsBlock renders header and max 2 newest-first lines", () => {
   const out = renderReportsBlock(SIX);
-  assert.match(out, /^### 📑 Latest Research Reports\n/);
-  assert.match(
-    out,
-    /\*Auto-synced daily from \[my-hermes-skills reports\]\(https:\/\/laansdole\.github\.io\/my-hermes-skills\/reports\.html\)\*/
-  );
+  assert.match(out, /^### 📑 Latest Research Reports\n\n- /);
+  assert.ok(!out.includes("Auto-synced"));
   const items = out.split("\n").filter((l) => l.startsWith("- "));
   assert.equal(items.length, 2);
   assert.equal(

@@ -13,7 +13,6 @@ const DOCS_URL = "https://laansdole.github.io/my-hermes-skills/";
 const SYNC_WORKFLOW_URL = "https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml";
 const REPORTS_START = "<!-- HERMES_REPORTS_START -->";
 const REPORTS_END = "<!-- HERMES_REPORTS_END -->";
-const REPORTS_URL = "https://laansdole.github.io/my-hermes-skills/reports.html";
 const ANCHOR = "### 🤖 Daily Byte of Humor";
 
 async function fetchManifest(url = MANIFEST_URL) {
@@ -73,8 +72,7 @@ function renderBlock(data) {
     lines.push("<details>", `<summary><b>${sec.title}</b> · ${n} skill${n === 1 ? "" : "s"}</summary>`, "");
     for (const s of sec.skills) {
       const desc = firstSentence(s.description, 100).replace(/</g, "&lt;").replace(/>/g, "&gt;");
-      const ver = s.version ? ` <sub>v${s.version}</sub>` : "";
-      lines.push(`- [${s.name}](${s.url}) — ${desc}${ver}`);
+      lines.push(`- [${s.name}](${s.url}) — ${desc}`);
     }
     lines.push("", "</details>", "");
   }
@@ -84,7 +82,6 @@ function renderBlock(data) {
 function renderReportsBlock(reports) {
   const lines = [
     "### 📑 Latest Research Reports",
-    `*Auto-synced daily from [my-hermes-skills reports](${REPORTS_URL})*`,
     "",
   ];
   // ponytail: manifest is newest-first per contract; no re-sort.
