@@ -24,51 +24,76 @@
 ### 📑 Latest Research Reports
 *Auto-synced daily from [my-hermes-skills reports](https://laansdole.github.io/my-hermes-skills/reports.html)*
 
-- **2026-11-14** · [Does an expert persona in the system prompt help or hurt current models? An A/B test and literature review](https://laansdole.github.io/my-hermes-skills/reports/2026-11/2026-11-14-persona-prompting-ab-test.html) — A generic "You are a world-class expert" persona neither helped nor hurt either model in 446 runs: every accuracy difference was within noise (sign-test p ≥ 0.34). It is not a hindrance on these models, but it buys nothing and can be dropped from skills; roles that state scope,…
-- **2026-10-24** · [Should Reladraw replace Mermaid for README diagrams?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-mermaid-vs-reladraw.html) — Keep Mermaid for anything that must render inline in a GitHub README, issue or PR; use Reladraw only for hand-placed architecture or flow diagrams that you are willing to render to SVG and commit, or show on a Pages site.
-- **2026-10-24** · [Why do Hermes voice replies crackle on macOS? afplay cuts Ogg/Opus off after ~1s](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-macos-afplay-ogg-tts-truncation.html) — The audio files were fine; playback was cutting them off. On macOS 15 and later afplay plays about the first second of an Ogg/Opus file and exits 0, so Hermes never falls back to another player. Setting the provider's voice_compatible to false works around it, and PR #132143…
-- **2026-10-15** · [Has oh-my-pi adopted Pi 1.0 and Pi Durable, and should it?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-15-oh-my-pi-vs-pi-1-0-and-pi-durable.html) — No: omp has adopted neither Pi 1.0 nor Pi Durable. It should not rebase onto Pi 1.0, but it should keep closing Pi 1.x extension-compatibility gaps and track Pi Durable's design for its own durability proposals.
-- **2026-10-14** · [Why do omp's small-model agents feel slower on Claude Haiku 5.5 (max) than on GPT-6 Luna (max)?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-14-haiku-5-5-vs-gpt-6-luna-omp-speed.html) — Yes, Haiku 5.5:max is slower, and the cause is :max effort on Haiku, not the model itself. Move scout, reviewer and init from anthropic/claude-haiku-5-5:max to :medium (or :high if review depth suffers), and keep :max only for one-off deep passes.
+- **2026-11-14** · [Does an expert persona in the system prompt help or hurt current models? An A/B test and literature review](https://laansdole.github.io/my-hermes-skills/reports/2026-11/2026-11-14-persona-prompting-ab-test.html) — A generic "You are a world-class expert" persona neither helped nor hurt either model in 446 runs: every accuracy difference was within…
+- **2026-10-24** · [Should Reladraw replace Mermaid for README diagrams?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-mermaid-vs-reladraw.html) — Keep Mermaid for anything that must render inline in a GitHub README, issue or PR; use Reladraw only for hand-placed architecture or flow…
 
 <!-- HERMES_REPORTS_END -->
 
 <!-- HERMES_SKILLS_START -->
 ### 🤖 Hermes Skills
-*Auto-synced daily from [my-hermes-skills](https://github.com/LaansDole/my-hermes-skills) · [docs](https://laansdole.github.io/my-hermes-skills/)*
+[![skills](https://img.shields.io/badge/skills-20-172B4D?style=flat-square)](https://github.com/LaansDole/my-hermes-skills) [![docs](https://img.shields.io/badge/docs-my--hermes--skills-172B4D?style=flat-square)](https://laansdole.github.io/my-hermes-skills/) [![synced](https://img.shields.io/badge/synced-daily-172B4D?style=flat-square)](https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml)
 
-**Research**
-- [covidence-full-text-retrieval](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-full-text-retrieval) — Autonomously retrieve full-text PDFs for references in the full-text review stage of a Covidence systematic review, in the user's Chrome session via CDP. Looks up open-access copies via Unpaywall, Semantic Scholar, and arXiv, with an optional NotebookLM-assisted last-resort web search, then uploads any PDF it finds through Covidence's "Upload full text" action. References with no locatable full text get a note logged for manual follow-up. Never casts an Include/Exclude decision -- that stays manual. (v1.2.0)
-- [covidence-full-text-review](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-full-text-retrieval/covidence-full-text-review) — Review full-text papers in a Covidence systematic review. Mode 1 (websearch_queue): walks the Covidence queue, web-searches each title, opens the first result in the papers-access browser profile, reads the full text, and reports verdicts in chat (no Covidence writes). Mode 2 (secondary_reviewer): receives a URL from the user, reads the paper, returns a structured Include/Exclude verdict with rationale, and optionally casts the vote in Covidence when a ref_id is supplied. (v2.0.0)
-- [covidence-screening](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-screening) — Autonomously screen references at the title & abstract stage of a Covidence systematic review in the user's Chrome session via CDP. Votes Yes/Maybe/No per the user's PICO criteria, writes a one-line rationale for Maybe votes, and runs unattended after an approve-first-N onboarding phase. (v1.0.0)
-- [sci-hub-access](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/sci-hub-access) — Use when a paywalled DOI's full text is needed and no open-access copy exists — retrieving PDFs via Sci-Hub mirrors, and joining/using Sci-Net (sci-net.xyz) for post-2022 papers. Covers mirror discovery, direct PDF fetch, Turnstile gate, and the Sci-Net invite-code API. (v1.1.0)
+<details>
+<summary><b>Research</b> · 4 skills</summary>
 
-**Productivity**
-- [auditing-worktrees](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/auditing-worktrees) — Use when asked for the status of worktrees, which worktree branches are ready to review, pushed, merged or shipped, which worktrees are stale, idle or purgeable, or for a periodic worktree audit across one or several repos (v1.0.0)
-- [camofox-browser](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/camofox-browser) — Use when sites block bots. Start Camofox, saved logins. (v1.0.0)
-- [demo-runbook](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/demo-runbook) — Use when asked for a runbook demo. Real runs, video, Pages. (v0.1.0)
-- [hermes-deepseek-cache](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/hermes-deepseek-cache) — Use when running Hermes Agent with a DeepSeek-family model (deepseek, or deepseek-v4-flash/pro via an aggregator like opencode-go) and want to see, graph, or reset DeepSeek's prefix-cache hit rate, diagnose cache misses, or confirm the deepseek_cache.enabled config — OR when you want to port/apply the deepseek_cache.py module (DeepSeek prefix-cache telemetry, /cache-stats /cache-graph /cache-reset, prefix-break diagnostics, stable tool ordering, cache-friendly compaction) into a Hermes source tree. Covers use + integration. (v1.1.0)
-- [i-have-adhd](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/i-have-adhd) — Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until "stop adhd mode".
+- [covidence-full-text-retrieval](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-full-text-retrieval) — Autonomously retrieve full-text PDFs for references in the full-text review stage of a Covidence… <sub>v1.2.0</sub>
+- [covidence-full-text-review](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-full-text-retrieval/covidence-full-text-review) — Review full-text papers in a Covidence systematic review. <sub>v2.0.0</sub>
+- [covidence-screening](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/covidence-screening) — Autonomously screen references at the title & abstract stage of a Covidence systematic review in the… <sub>v1.0.0</sub>
+- [sci-hub-access](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/sci-hub-access) — Use when a paywalled DOI's full text is needed and no open-access copy exists — retrieving PDFs via… <sub>v1.1.0</sub>
+
+</details>
+
+<details>
+<summary><b>Productivity</b> · 10 skills</summary>
+
+- [auditing-worktrees](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/auditing-worktrees) — Use when asked for the status of worktrees, which worktree branches are ready to review, pushed,… <sub>v1.0.0</sub>
+- [camofox-browser](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/camofox-browser) — Use when sites block bots. <sub>v1.0.0</sub>
+- [demo-runbook](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/demo-runbook) — Use when asked for a runbook demo. <sub>v0.1.0</sub>
+- [hermes-deepseek-cache](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/hermes-deepseek-cache) — Use when running Hermes Agent with a DeepSeek-family model (deepseek, or deepseek-v4-flash/pro via… <sub>v1.1.0</sub>
+- [i-have-adhd](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/i-have-adhd) — Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate…
 - [memory-ui](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/memory-ui) — Launch the Mnemosyne browser UI to inspect stored memory.
-- [multi-repo-pr-review-merge-round](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/multi-repo-pr-review-merge-round) — Use when burning a metered omp model budget on PR/worktree review across repos. Coordinator queues omp -p review lanes, verifies, merges, re-spawns each usage window until month end. (v1.0.0)
-- [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config, fastfetch on new-terminal startup, and bat/eza/zoxide aliases for zsh. (v1.0.0)
-- [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user says tldr / TL;DR or asks for a before/after summary. (v1.1.0)
-- [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any 'give me the report' request. (v2.0.0)
+- [multi-repo-pr-review-merge-round](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/multi-repo-pr-review-merge-round) — Use when burning a metered omp model budget on PR/worktree review across repos. <sub>v1.0.0</sub>
+- [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config,… <sub>v1.0.0</sub>
+- [tldr](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/tldr) — Use when the user says tldr / TL;DR or asks for a before/after summary. <sub>v1.1.0</sub>
+- [writing-reports](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/writing-reports) — Use when the user asks for a report, research write-up, benchmark/model/tool comparison, or any… <sub>v2.0.0</sub>
 
-**Coding Agents**
+</details>
+
+<details>
+<summary><b>Coding Agents</b> · 1 skill</summary>
+
 - [oh-my-pi](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/oh-my-pi) — Troubleshoot/operate the Oh-My-Pi (omp) coding agent.
 
-**Design**
-- [impeccable](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/creative/impeccable) — Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden, animate, or otherwise improve a frontend interface: websites, landing pages, dashboards, product UI, components, forms, settings, onboarding, empty states, and native iOS or Android screens. Handles UX review, hierarchy, layout, typography, color, motion, UX copy, accessibility, responsive behavior, edge cases, and capturing or documenting design systems (DESIGN.md, tokens). Also for making bland UI bolder, loud UI quieter, or ambitious visual effects. Not for backend-only or non-UI tasks. (v4.9.0)
+</details>
 
-**Slack**
-- [slack-mention-watch](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-mention-watch) — Use when the user asks about Slack pings, mentions or what they missed, or wants @mention alerts or a triaged digest while away; can opt-in auto-react (:eyes: to questions, :raised_hands: to thanks) and opt-in start a background read-only review agent for PRs it is asked to review. (v2.7.1)
-- [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-scan) — Summarize today's Slack channel activity on demand (bot-member channels). NOT for pings/mentions -- use slack-mention-watch. (v1.0.0)
+<details>
+<summary><b>Design</b> · 1 skill</summary>
 
-**ilearning-autoadvance**
-- [ilearning-autoadvance](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/ilearning-autoadvance) — Autonomously advance HCL iLearning / SAP SuccessFactors compliance courses (Articulate Storyline SCORM, Ethena GoEthena, or direct-HTML SVG players) via raw CDP on port 9222. Resumes paused audio, clicks interactive slide topics/cards, answers quizzes, navigates to the next slide. (v5.0.0)
+- [impeccable](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/creative/impeccable) — Use when the user wants to design, redesign, shape, critique, audit, polish, simplify, harden,… <sub>v4.9.0</sub>
 
-**superpowers**
-- [superpowers-using-superpowers](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/superpowers/superpowers-using-superpowers) — Use when starting any conversation - establishes how to find and use skills, requiring skill loading (skill_view) before ANY response including clarifying questions (v1.0.0)
+</details>
+
+<details>
+<summary><b>Slack</b> · 2 skills</summary>
+
+- [slack-mention-watch](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-mention-watch) — Use when the user asks about Slack pings, mentions or what they missed, or wants @mention alerts or… <sub>v2.7.1</sub>
+- [slack-scan](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/slack/slack-scan) — Summarize today's Slack channel activity on demand (bot-member channels). <sub>v1.0.0</sub>
+
+</details>
+
+<details>
+<summary><b>ilearning-autoadvance</b> · 1 skill</summary>
+
+- [ilearning-autoadvance](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/ilearning-autoadvance) — Autonomously advance HCL iLearning / SAP SuccessFactors compliance courses (Articulate Storyline… <sub>v5.0.0</sub>
+
+</details>
+
+<details>
+<summary><b>superpowers</b> · 1 skill</summary>
+
+- [superpowers-using-superpowers](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/superpowers/superpowers-using-superpowers) — Use when starting any conversation - establishes how to find and use skills, requiring skill loading… <sub>v1.0.0</sub>
+
+</details>
 
 <!-- HERMES_SKILLS_END -->
 
