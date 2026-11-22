@@ -6,6 +6,7 @@ const fs = require("fs");
 const MANIFEST_URL =
   "https://raw.githubusercontent.com/LaansDole/my-hermes-skills/main/skills.json";
 const README_PATH = "README.md";
+const PORTFOLIO_PATH = "docs/index.md";
 const START = "<!-- HERMES_SKILLS_START -->";
 const END = "<!-- HERMES_SKILLS_END -->";
 const REPO_URL = "https://github.com/LaansDole/my-hermes-skills";
@@ -93,6 +94,22 @@ function renderReportsBlock(reports) {
   return lines.join("\n").trim() + "\n";
 }
 
+const escapeHtml = (s) =>
+  String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+// Raw HTML for the MkDocs portfolio page: no blank lines, so Python-Markdown passes it through as one block.
+function renderPortfolioReports(reports) {
+  const items = reports.slice(0, 5).map(
+    (r) =>
+      `<li><a class="report" href="${escapeHtml(r.url)}">` +
+      `<time datetime="${escapeHtml(r.date)}">${escapeHtml(r.date)}</time>` +
+      `<span class="report__title">${escapeHtml(r.title)}</span>` +
+      `<span class="report__summary">${escapeHtml(firstSentence(r.summary, 220))}</span>` +
+      `</a></li>`
+  );
+  return `<ol class="reports">\n${items.join("\n")}\n</ol>\n`;
+}
+
 function replaceSection(readme, block, start = START, end = END) {
   const startIdx = readme.indexOf(start);
   const endIdx = readme.indexOf(end);
@@ -143,12 +160,16 @@ async function main() {
   const data = await fetchManifest();
   const readme = fs.readFileSync(README_PATH, "utf8");
   const { readme: next, changed } = syncReadme(readme, data, { init });
-  if (!changed) {
-    console.log("no change");
-    return;
+  if (changed) fs.writeFileSync(README_PATH, next);
+
+  let portfolioChanged = false;
+  if (Array.isArray(data.reports)) {
+    const page = fs.readFileSync(PORTFOLIO_PATH, "utf8");
+    const nextPage = replaceSection(page, renderPortfolioReports(data.reports), REPORTS_START, REPORTS_END);
+    portfolioChanged = nextPage !== page;
+    if (portfolioChanged) fs.writeFileSync(PORTFOLIO_PATH, nextPage);
   }
-  fs.writeFileSync(README_PATH, next);
-  console.log("updated Hermes skills and reports sections");
+  console.log(changed || portfolioChanged ? "updated README and portfolio sections" : "no change");
 }
 
 if (require.main === module) {
@@ -165,6 +186,7 @@ module.exports = {
   badge,
   firstSentence,
   renderReportsBlock,
+  renderPortfolioReports,
   replaceSection,
   initSection,
   syncReadme,
