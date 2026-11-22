@@ -92,4 +92,4 @@
 
 ### Daily Byte of Humor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 
-<h3><strong>So what's a set of predefined steps the government might take to preserve the environment?</strong></h3><h4><i>An Al-Gore-ithm.</i></h4>
+<h3><strong>What do you call a caveman's fart?</strong></h3><h4><i>A blast from the past.</i></h4>
