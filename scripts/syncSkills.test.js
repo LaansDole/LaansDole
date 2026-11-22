@@ -108,6 +108,7 @@ test("initSection inserts markers before the joke anchor", () => {
 
 const {
   renderReportsBlock,
+  renderPortfolioReports,
   syncReadme,
   REPORTS_START,
   REPORTS_END,
@@ -143,6 +144,15 @@ test("renderReportsBlock escapes brackets in titles and collapses summary whites
   ]);
   assert.match(out, /\[A \\\[b\\\] c\]\(/);
   assert.match(out, /— line one line two$/m);
+});
+
+test("renderPortfolioReports emits 5 newest as one blank-line-free HTML block, escaped", () => {
+  const out = renderPortfolioReports([report(7, { title: 'A <b> & "q"' }), ...SIX]);
+  assert.ok(!/\n\s*\n/.test(out.trim()), "blank line would end the raw HTML block in Markdown");
+  assert.equal((out.match(/<li>/g) || []).length, 5);
+  assert.match(out, /<span class="report__title">A &lt;b&gt; &amp; &quot;q&quot;<\/span>/);
+  assert.match(out, /<time datetime="2026-11-07">2026-11-07<\/time>/);
+  assert.ok(!out.includes("report-2.html"));
 });
 
 test("renderReportsBlock keeps only the first sentence, capped at 140 chars", () => {

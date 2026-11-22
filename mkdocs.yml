@@ -5,7 +5,7 @@ site_description: My README Profile on GitHub
 repo_url: https://github.com/LaansDole/LaansDole
 
 nav:
-  - My Skills <i class="fa-solid fa-address-card"></i>: index.md 
+  - About Me <i class="fa-solid fa-address-card"></i>: index.md
   - Daily DevOps <i class="fa-solid fa-gears"></i>: daily-devops.md
   - Terminal Portfolio <i class="fa-solid fa-terminal"></i>: cli.md
 

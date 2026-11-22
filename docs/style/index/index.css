@@ -60,10 +60,149 @@ img {
     overflow-x: hidden;
 }
 
-#codeit {
-    display: none;
+::selection {
+    background: var(--md-accent-fg-color--transparent);
+}
 
-    @media screen and (max-width: 426px) {
-        display: block;
+/* Profile header */
+.profile {
+    display: grid;
+    justify-items: center;
+    gap: 0.75rem;
+    text-align: center;
+}
+
+.profile__links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.md-typeset .profile__links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.4em 0.95em;
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 999px;
+    color: var(--md-default-fg-color);
+    font-weight: 600;
+    transition: border-color 0.2s ease-out, color 0.2s ease-out;
+}
+
+.md-typeset .profile__links a:hover,
+.md-typeset .profile__links a:focus-visible {
+    border-color: var(--md-accent-fg-color);
+    color: var(--md-accent-fg-color);
+}
+
+/* Wide details card on top, streak + stats side by side; collapses to one column on narrow screens. */
+.profile__stats {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 338px));
+    justify-content: center;
+    gap: 0.75rem;
+}
+
+.profile__stats a:first-child {
+    grid-column: 1 / -1;
+}
+
+.profile__stats img {
+    width: 100%;
+}
+
+.profile__stats img,
+.profile__typing {
+    margin-top: 0 !important;
+}
+
+@media screen and (max-width: 720px) {
+    .profile__stats {
+        grid-template-columns: minmax(0, 338px);
+    }
+}
+
+/* Latest research */
+.reports-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 3rem;
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .reports-head h2 {
+    margin: 0 0 0.6rem;
+}
+
+.md-typeset .reports-head a {
+    white-space: nowrap;
+    font-weight: 600;
+}
+
+.md-typeset ol.reports {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.md-typeset ol.reports li {
+    margin: 0;
+    border-bottom: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .report {
+    display: grid;
+    grid-template-columns: 6.5rem 1fr;
+    column-gap: 1.5rem;
+    row-gap: 0.3rem;
+    padding: 1.1rem 0.25rem;
+    color: inherit;
+}
+
+.report time {
+    grid-row: span 2;
+    padding-top: 0.2em;
+    color: var(--md-default-fg-color--light);
+    font-size: 0.85em;
+    font-variant-numeric: tabular-nums;
+}
+
+.report__title {
+    color: var(--md-default-fg-color);
+    font-size: 1.1em;
+    font-weight: 600;
+    line-height: 1.35;
+    text-wrap: balance;
+    transition: color 0.2s ease-out;
+}
+
+.report__summary {
+    max-width: 70ch;
+    color: var(--md-default-fg-color--light);
+    line-height: 1.55;
+}
+
+.md-typeset .report:hover .report__title,
+.md-typeset .report:focus-visible .report__title {
+    color: var(--md-accent-fg-color);
+}
+
+.md-typeset .report:focus-visible {
+    outline: 2px solid var(--md-accent-fg-color);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 600px) {
+    .md-typeset .report {
+        grid-template-columns: 1fr;
+    }
+
+    .report time {
+        grid-row: auto;
     }
 }
