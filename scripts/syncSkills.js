@@ -13,7 +13,8 @@ const DOCS_URL = "https://laansdole.github.io/my-hermes-skills/";
 const SYNC_WORKFLOW_URL = "https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml";
 const REPORTS_START = "<!-- HERMES_REPORTS_START -->";
 const REPORTS_END = "<!-- HERMES_REPORTS_END -->";
-const ANCHOR = "### 🤖 Daily Byte of Humor";
+const ASSETS = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets";
+const ANCHOR = "### Daily Byte of Humor";
 
 async function fetchManifest(url = MANIFEST_URL) {
   const res = await fetch(url, { headers: { "User-Agent": "syncSkills" } });
@@ -59,7 +60,7 @@ function renderBlock(data) {
       ? data.sections
       : groupByCategory(data.skills);
   const lines = [
-    "### 🤖 Hermes Skills",
+    `### Hermes Skills <img src="${ASSETS}/powerup.gif" width="29px">`,
     [
       badge("skills", data.skills.length, REPO_URL),
       badge("docs", "my-hermes-skills", DOCS_URL),
@@ -81,7 +82,7 @@ function renderBlock(data) {
 
 function renderReportsBlock(reports) {
   const lines = [
-    "### 📑 Latest Research Reports",
+    `### Latest Research Reports <img src="${ASSETS}/PC.gif" width="29px">`,
     "",
   ];
   // ponytail: manifest is newest-first per contract; no re-sort.
