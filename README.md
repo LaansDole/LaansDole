@@ -21,7 +21,7 @@
 * Open source contributor: [OpenBMB/ChatDev 2.0](https://github.com/OpenBMB/ChatDev), [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything).
 
 <!-- HERMES_REPORTS_START -->
-### 📑 Latest Research Reports
+### Latest Research Reports <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px">
 
 - **2026-11-14** · [Does an expert persona in the system prompt help or hurt current models? An A/B test and literature review](https://laansdole.github.io/my-hermes-skills/reports/2026-11/2026-11-14-persona-prompting-ab-test.html) — A generic "You are a world-class expert" persona neither helped nor hurt either model in 446 runs: every accuracy difference was within…
 - **2026-10-24** · [Should Reladraw replace Mermaid for README diagrams?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-mermaid-vs-reladraw.html) — Keep Mermaid for anything that must render inline in a GitHub README, issue or PR; use Reladraw only for hand-placed architecture or flow…
@@ -29,7 +29,7 @@
 <!-- HERMES_REPORTS_END -->
 
 <!-- HERMES_SKILLS_START -->
-### 🤖 Hermes Skills
+### Hermes Skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 [![skills](https://img.shields.io/badge/skills-20-172B4D?style=flat-square)](https://github.com/LaansDole/my-hermes-skills) [![docs](https://img.shields.io/badge/docs-my--hermes--skills-172B4D?style=flat-square)](https://laansdole.github.io/my-hermes-skills/) [![synced](https://img.shields.io/badge/synced-daily-172B4D?style=flat-square)](https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml)
 
 <details>
@@ -90,6 +90,6 @@
 
 <!-- HERMES_SKILLS_END -->
 
-### 🤖 Daily Byte of Humor
+### Daily Byte of Humor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 
 <h3><strong>So what's a set of predefined steps the government might take to preserve the environment?</strong></h3><h4><i>An Al-Gore-ithm.</i></h4>

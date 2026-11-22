@@ -35,7 +35,7 @@ test("renderBlock emits header, badge row, collapsed sections, short desc, no ve
     ],
   });
   const lines = out.split("\n");
-  assert.equal(lines[0], "### 🤖 Hermes Skills");
+  assert.match(lines[0], /^### Hermes Skills <img src="[^"]+\/powerup\.gif" width="29px">$/);
   assert.equal(
     lines[1],
     "[![skills](https://img.shields.io/badge/skills-2-172B4D?style=flat-square)](https://github.com/LaansDole/my-hermes-skills) " +
@@ -126,7 +126,7 @@ const SIX = [6, 5, 4, 3, 2, 1].map((n) => report(n));
 
 test("renderReportsBlock renders header and max 2 newest-first lines", () => {
   const out = renderReportsBlock(SIX);
-  assert.match(out, /^### 📑 Latest Research Reports\n\n- /);
+  assert.match(out, /^### Latest Research Reports <img src="[^"]+\/PC\.gif" width="29px">\n\n- /);
   assert.ok(!out.includes("Auto-synced"));
   const items = out.split("\n").filter((l) => l.startsWith("- "));
   assert.equal(items.length, 2);
