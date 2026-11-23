@@ -92,4 +92,4 @@
 
 ### Daily Byte of Humor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 
-<h3><strong>I can't believe I got fired from the calendar factory.</strong></h3><h4><i>All I did was take a day off.</i></h4>
+<h3><strong>What do you call a pile of kittens?</strong></h3><h4><i>A meowntain.</i></h4>
