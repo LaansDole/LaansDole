@@ -23,8 +23,8 @@
 <!-- HERMES_REPORTS_START -->
 ### Latest Research Reports <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px">
 
+- **2026-11-22** · [Building ai-please-learn: a browser lab where neural networks visibly learn games, built in 28 hours by coordinated coding agents](https://laansdole.github.io/my-hermes-skills/reports/2026-11/2026-11-22-ai-please-learn-build-report.html) — ai-please-learn works as intended: all six built-in games and LLM-written games train visibly in the browser with three learning methods,…
 - **2026-11-14** · [Does an expert persona in the system prompt help or hurt current models? An A/B test and literature review](https://laansdole.github.io/my-hermes-skills/reports/2026-11/2026-11-14-persona-prompting-ab-test.html) — A generic "You are a world-class expert" persona neither helped nor hurt either model in 446 runs: every accuracy difference was within…
-- **2026-10-24** · [Should Reladraw replace Mermaid for README diagrams?](https://laansdole.github.io/my-hermes-skills/reports/2026-10/2026-10-24-mermaid-vs-reladraw.html) — Keep Mermaid for anything that must render inline in a GitHub README, issue or PR; use Reladraw only for hand-placed architecture or flow…
 
 <!-- HERMES_REPORTS_END -->
 
