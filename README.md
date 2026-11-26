@@ -92,4 +92,4 @@
 
 ### Daily Byte of Humor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 
-<h3><strong>Why is 6 afraid of 7 in hexadecimal Canada?</strong></h3><h4><i>Because 7 8 9 A?</i></h4>
+<h3><strong>Why should you never talk to pi?</strong></h3><h4><i>Because it will go on forever.</i></h4>
