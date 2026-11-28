@@ -92,4 +92,4 @@
 
 ### Daily Byte of Humor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="29px">
 
-<h3><strong>Why is Linux safe?</strong></h3><h4><i>Hackers peak through Windows only.</i></h4>
+<h3><strong>Why did the programmer jump on the table?</strong></h3><h4><i>Because debug was on his screen.</i></h4>
