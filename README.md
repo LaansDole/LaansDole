@@ -30,7 +30,7 @@
 
 <!-- HERMES_SKILLS_START -->
 ### Hermes Skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-[![skills](https://img.shields.io/badge/skills-20-172B4D?style=flat-square)](https://github.com/LaansDole/my-hermes-skills) [![docs](https://img.shields.io/badge/docs-my--hermes--skills-172B4D?style=flat-square)](https://laansdole.github.io/my-hermes-skills/) [![synced](https://img.shields.io/badge/synced-daily-172B4D?style=flat-square)](https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml)
+[![skills](https://img.shields.io/badge/skills-21-172B4D?style=flat-square)](https://github.com/LaansDole/my-hermes-skills) [![docs](https://img.shields.io/badge/docs-my--hermes--skills-172B4D?style=flat-square)](https://laansdole.github.io/my-hermes-skills/) [![synced](https://img.shields.io/badge/synced-daily-172B4D?style=flat-square)](https://github.com/LaansDole/LaansDole/actions/workflows/sync-skills.yml)
 
 <details>
 <summary><b>Research & Writing</b> · 5 skills</summary>
@@ -55,10 +55,11 @@
 </details>
 
 <details>
-<summary><b>Agent & Machine Setup</b> · 3 skills</summary>
+<summary><b>Agent & Machine Setup</b> · 4 skills</summary>
 
 - [hermes-deepseek-cache](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/hermes-deepseek-cache) — Use when running Hermes Agent with a DeepSeek-family model (deepseek, or deepseek-v4-flash/pro via…
 - [memory-ui](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/memory-ui) — Launch the Mnemosyne browser UI to inspect stored memory.
+- [mnemosyne-obsidian-mirror](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/mnemosyne-obsidian-mirror) — Use when mirroring Mnemosyne into Obsidian.
 - [oh-my-ghostty](https://github.com/LaansDole/my-hermes-skills/tree/main/skills/productivity/oh-my-ghostty) — Use when setting up or refreshing the oh-my-ghostty terminal stack on macOS - Ghostty config,…
 
 </details>
